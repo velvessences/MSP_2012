@@ -9,7 +9,8 @@ app.use(express.static('public'));
 app.use(express.raw({ type: '*/*', limit: '50mb' }));
 
 // 3. THE INTERCEPTOR: Catch all API traffic and print it
-app.all('*', (req, res) => {
+// (Updated for Express 5 compatibility!)
+app.use((req, res) => {
     console.log('\n========================================');
     console.log(`🔥 INCOMING REQUEST FROM GAME!`);
     console.log(`URL Requested:  ${req.url}`);

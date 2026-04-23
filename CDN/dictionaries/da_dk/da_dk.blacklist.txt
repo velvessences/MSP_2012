@@ -1,0 +1,399 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+svin	1	0	0	0	1	0
+oral	1	0	0	0	1	0
+anal	1	1	0	1	1	0
+lebbe	1	0	0	0	1	0
+pik	1	0	1	1	1	0
+kusse	1	0	1	0	1	0
+kuse	1	0	1	0	1	0
+fisse	1	1	1	1	1	0
+fise	1	1	0	1	1	0
+røvhul	1	0	0	0	1	0
+luder	1	0	1	0	1	0
+ludder	1	0	1	0	1	0
+dulle	1	0	0	0	1	0
+kneppe	1	1	1	0	1	0
+knepe	1	1	1	0	1	0
+diller	1	0	1	0	1	0
+diler	1	0	1	0	1	0
+bøsse	1	0	0	0	1	0
+homo	1	0	0	0	1	0
+kælling	1	0	1	0	1	0
+bolle	1	1	1	1	1	0
+narrøv	1	0	1	0	1	0
+gay	1	0	1	0	1	0
+tissemand	0	0	1	1	1	0
+tisemand	0	0	1	1	1	0
+perker	1	0	1	0	1	0
+nigger	1	0	1	0	1	0
+shit	1	0	0	0	1	0
+dule	1	0	0	0	1	0
+sæk	1	0	0	0	1	0
+klit	1	0	0	1	0	0
+røv	1	0	0	0	1	0
+p!k	1	0	0	0	1	0
+piik	1	0	0	0	1	0
+piiik	1	0	0	0	1	0
+s£x	1	0	0	0	1	0
+sex	1	0	1	0	1	0
+seex	1	0	0	0	1	0
+seeex	1	0	0	0	1	0
+sexx	1	0	1	0	1	0
+fucking	1	1	0	0	1	0
+fuck	0	0	1	0	1	0
+orgasme	1	0	0	1	1	0
+p1k	1	0	0	0	1	0
+fizz	1	0	0	0	1	0
+fizze	1	0	0	0	1	0
+fuck!ng	1	1	0	0	1	0
+s£	1	0	0	0	1	0
+s#x	1	0	0	0	1	0
+s3x	1	0	0	0	1	0
+lort	1	0	0	0	1	0
+cam	1	0	0	1	0	0
+patter	1	0	0	0	1	0
+seeeex	1	0	0	0	1	0
+voldtage	1	0	0	0	1	0
+kneppet	1	1	0	0	1	0
+webcam	1	0	0	1	1	0
+fucck	1	0	0	0	1	0
+s''x	1	0	0	0	1	0
+s"x	1	0	0	0	1	0
+fxck	1	0	0	0	1	0
+fxcker	1	0	0	0	1	0
+bålle	1	0	0	0	1	0
+Røvpuler	1	0	0	0	1	0
+rape	1	0	0	1	0	0
+raper	1	0	0	0	1	0
+f i s s e	1	1	0	1	1	0
+læbbe	1	0	0	0	1	0
+voldkn3ppe	1	0	0	0	1	0
+sxs	1	0	0	0	1	0
+knalle	1	1	0	0	1	0
+b!tch	1	0	0	0	1	0
+brolle	1	0	0	0	1	0
+l_der	1	0	0	0	1	0
+nigga	1	0	0	0	1	0
+stripper	1	0	0	0	1	0
+lesbisk	1	0	0	0	1	0
+røvkælling	1	0	0	0	1	0
+selvmord	1	1	1	1	1	0
+pikk	1	0	0	0	1	0
+voltage	1	0	0	0	1	0
+porno	1	1	1	1	1	0
+p0rno	1	0	0	0	1	0
+p0rn0	1	0	0	0	1	0
+porn0	1	1	1	1	1	0
+pono	1	0	0	0	1	0
+ssex	1	0	1	0	1	0
+l3bbe	1	0	0	0	1	0
+l3bber	1	0	0	0	1	0
+facking	1	0	0	0	1	0
+fåking	1	0	0	0	1	0
+fåcking	1	0	0	0	1	0
+voldtægt	1	1	1	1	1	0
+kælliiing	1	0	0	0	1	0
+kælliing	1	0	0	0	1	0
+pædo	1	0	0	1	0	0
+liderlig	0	0	0	1	1	0
+pikhoved	1	0	0	0	1	0
+ornaneret	1	0	0	1	1	0
+ornanere	1	0	0	1	1	0
+voldtag	1	1	0	0	1	0
+2 Guys 1 Horse	1	0	0	0	1	0
+2 guys 1 stump	1	0	0	0	1	0
+2girls 1cup	1	0	0	0	1	0
+2girls1cup	1	0	0	0	1	0
+Prolapse Man	1	0	0	0	1	0
+TubGirl	1	0	0	0	1	0
+pikantilope	1	0	0	0	1	0
+røvspasser	1	0	0	0	1	0
+piksvin	1	0	0	0	1	0
+drug	1	1	0	0	1	0
+weeeed	1	0	0	0	1	0
+cannabis	1	0	0	0	1	0
+cocain	1	1	1	0	1	0
+drugs	1	0	0	0	1	0
+hash	1	0	0	0	1	0
+marijuana	1	1	1	0	1	0
+1 Girl 1 Pitcher	1	0	0	0	1	0
+1 Guy 1 Cock	1	0	0	0	1	0
+1 man 1 jar	1	0	0	0	1	0
+1 Priest 1 Nun	1	0	0	0	1	0
+1man1jar	1	0	0	0	1	0
+2 girls 1 cup	1	0	0	0	1	0
+2 girls 1 finger	1	0	0	0	1	0
+2girls 1finger	1	0	0	0	1	0
+2girls1cup	1	0	0	0	1	0
+2girls1finger	1	0	0	0	1	0
+2guys 1stump	1	0	0	0	1	0
+2guys1stump	1	0	0	0	1	0
+3 Guys 1 Hammer	1	0	0	0	1	0
+3guys 1hammer	1	0	0	0	1	0
+3guys1hammer	1	0	0	0	1	0
+4 Girls Fingerpaint	1	0	0	0	1	0
+4girls fingerpaint	1	0	0	0	1	0
+4girlsfingerpaint	1	0	0	0	1	0
+alcohol	1	0	0	0	1	0
+ass lick	1	0	0	0	1	0
+asses	1	0	0	0	1	0
+bøserøvv	1	0	0	0	1	0
+strip	1	0	0	0	1	0
+snaver	1	0	0	0	1	0
+bh	1	0	0	1	0	0
+trusser	1	0	0	1	1	0
+dræbe	1	1	0	0	1	0
+dræber	1	1	0	0	1	0
+voldtaget	1	0	0	1	1	0
+pervers	1	0	0	1	1	0
+k#eppe	1	0	0	0	1	0
+samleje	1	1	0	1	1	0
+plk	1	0	0	0	1	0
+piksllkker	1	0	0	0	1	0
+plksilkker	1	0	0	0	1	0
+fück	1	0	0	0	1	0
+lüdër	1	0	0	0	1	0
+lüder	1	0	0	0	1	0
+ludër	1	0	0	0	1	0
+pis	1	0	0	0	1	0
+p!s	1	0	0	0	1	0
+sexuelt	1	0	1	0	1	0
+sexuelt missbrugt	1	0	1	0	1	0
+sexuelt misbrugt	1	0	1	1	1	0
+r@vpuler	1	0	0	0	1	0
+mobil nummer	1	0	0	1	1	0
+kokain	1	0	0	0	1	0
+kondom	1	0	1	1	1	0
+sæd	1	0	1	0	1	0
+sperme	1	0	0	0	1	0
+fjams	1	0	0	1	1	0
+fisseslikker	1	0	0	1	1	0
+fisser	1	1	0	1	1	0
+dildo	1	1	1	1	1	0
+dildoer	1	1	1	0	1	0
+nar røv	1	0	0	0	1	0
+ejakulere	1	1	1	1	1	0
+fingerkneppe	1	1	0	1	1	0
+fingerkneppet	1	1	1	1	1	0
+fingerknepper	1	1	1	1	1	0
+fingerkneppere	1	1	1	1	1	0
+liderligst	0	0	0	1	1	0
+røvbanan	1	0	0	0	1	0
+pikken	1	0	0	0	1	0
+p!kken	1	0	0	0	1	0
+plkken	1	0	0	0	1	0
+facebook	1	0	0	1	0	0
+skybe	1	0	0	0	1	0
+facen	1	0	0	1	0	0
+fücker	1	0	0	0	1	0
+nøgen	1	0	0	1	1	0
+truser	1	0	0	1	1	0
+g-streng	1	0	0	1	1	0
+gstreng	1	0	0	1	1	0
+p#k	1	0	0	0	1	0
+duller	1	0	0	0	1	0
+lëbbe	1	0	0	0	1	0
+röv	1	0	0	0	1	0
+fræk	1	0	0	1	1	0
+frækt	1	0	0	1	1	0
+frække	1	0	0	1	1	0
+læbber	1	0	0	0	1	0
+pikslikker	1	0	0	0	1	0
+p!kslikker	1	0	0	0	1	0
+pikslik	1	0	0	0	1	0
+p!kslik	1	0	0	0	1	0
+róv	1	0	0	0	1	0
+r´ven	1	0	0	0	1	0
+tissekone	1	0	1	1	1	0
+tissekoner	1	0	1	1	1	0
+t!issekone	1	0	0	0	1	0
+t!ssekoner	1	0	0	0	1	0
+tisse	1	0	0	0	1	0
+t!sse	1	0	0	0	1	0
+pisse	1	0	0	0	1	0
+p!sse	1	0	0	0	1	0
+t"ssekone	1	0	0	0	1	0
+t"ssekoner	1	0	0	0	1	0
+knalde	1	1	0	0	1	0
+klunker	1	0	0	0	1	0
+kluunker	1	0	0	0	1	0
+knaldevenner	1	1	0	1	1	0
+nar	1	0	0	0	1	0
+pissekone	1	0	0	0	1	0
+pissemand	1	0	0	0	1	0
+fedeperker	1	0	0	0	1	0
+pen15	1	0	0	0	1	0
+alkohol	1	0	0	0	1	0
+brystholder	1	0	0	1	0	0
+kærester i virkeligheden	1	0	0	1	0	0
+homosxuel	1	0	0	0	1	0
+llderlig	1	0	0	1	1	0
+slik min	1	0	0	1	0	0
+læg dig ned	1	0	0	1	0	0
+mødes i virkeligheden	1	0	0	1	0	0
+telefonnummer	1	0	0	1	0	0
+billede af dig	1	0	0	1	0	0
+sende et billede	1	0	0	1	0	0
+sex legetøj	1	0	1	1	0	0
+sexpartner	1	0	1	1	1	0
+trekant	1	0	0	1	0	0
+undertøj	1	0	0	1	0	0
+vil du ha s	1	0	0	1	0	0
+hvordan ser du ud	1	0	0	1	0	0
+hvordan ser din krop ud	1	0	0	1	0	0
+hvad er din email	1	0	0	1	0	0
+hvem vil have	1	0	0	1	0	0
+nymfoman	1	0	0	0	1	0
+face	1	0	0	1	0	0
+bryster	1	0	0	1	1	0
+røven	1	0	0	0	1	0
+jeg boller	1	1	0	1	1	0
+vi boller	1	0	0	1	1	0
+videochatte	1	0	0	1	1	0
+lårt	1	0	0	0	1	0
+pædofil	1	0	1	1	0	0
+kusser	1	0	0	1	1	0
+kussen	1	0	0	1	1	0
+kusserne	1	0	0	1	1	0
+rejsning	1	0	0	1	0	0
+erektion	1	0	0	1	1	0
+numsesex	1	0	1	1	1	0
+finger kneppe	1	0	1	1	1	0
+våd i	1	0	0	1	0	0
+pille ved	1	0	0	1	0	0
+send billede	0	0	0	1	0	0
+møgtøs	1	0	0	0	1	0
+møgfisse	1	0	0	0	1	0
+horeunge	1	0	0	0	1	0
+sperm	1	1	1	1	1	0
+onanere	1	1	1	1	1	0
+onani	1	1	1	1	1	0
+klitoris	1	1	1	1	1	0
+lege med dig selv	0	0	0	1	0	0
+vagina	1	1	1	1	1	0
+tissekonen	1	0	1	1	1	0
+missen	1	0	0	1	0	0
+fjappe	1	0	0	1	1	0
+porn	1	1	1	1	1	1
+blowjob	1	1	1	1	1	0
+pussy	1	0	1	0	1	1
+penis	1	0	1	0	1	1
+billed	1	0	0	1	0	1
+lege med dig i bukser	0	0	0	1	0	0
+underbukser	0	0	0	1	0	0
+lyst til dig	1	0	0	1	0	0
+lyst til mig	1	0	0	1	0	0
+slikke mig	1	0	0	1	0	0
+slikke dig	1	0	0	1	0	0
+bol dig	1	0	0	1	0	0
+bol mig	1	0	0	1	0	0
+pater	1	0	0	1	0	0
+tøjet af	1	0	0	1	0	0
+røre dig	1	0	0	1	0	0
+røre mig	1	0	0	1	0	0
+babser	1	0	0	1	1	0
+mis	1	0	0	1	0	0
+rørt ved mi	1	0	0	1	0	0
+rørt ved di	1	0	0	1	0	0
+nøgne	1	0	0	1	1	0
+sut dig	1	0	1	1	1	0
+sut mig	1	0	1	1	1	0
+f¡sse	1	0	1	1	1	0
+p¡k	1	0	1	1	1	0
+stikke den i	1	0	0	1	0	0
+g-strang	1	0	0	1	1	0
+gstrang	1	0	0	1	1	0
+tissemis	1	0	0	1	1	0
+bole dig	1	1	0	1	1	0
+bole mig	1	1	0	1	1	0
+du stram	0	0	0	1	0	0
+jern	1	0	0	1	0	0
+min stang	1	0	0	1	0	0
+sprøjte	1	0	0	1	0	0
+sprøjt	1	0	0	1	0	0
+6 med	1	0	0	1	0	1
+numse	1	0	0	1	0	1
+pick	1	0	0	1	1	0
+knale	1	1	1	1	1	0
+bagbolle	1	0	0	0	1	0
+tissetrold	1	0	0	0	1	0
+vo_dtaget	1	0	0	0	1	0
+liderl	1	0	0	1	1	0
+tissemisse	1	0	0	0	1	0
+patterne	1	0	0	0	1	0
+snave	1	0	0	0	1	0
+lebser	1	0	0	0	1	0
+selvm0rd	1	0	0	0	1	0
+selvmor	1	0	0	0	1	0
+hemmelighed	1	0	0	1	0	0
+hemligt	1	0	0	1	0	0
+stønne	1	0	0	1	0	0
+stønner	1	0	0	1	0	0
+fantasi	1	0	0	1	0	0
+gravid	1	0	0	0	1	0
+netsex	1	0	0	0	1	0
+net6	1	0	0	0	1	0
+spreder dine ben	1	0	0	1	1	0
+spreder mine ben	1	0	0	1	1	0
+sprede ben	1	0	0	1	1	0
+spred ben	1	0	0	1	1	0
+nosser	1	0	0	0	1	0
+hvor gammel er du	1	0	0	1	1	0
+kneqqe	1	0	0	1	1	0
+sexfantasi	1	0	0	1	1	0
+billede	1	0	0	1	0	0
+tudetøs	1	0	0	0	1	0
+tiseman	1	0	1	1	1	1
+cutting	1	1	1	1	1	0
+bulimi	1	1	0	1	1	0
+anoreksi	1	1	0	1	1	0
+vold	1	1	0	0	1	0
+railing	1	1	0	1	1	0
+brystvore	1	1	0	0	1	0
+brystvorte	1	1	0	0	1	0
+brystvorter	1	0	0	0	1	0
+cutter	1	1	1	1	1	0
+myrde	1	0	0	0	1	0
+skid	1	1	0	1	1	0
+skide	1	1	0	0	1	0
+skamlæb	0	1	1	1	1	0
+forhud	1	1	1	0	1	0
+kønsdel	0	1	1	1	1	0
+knep	1	1	1	1	1	0
+bol	1	0	1	0	1	0
+bole	1	1	1	1	1	0
+knipper	1	1	1	1	1	1
+tis på mig	1	0	1	1	0	1
+blow job	1	0	1	1	1	1
+instagram	1	0	0	1	0	0
+tampon	1	1	0	1	0	0
+sut min	1	0	1	1	0	0
+sutter	1	0	1	1	0	0
+skaype	1	0	0	1	1	0
+skayp	1	0	0	1	1	0
+skeip	1	0	0	1	1	0
+Skaip	1	0	0	1	1	0
+neger	1	0	1	1	0	0
+neeger	1	0	1	1	0	0
+Dick	1	1	1	0	1	0
+Cock	1	1	1	0	1	0
+Faggot	1	1	1	0	1	0
+Homse	1	1	1	0	1	0
+Whore	1	1	1	0	1	0
+Ass	1	1	1	0	1	0
+drittsekk	1	1	1	0	1	0
+rasshøl	1	1	1	0	1	0
+fitte	1	1	1	0	1	0
+knulle	1	1	1	0	1	0
+lesper	1	1	1	0	1	0
+hore	1	1	1	0	1	1
+hora	1	1	1	0	1	0
+kukk	1	1	1	0	1	0
+hurpe	1	1	1	0	1	0
+jævel	1	1	1	0	1	0
+jævla	1	1	1	0	1	0
+lesbia	1	1	1	0	1	0
+mongool	1	1	1	0	1	0
+mongol	1	1	1	0	1	0
+spasse	1	1	1	0	1	0
+idiot	1	1	1	0	1	0

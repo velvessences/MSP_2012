@@ -1,0 +1,255 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+drittsekk	1	0	0	0	1	0
+rasshol	1	0	0	0	1	0
+fitte	0	0	1	1	1	0
+pikk	1	0	1	1	1	0
+knulle	0	0	1	1	1	0
+pule	1	0	0	1	1	0
+lesper	1	0	0	0	1	0
+homse	1	0	0	0	1	0
+rasshøl	0	0	1	0	1	0
+sex	1	0	1	1	1	0
+jævla	0	0	1	0	1	0
+faen	0	0	1	0	1	0
+fittehull	0	0	1	1	1	0
+homo	1	0	1	0	1	0
+forpult	1	0	0	0	1	0
+bitch	1	0	0	0	1	0
+klitoris	0	0	1	1	1	0
+b!tch	1	0	0	0	1	0
+b17ch	1	0	0	0	1	0
+b1tch	1	0	0	0	1	0
+kuuk	0	0	1	0	1	0
+klitta	1	0	0	0	1	0
+sæd	1	0	0	1	1	0
+dildo	1	0	0	0	1	0
+feiten	1	0	0	0	1	0
+fuk	1	0	0	0	1	0
+fcuk	1	0	0	0	1	0
+masturbere	0	0	1	1	1	0
+morraknuller	1	0	1	1	1	0
+nazi	0	0	1	0	1	0
+nigger	0	0	1	0	1	0
+nigga	0	0	1	0	1	0
+pimp	1	0	0	0	1	0
+pussy	0	0	1	0	1	0
+dritt	1	0	0	0	1	0
+pupper	1	0	1	1	1	0
+puppa	1	0	0	0	1	0
+testikkel	1	0	0	0	1	0
+brystvorte	1	0	1	1	1	0
+rompe slikking	1	0	0	0	1	0
+sugejobber	1	0	0	0	1	0
+ståkuk	1	0	0	1	1	0
+penishode	0	0	1	1	1	0
+rompeknuller	1	0	1	1	1	0
+rompe hår	1	0	0	0	1	0
+kuker	1	0	0	1	1	0
+kuksuging	0	0	1	1	1	0
+kuksugd	1	0	0	1	1	0
+kuksuger	0	0	1	1	1	0
+spærm	1	0	0	0	1	0
+fitteslikking	0	0	1	1	1	0
+fitteslikker	0	0	1	1	1	0
+fitter	0	0	1	1	1	0
+cyberknulle	0	0	1	1	1	0
+cyberknull	1	0	0	0	1	0
+cyberknullet	0	0	1	1	1	0
+penis	0	0	1	1	1	0
+ejakuert	1	0	0	0	1	0
+fatso	1	0	0	0	1	0
+fingerpult	1	0	0	0	1	0
+fingerpule	0	0	1	1	1	0
+fingerknulling	1	0	0	0	1	0
+fistfuck	1	0	0	0	1	0
+pult	1	0	0	0	1	0
+knullere	1	0	1	1	1	0
+knullmeg	1	0	0	0	1	0
+hetsex	1	0	1	1	1	0
+kåt	0	0	1	0	1	0
+kåtest	1	0	0	0	1	0
+kondom	1	0	0	0	1	0
+niggers	0	0	1	0	1	0
+orgasme	0	0	1	1	1	0
+telefonsex	1	0	1	1	1	0
+duster	1	0	0	0	1	0
+bæsje	1	0	0	0	1	0
+kan du komme over til mitt hus	1	0	0	0	1	0
+kidnapper	1	0	0	0	1	0
+faan	1	0	0	0	1	0
+fuckings	1	0	0	0	1	0
+jævel	1	0	0	0	1	0
+jævli	1	0	0	0	1	0
+suger	1	0	1	1	1	0
+sexe	1	0	1	1	1	0
+seexe	1	0	0	0	1	0
+pono	1	0	0	0	1	0
+pedo	1	0	0	1	1	0
+HOMO!	1	0	1	1	0	0
+FITTE!	0	0	1	1	1	0
+PISS	1	0	0	0	1	0
+Hvor bor du	1	0	0	1	1	0
+Hva heter du irl	1	0	0	0	1	0
+pedobear	0	0	1	1	1	0
+sexx	1	0	1	1	1	0
+fingrer	1	0	0	0	1	0
+ronke	0	0	1	0	1	0
+fingret	1	0	0	0	1	0
+ronker	0	0	1	0	1	0
+ronket	1	0	0	0	1	0
+fitta	1	0	0	0	1	0
+tissen	1	0	1	1	1	0
+fiste	1	0	1	1	1	0
+rævpule	0	0	1	1	1	0
+sexxe	1	0	1	1	1	0
+sexxxe	1	0	1	1	1	0
+fittefaen	0	0	1	1	1	0
+fite	1	0	0	0	1	0
+fittehøl	0	0	1	1	1	0
+samleie	1	0	0	1	1	0
+neger	0	0	1	0	1	0
+lesbe	0	0	1	0	1	0
+vagina	1	0	1	1	1	0
+KNULE TLF	1	0	1	1	1	0
+KNULE TLF	1	0	1	1	1	0
+puppemann	1	0	0	0	1	0
+tissemann	1	0	0	0	1	0
+knullemann	1	0	1	1	1	0
+pornhub	0	0	1	0	1	0
+redtube	0	0	1	0	1	0
+alkohol	0	0	1	0	1	0
+anal	1	0	0	0	1	0
+b!ach	0	0	1	0	1	0
+stivtiss	1	0	0	0	1	0
+marijuana	0	0	1	0	1	0
+onanere	0	0	1	1	1	0
+passord	0	0	1	0	1	0
+p-ordet	0	0	1	0	1	0
+p a s s o r d	0	0	1	0	1	0
+hotmail	1	0	1	1	1	0
+blogg	0	0	1	0	1	0
+voldta	0	0	1	0	1	0
+hallik	0	0	1	0	1	0
+xvideos	0	1	1	1	1	0
+xnxx	0	1	1	1	1	0
+tube8	0	0	1	0	1	0
+sexvideo	1	0	1	1	1	0
+playboy	0	0	1	0	1	0
+skype	1	0	1	1	1	0
+msn	1	0	1	1	1	0
+facebook	1	0	1	1	1	0
+f a c e b o o k	0	0	1	0	1	0
+faceb	0	0	1	0	1	0
+telefonsex	1	0	1	1	1	0
+websex	0	1	1	1	1	0
+jevla	0	0	1	0	1	0
+helvete	0	0	1	0	1	0
+jævlig	0	0	1	0	1	0
+skriv dette i 5 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 10 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 9 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 8 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 7 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 6 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 4 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 3 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+skriv dette i 2 andre sanger så logger du ut og inn da har du	1	0	0	0	1	0
+hva er ditt passord	1	0	0	0	1	0
+hva er ditt pass	1	0	0	0	1	0
+webkamera	0	1	1	1	1	0
+undertøy	0	0	0	1	0	0
+bh	1	0	1	1	1	1
+pedofil	0	1	1	1	1	0
+naken	1	0	1	1	1	0
+ejakuere	1	0	0	1	1	0
+kan jeg se ditt bilde	1	0	0	1	1	0
+send meg et bilde	1	0	0	1	1	0
+vil du se meg	1	0	0	1	1	0
+tanga	1	0	0	1	1	0
+truse	1	0	0	1	1	0
+barberer du	1	0	0	1	1	0
+telefonnummer	1	0	1	1	1	0
+mobilnummer	1	0	0	0	1	0
+kuk	1	0	0	1	1	0
+kle av deg	1	0	0	1	1	0
+kan du ringe meg	1	0	0	1	1	0
+@live	0	0	1	1	1	0
+porno	0	0	1	1	1	0
+sugejobb	1	0	1	1	1	0
+f!en	1	0	0	0	1	0
+f!tte	1	0	0	0	1	0
+fxxxxu	1	0	0	0	1	0
+fxxxu	1	0	0	0	1	0
+etternavn	1	0	0	1	0	0
+alder	1	0	0	1	0	0
+email	1	0	0	1	0	0
+epost	1	0	0	1	0	0
+adresse	1	0	0	1	1	0
+video	1	0	0	1	0	0
+irl	1	1	0	1	1	0
+slikke	1	0	0	1	0	0
+jomfru	1	1	0	1	0	0
+tisselur	1	1	0	1	1	0
+bryst	1	1	0	1	0	0
+sexy	1	1	0	1	1	0
+hot	1	0	0	1	0	0
+g-string	1	1	0	1	1	0
+sekse	1	0	1	1	0	0
+seks	1	0	1	1	0	0
+seksy	1	1	0	1	1	0
+tisen	1	0	0	1	1	1
+massage	1	1	0	1	0	1
+ligge	1	0	0	1	0	1
+møtes	1	0	0	1	0	1
+møte	1	0	0	1	0	1
+cam	1	0	0	1	1	1
+kamera	1	1	0	1	0	0
+hore	1	0	0	1	0	0
+å lage barn	1	1	0	1	0	0
+kutting	1	1	0	1	1	1
+bulemi	1	1	0	1	1	1
+anoreksi	1	1	0	1	1	1
+vold	1	1	0	1	0	1
+selvmord	1	1	0	1	0	1
+mord	1	1	0	1	0	1
+sado	1	1	0	1	0	1
+kiss x sis	0	1	0	1	0	0
+kis x sis	0	1	0	1	0	0
+hår på tisen	1	0	0	1	0	0
+suge	1	0	0	1	0	0
+ta på tisen	1	0	0	1	0	0
+hater	1	0	1	1	0	0
+drepe	1	0	1	1	1	0
+dö	1	0	1	1	0	0
+dreper	1	1	0	1	0	0
+hate	1	1	0	1	0	0
+knivstikking	1	1	0	1	0	0
+clitoris	1	1	0	1	1	0
+hater livet mitt	1	1	0	1	0	0
+vil dø	1	1	0	1	0	0
+henge meg	1	1	0	1	0	0
+dø	1	1	0	1	0	0
+skift pasordet til vip123	1	1	0	1	1	0
+skift pasordet til	1	1	0	1	1	0
+kik	1	0	0	1	0	0
+instagram	1	0	0	1	0	0
+tampon	1	1	0	1	0	0
+skaype	1	0	0	1	1	0
+skayp	1	0	0	1	1	0
+skeip	1	0	0	1	1	0
+Skaip	1	0	0	1	1	0
+dick	1	1	1	0	1	0
+Cock	1	1	1	0	1	0
+Faggot	1	1	1	0	1	0
+Whore	1	1	1	0	1	0
+Hoe	1	1	1	0	1	0
+Ass	1	1	1	0	1	0
+hora	1	1	1	0	1	0
+kukk	1	1	1	0	1	0
+hurpe	1	1	1	0	1	0
+lesbia	1	1	1	0	1	0
+mongool	1	1	1	0	1	0
+mongol	1	1	1	0	1	0
+trækkerdreng	1	1	1	0	1	0
+spasse	1	1	1	0	1	0
+idiot	1	1	1	0	1	0

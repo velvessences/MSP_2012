@@ -1,0 +1,314 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+salope	1	0	0	0	1	0
+connasse	1	0	0	0	1	0
+connard	1	0	0	0	1	0
+tapette	1	0	0	0	1	0
+bite	1	1	1	1	1	1
+trou du cul	1	0	0	0	1	0
+trouduc	1	0	0	0	1	0
+merde	1	0	0	0	1	0
+testicules	1	0	0	0	1	0
+testicule	1	0	0	0	1	0
+chatte	1	0	0	1	0	0
+branlette	1	0	0	1	1	0
+branler	1	0	0	1	1	0
+branleur	1	0	0	0	1	0
+tetons	1	0	0	1	1	0
+seins	1	0	0	1	1	0
+sein	1	0	0	1	1	0
+putain	1	0	0	0	1	0
+chaudasse	1	1	1	0	1	0
+sexy	1	0	1	0	1	0
+sexe	1	0	1	1	1	0
+pussy	1	0	0	1	1	0
+negre	1	0	0	0	1	0
+nazi	1	0	0	0	1	0
+nazis	1	0	0	0	1	0
+masturber	1	0	0	1	1	0
+masturbation	1	0	0	1	1	0
+lesbiennes	1	1	1	0	1	0
+lesbienne	0	1	1	0	1	0
+gods	1	0	0	0	1	0
+godemiche	1	0	0	1	1	0
+ejaculer	1	0	0	1	1	0
+sucer	1	0	0	1	1	0
+encule	1	0	0	0	1	0
+enculer	1	0	0	0	1	0
+sperme	1	0	0	1	1	0
+clito	1	0	0	1	1	0
+clitoris	1	0	0	1	1	0
+cul	1	0	0	0	1	0
+baiser	1	0	0	1	1	0
+batard	1	0	1	0	1	0
+con	1	0	0	0	1	0
+conne	1	0	0	0	1	0
+chienne	1	0	0	1	0	0
+pipe	1	0	0	1	1	0
+saloperie	1	0	0	0	1	0
+fils de pute	1	1	1	0	1	0
+ta gueule	1	0	0	0	1	0
+zob	1	0	0	0	1	0
+enfoire	1	0	0	0	1	0
+salaud	1	0	0	0	1	0
+salopard	1	0	0	0	1	0
+emmerdeur	1	0	0	0	1	0
+merdeux	1	0	0	0	1	0
+poufiasse	1	0	0	0	1	0
+tete de neu	1	0	0	0	1	0
+neuneu	1	0	0	0	1	0
+va te faire foutre	1	0	0	0	1	0
+ca me fais chier	1	0	0	0	1	0
+ras le cul	1	0	0	0	1	0
+casse-burnes	1	0	0	0	1	0
+salop	1	0	0	0	1	0
+nike	1	0	0	0	1	0
+nike	1	0	0	0	1	0
+baise	1	0	0	1	1	0
+kon	1	0	0	0	1	0
+grosse vache	1	0	0	0	1	0
+pede	1	0	0	0	1	0
+gouine	1	0	0	0	1	0
+lopette	1	0	0	0	1	0
+tafiole	1	0	0	0	1	0
+fiotte	1	0	0	0	1	0
+branleuse	1	0	0	0	1	0
+anus	1	0	0	1	1	0
+foutre	1	0	0	0	1	0
+merdeux	1	0	0	0	1	0
+merdeuse	1	0	0	0	1	0
+emmerder	1	0	0	0	1	0
+a poil	1	0	0	1	1	0
+a oilpe	1	0	0	1	1	0
+homo	1	0	0	0	1	0
+jouir	1	0	0	1	1	0
+rouler une pelle	1	0	0	0	1	0
+nik	1	0	0	0	1	0
+chier	1	0	0	0	1	0
+mongol	1	0	0	0	1	0
+chate	1	0	0	1	1	0
+pénis	1	0	0	0	1	0
+tabit ou	1	0	0	0	1	0
+mdp	1	0	0	0	1	0
+ton mot	1	0	0	0	1	0
+pedal	1	0	0	0	1	0
+connar	1	0	0	0	1	0
+mo de passe	1	0	0	0	1	0
+bezer	1	0	0	1	1	0
+bèze	1	0	0	1	1	0
+salo	1	0	0	0	1	0
+enculé	1	1	0	0	1	0
+sex	1	0	1	0	1	0
+2 girls 1 cup	1	1	0	0	1	0
+2girls1cup	1	1	0	0	1	0
+alcool	1	1	0	0	1	0
+drogue	1	0	0	0	1	0
+cigarette	1	0	0	0	1	0
+bourré	1	0	0	0	1	0
+vodka	1	0	0	0	1	0
+whisky	1	0	0	0	1	0
+porno	0	0	1	1	1	0
+2girls 1finger	1	1	0	0	1	0
+2girls1finger	1	1	0	0	1	0
+2guys 1stump	1	1	0	0	1	0
+2guys1stump	1	1	0	0	1	0
+3 Guys 1 Hammer	1	1	0	0	1	0
+3guys 1hammer	1	1	0	0	1	0
+3guys1hammer	1	1	0	0	1	0
+4 Girls Fingerpaint	1	1	0	0	1	0
+4girls fingerpaint	1	1	0	0	1	0
+BME Pain Olympics	1	1	0	0	1	0
+Bottle Guy	1	1	0	0	1	0
+porn	1	1	0	1	1	0
+Vomit Girl	1	1	0	0	1	0
+2girls 1cup	1	1	0	0	1	0
+lemonparty	1	1	0	0	1	0
+Prolapse Man	1	1	0	0	1	0
+TubGirl	1	1	0	0	1	0
+suicide	1	1	0	0	1	0
+nichon	1	0	0	1	1	0
+nibard	1	0	0	1	1	0
+néné	1	0	0	0	1	0
+trou du cxl	1	0	0	0	1	0
+batar	1	0	0	0	1	0
+couille	1	0	0	0	1	0
+gode	1	0	0	1	1	0
+lesbo	1	0	0	0	1	0
+lesb	1	0	0	0	1	0
+suce moi	1	0	0	1	1	0
+encxl	1	0	0	0	1	0
+encul	0	0	1	0	1	0
+mxrde	1	0	0	0	1	0
+mrd	1	0	0	0	1	0
+cocaine	1	0	0	0	1	0
+ejacule	0	0	1	1	1	0
+tapet	1	0	0	0	1	0
+tapete	1	0	0	0	1	0
+excite	1	0	0	1	1	0
+tepu	1	0	0	0	1	0
+pxte	1	0	0	0	1	0
+put	1	0	0	0	1	0
+branle	1	0	0	1	1	0
+tueur	1	0	0	0	1	0
+meurtrier	1	0	0	0	1	0
+capote	1	0	0	1	1	0
+preservatif	1	0	0	1	1	0
+préservatif	1	0	0	1	1	0
+marijuanna	1	0	0	0	1	0
+cannabis	1	0	0	0	1	0
+doigter	1	0	0	1	1	0
+masturb	0	0	1	1	1	0
+nègre	1	0	0	0	1	0
+orgasm	1	0	0	1	1	0
+orgasme	1	0	0	1	1	0
+pisse	1	0	0	0	1	0
+viol	1	0	0	1	1	0
+violer	1	0	0	1	1	0
+scrotum	1	0	0	1	1	0
+sperm	1	0	0	1	1	0
+testicul	0	0	1	0	1	0
+modepas	1	0	0	0	1	0
+modepass	1	0	0	0	1	0
+motdepas	1	0	0	0	1	0
+motdepasse	1	0	0	0	1	0
+mot de passe	1	0	0	0	1	0
+youporn	0	0	1	1	1	0
+redtube	0	0	1	1	1	0
+pornhub	1	0	0	1	1	0
+gonzo	1	0	0	1	1	0
+facebook	1	0	0	1	1	0
+fb	1	0	0	0	1	0
+msn	1	0	0	1	0	0
+vrai nom	1	0	0	1	0	0
+nom	1	0	0	1	0	0
+prénom	1	0	0	1	0	0
+prenom	1	0	0	1	0	0
+nom de famille	1	0	0	1	1	0
+adresse	1	0	0	1	0	0
+skype	1	0	1	1	1	0
+cam	1	0	0	1	1	0
+rue	1	0	0	1	0	0
+baize	1	0	0	1	1	0
+baizer	1	0	0	1	1	0
+yolasite	1	0	0	0	1	0
+came	1	0	0	1	0	0
+sous-vêtement	1	0	0	1	0	0
+soutien-gorge	1	0	0	1	0	0
+pédo	1	0	0	1	1	0
+pédophile	1	0	0	1	1	0
+nu	1	0	0	1	0	0
+éjacul	0	0	1	1	1	0
+t'as une photo	1	0	0	1	0	0
+envoie une photo	1	0	0	1	0	0
+caméra	1	0	0	1	0	0
+tu veux me voir	1	0	0	1	0	0
+photo	1	0	0	1	0	0
+string	1	0	0	1	0	0
+culotte	1	1	1	1	0	0
+tu te rases	1	0	0	1	0	0
+vierge	1	0	0	1	0	0
+vagin	0	0	1	1	1	0
+t'habites où	1	0	0	1	0	0
+numéro de téléphone	1	0	0	1	0	0
+numéro d portable	1	0	0	1	0	0
+tu veux venir chez moi	0	0	1	1	1	0
+érection	1	0	0	1	1	0
+t'es seul chez toi	1	0	0	1	0	0
+sms	1	0	0	1	0	0
+on peut se voir	1	0	0	1	0	0
+t'es comment	1	0	0	1	0	0
+tu vas où à l'école	1	0	0	1	0	0
+règles	1	0	0	1	0	0
+numéro de portable	1	0	0	1	0	0
+photobucket	1	0	0	1	0	0
+déshabille	1	0	0	1	0	0
+enlève ton pantalon	1	0	0	1	0	0
+avec la langue	1	0	0	1	0	0
+tchat vidéo	1	0	0	1	0	0
+t'es en quelle classe	1	0	0	1	0	0
+tu peux m'appeler	1	0	0	1	0	0
+@hotmail	0	0	1	1	1	0
+@live	0	0	1	1	1	0
+bisexuel	1	1	1	1	1	0
+bouffon	1	0	0	0	1	0
+accouplement	1	1	0	0	1	0
+ivideochat	1	0	0	1	1	0
+anonymous	1	0	1	0	1	0
+anonymouse	1	0	1	0	1	0
+corps	1	0	0	1	0	0
+nue	1	0	0	1	0	0
+montre moi	1	0	0	1	0	0
+cheat engine	1	0	0	0	1	0
+hacker	1	0	1	0	1	0
+gynécologue	1	1	1	1	0	0
+ginécologue	1	1	1	1	0	0
+StripTiz	0	1	1	1	1	0
+soutif	0	1	1	1	1	0
+boocam	1	0	0	1	1	0
+soutifculotte	1	1	1	1	1	0
+messenger	1	1	1	1	0	0
+avortement	1	1	0	0	1	0
+biite	1	1	1	1	1	0
+suseuse	1	1	1	0	1	0
+code	1	0	0	1	1	1
+lesbi	0	1	1	0	1	0
+Tampon	1	1	0	1	0	0
+giovanna plowman	1	1	1	0	1	1
+Elle me dit	1	1	0	1	0	0
+call girl	1	1	1	1	1	0
+partouze	1	1	1	0	1	0
+jacule	1	1	1	1	1	0
+pute	1	1	1	0	1	0
+suce	1	0	1	0	1	0
+hotmail	1	0	1	1	1	0
+skipe	1	0	1	1	1	0
+bese	1	1	1	1	1	0
+la bite	1	1	1	1	1	0
+tabite	1	0	1	1	1	0
+accouchement	1	1	1	1	1	0
+face time	1	0	1	1	1	0
+bese moi	1	1	1	1	1	0
+chaude	1	0	1	1	0	0
+biatch	1	1	1	0	1	0
+zizi	1	1	1	1	1	0
+Meetic	1	1	1	1	1	0
+instagram	1	0	0	1	1	0
+ton Q	1	1	1	1	1	0
+mon Q	1	1	1	1	1	0
+email	1	0	0	1	1	0
+mail	1	1	0	1	1	0
+koi ton nom	1	0	0	1	1	0
+koi ton prénom	1	0	0	1	1	0
+koi ton prenom	1	0	0	1	1	0
+quoi ton nom	1	0	0	1	1	0
+quoi ton prénom	1	0	0	1	1	0
+quoi ton prenom	1	0	0	1	1	0
+tabite ou	1	0	0	1	1	0
+jabite	1	0	0	1	1	0
+habite	1	0	0	1	0	0
+abite	1	0	0	0	1	0
+comment faire l'amour	1	1	0	1	1	0
+hommage	1	1	0	1	0	0
+sodomi	1	1	1	1	1	0
+sodomie	1	1	1	1	1	0
+cochonne	1	1	1	1	1	0
+batare	1	1	1	0	1	0
+pas tes parents	0	0	0	1	0	0
+cachete	1	0	0	1	0	0
+secret	1	0	0	1	0	0
+pas le dire	1	0	0	1	0	0
+skip	1	0	1	1	1	0
+doiter	1	1	1	1	0	0
+doite	1	1	1	1	0	0
+godemichet	1	1	1	1	1	0
+chaudace	1	1	1	1	1	0
+faire l'amour	1	1	1	1	1	0
+accouche	1	1	1	1	0	0
+fait l'amour	1	1	1	1	1	0
+modérateur	1	0	1	1	0	0
+lècheuse	1	1	1	1	1	0
+bit	1	0	0	1	0	0
+PEDOBEAR	1	1	1	1	1	0
+pedob	1	1	1	1	1	0
+kamasutra	1	1	1	1	1	0
+pornteub	1	1	1	1	1	0
+teub	1	1	1	1	1	0

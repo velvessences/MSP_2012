@@ -1,0 +1,114 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+<title>MSPApp</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body>
+<div id="background" ></div>
+
+<div class="row" id="header">
+	<div id="leftHeader">
+		<image id="logo" />
+		<div id="link">
+			<a href="https://itunes.apple.com/app/moviestarplanet/id520097315">
+				<image src="img/appstore.png" />
+			</a>
+			<a href="https://play.google.com/store/apps/details?id=air.MSPMobile">
+				<image src="img/GooglePlay_badge.png" />
+			</a>
+		</div>
+
+	</div>
+	<div id="rightHeader">
+		<image id="title" src="img/Title_01.jpg" />
+	</div>
+</div>
+
+<div class="row" id="content" />
+	<div id="filter">
+		<div id="screenshots" />
+			<image class="screenshot" src="img/screenshots/1.jpg" />
+			<image class="screenshot" src="img/screenshots/2.jpg" />
+			<image class="screenshot" src="img/screenshots/3.jpg" />
+			<image class="screenshot" src="img/screenshots/4.jpg" />
+			<image class="screenshot" src="img/screenshots/5.jpg" />
+		</div>
+		<div id="text" />
+		
+		<p>★★★ Create your own movie star! ★★★ <br>
+		Log in to the amazing world of MovieStarPlanet – the number one place for the coolest, most creative and most fashionable celebrities!</p>
+		
+		<p>☆ BONUS! Spin the new WHEEL OF FORTUNE each day!<br>
+		♥ Meet new friends in the cool chat rooms<br>
+		♥ Chat with all your movie star friends<br>
+		♥ Create fabulous Looks<br>
+		♥ Watch your YouTube videos and playlists<br>
+		♥ Find new clothes in the shop each week!<br>
+		♥ Update your status<br>
+		♥ Play the game ‘On Location!’</p>
+		
+		<p>‘On Location!’ is a fast and fun game where you match clothes for a movie set. You choose clothes by swiping the screen and when you combine matching pieces, you’re rewarded with extra points. You can also earn StarCoins and choose amazing prizes to use in your MovieStarPlanet room!</p>
+		
+		<p>Even better - every time you swipe, you earn Fame! This is the ultimate way to rise to stardom!</p>
+		
+		<p>✔ Want to get notified when your movie star friends message you even if you’re offline?<br>
+		✔ Want to find new friends even when you’re not in front of a computer?<br>
+		✔ Want to be the first one to unlock an awesome item for your room?</p>
+		
+		<p>Then get the ♥♥♥ MovieStarPlanet App ♥♥♥ and join the fun!<br>
+		See more at MovieStarPlanet.com – the number one site for fame, fortune, fun and friends!</p>
+		
+		
+		</div>
+	</div>
+</div>
+
+
+
+
+
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '390',
+          width: '640',
+          videoId: 'q-98zuQym-c',
+          events: {
+            'onReady': onPlayerReady
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+    </script>
+<script language="JavaScript">
+	var regex_mystarplanet = /mystarplanet/i;
+	
+	if(regex_mystarplanet.test(window.location.href)){
+		document.getElementById("logo").src = "img/MySP_Logo.png"
+	}else{
+		document.getElementById("logo").src = "img/MSP_Logo.png"
+	}
+</script>
+
+
+</body>
+
+</html>

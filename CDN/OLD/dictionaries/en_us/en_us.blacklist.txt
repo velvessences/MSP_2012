@@ -1,0 +1,1079 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+clit	1	0	0	1	1	0
+fuck	0	1	1	0	1	0
+ass	1	0	0	0	1	0
+asshole	1	0	0	0	1	0
+b17ch	1	0	1	0	1	1
+b1tch	1	0	0	0	1	0
+bastard	1	0	0	0	1	0
+c0ck	1	0	0	0	1	0
+cawk	1	0	0	0	1	0
+clits	1	0	0	0	1	0
+cock	1	1	1	1	1	0
+cum	1	0	0	1	1	1
+willy	1	0	0	0	1	0
+sket	1	0	0	0	1	0
+skank	1	0	0	0	1	0
+faggot	1	0	1	0	1	0
+fanny	1	0	0	1	1	0
+cunt	1	0	1	1	1	0
+dildo	1	1	1	0	1	0
+ejakulate	1	0	0	0	1	0
+fatass	1	0	1	0	1	0
+fcuk	1	0	0	0	1	0
+fuk	1	0	1	0	1	1
+fux0r	1	0	0	0	1	0
+hoer	1	0	0	0	1	0
+hore	1	0	0	0	1	0
+jism	1	0	0	1	1	0
+kawk	1	0	0	0	1	0
+lesbian	1	1	1	0	1	0
+masturbate	0	1	1	1	1	0
+masterbat3	0	0	1	0	1	0
+motherfucker	0	0	1	0	1	0
+mofo	1	0	0	0	1	1
+nazi	1	0	0	0	1	0
+nigga	1	0	0	0	1	0
+nigger	1	0	0	0	1	0
+nutsack	1	0	0	0	1	0
+phuck	1	0	0	0	1	0
+pimpis	1	0	0	0	1	0
+pusse	1	0	0	1	1	0
+pussy	1	0	0	1	1	0
+scrotum	1	1	1	0	1	0
+sex	1	0	1	1	1	0
+sexy	1	0	1	0	1	0
+sexi	1	0	1	0	1	0
+shemale	1	0	0	0	1	0
+shit	1	0	0	0	1	0
+slut	1	0	0	0	1	0
+smut	1	0	0	0	1	0
+teets	1	0	0	0	1	0
+tits	1	0	0	1	1	0
+boobs	1	0	1	0	1	0
+b00bs	1	0	0	0	1	0
+teez	1	0	0	0	1	0
+testical	1	1	1	0	1	0
+testicle	1	1	1	0	1	0
+titt	1	0	0	0	1	0
+w00se	1	0	0	0	1	0
+jackoff	1	0	1	0	1	1
+wank	1	0	0	0	1	0
+whore	1	1	1	0	1	0
+ass lick	1	0	0	0	1	0
+asses	1	0	0	0	1	0
+assholes	1	0	0	0	1	0
+asskisser	1	0	0	0	1	0
+asswipe	1	0	0	0	1	0
+balls	1	0	0	1	0	0
+beastial	1	0	0	0	1	0
+beastiality	1	0	0	0	1	0
+beastility	1	0	0	0	1	0
+beaver	0	0	0	1	0	0
+bestial	1	0	0	0	1	0
+bestiality	1	0	0	0	1	0
+bitcher	1	0	0	0	1	0
+bitchers	1	0	0	0	1	0
+bitches	1	0	0	0	1	0
+bitchin	1	0	0	0	1	0
+bitching	1	0	0	0	1	0
+blow job	1	0	0	0	1	0
+blowjobs	1	0	0	0	1	0
+bonehead	1	0	0	0	1	0
+boner	1	0	1	0	1	0
+browneye	1	0	1	0	1	1
+bull shit	1	0	1	0	1	0
+bullshit	1	0	1	0	1	0
+bum	1	0	0	1	0	0
+bung hole	1	0	0	0	1	0
+butch	1	0	0	0	1	0
+butt	1	0	1	1	1	1
+butt breath	1	0	0	0	1	0
+butt fucker	1	0	0	0	1	0
+butt hair	1	0	0	0	1	0
+buttface	1	0	0	0	1	0
+buttfuck	1	0	0	0	1	0
+buttfucker	1	0	0	0	1	0
+butthead	1	0	0	0	1	0
+butthole	1	0	0	0	1	0
+buttpicker	1	0	0	0	1	0
+circle jerk	1	0	0	0	1	0
+cocks	1	0	0	1	1	0
+cocksuck	1	0	0	0	1	0
+cocksucked	1	0	0	0	1	0
+cocksucker	1	0	1	0	1	0
+cocksucking	1	0	0	0	1	0
+cocksucks	1	0	0	0	1	0
+cooter	1	0	0	1	1	0
+crap	1	0	0	0	1	0
+cummer	1	0	0	0	1	0
+cumming	1	0	0	0	1	0
+cums	1	0	0	0	1	0
+cumshot	1	0	0	0	1	0
+cunilingus	1	0	0	1	1	0
+cunillingus	1	0	0	1	1	0
+cunnilingus	1	0	0	0	1	0
+cuntlick	1	0	0	0	1	0
+cuntlicker	1	0	0	0	1	0
+cuntlicking	1	0	0	0	1	0
+cunts	1	0	0	0	1	0
+cyberfuc	1	0	0	1	1	0
+cyberfuck	1	0	0	1	1	0
+cyberfucked	1	0	0	1	1	0
+cyberfucker	1	0	0	0	1	0
+cyberfuckers	1	0	0	0	1	0
+cyberfucking	1	0	0	0	1	0
+damn	1	0	0	0	1	0
+dick	1	0	1	0	1	0
+dike	1	0	1	0	1	1
+dildos	1	0	0	0	1	0
+dink	1	0	1	0	1	1
+dinks	1	0	1	0	1	1
+dipshit	0	0	1	0	1	0
+dong	1	0	0	0	1	0
+douche bag	1	0	0	0	1	0
+dumbass	1	0	0	0	1	0
+dyke	1	0	1	0	1	1
+ejaculate	1	1	1	1	1	0
+ejaculated	1	0	0	1	1	0
+ejaculates	1	0	0	1	1	0
+ejaculating	1	0	0	1	1	0
+ejaculatings	1	0	0	1	1	0
+ejaculation	1	0	1	1	1	1
+fag	1	0	1	0	1	1
+fagget	1	0	0	0	1	0
+fagging	1	0	0	0	1	0
+faggit	1	0	0	0	1	0
+faggs	1	0	0	0	1	0
+fagot	1	0	0	0	1	0
+fagots	1	0	0	0	1	0
+fags	1	0	0	0	1	0
+fatso	1	0	1	0	1	0
+felatio	1	0	0	1	1	0
+fellatio	1	0	0	1	1	0
+fingerfuck	1	0	0	0	1	0
+fingerfucked	1	0	0	0	1	0
+fingerfucker	1	0	0	0	1	0
+fingerfuckers	1	0	0	0	1	0
+fingerfucking	1	0	0	0	1	0
+fingerfucks	1	0	0	0	1	0
+fistfuck	1	0	0	1	1	0
+fistfucked	1	0	0	1	1	0
+fistfucker	1	0	0	0	1	0
+fistfuckers	1	0	0	0	1	0
+fistfucking	1	0	0	0	1	0
+fistfuckings	1	0	0	0	1	0
+fistfucks	1	0	0	0	1	0
+fucked	1	0	0	0	1	0
+fucker	1	0	1	0	1	1
+fuckers	1	0	0	0	1	0
+fuckin	1	0	0	0	1	0
+fucking	1	0	0	0	1	0
+fuckings	1	0	0	0	1	0
+fuckme	1	0	0	0	1	0
+fucks	1	0	0	0	1	0
+fuks	1	0	0	0	1	0
+gangbang	1	0	0	0	1	0
+gangbanged	1	0	0	0	1	0
+gangbangs	1	0	0	0	1	0
+gaysex	1	0	1	0	1	0
+gazongers	1	0	0	0	1	0
+goddamn	1	0	1	0	1	0
+gonads	1	0	0	0	1	0
+guinne	1	0	0	0	1	0
+hardcoresex	1	0	1	0	1	0
+homo	1	0	0	0	1	0
+hooker	1	0	0	0	1	0
+horniest	1	0	0	0	1	0
+horny	1	0	0	1	1	0
+hotsex	1	0	1	0	1	0
+hussy	1	0	0	0	1	0
+jackoff	1	0	1	1	1	1
+jack-off	1	0	1	1	1	1
+jackass	1	0	1	0	1	1
+jacking off	1	0	1	0	1	0
+jap	1	0	1	0	1	1
+jerk-off	1	0	1	0	1	1
+jiz	1	0	1	1	1	1
+jizm	1	0	1	1	1	1
+jizz	1	0	1	1	1	1
+kike	1	0	1	0	1	0
+kock	1	0	0	0	1	0
+kondum	1	0	0	0	1	0
+kondums	1	0	0	0	1	0
+kraut	1	0	0	0	1	0
+kum	1	0	1	0	1	0
+kummer	1	0	0	0	1	0
+kumming	1	0	0	0	1	0
+kums	1	0	0	0	1	0
+kunilingus	1	0	0	0	1	0
+lesbo	1	0	0	0	1	1
+mofo	1	0	0	0	1	1
+mo fo	1	0	0	0	1	1
+mf'er	1	0	0	0	1	1
+mothafuck	1	0	0	0	1	0
+mothafucka	1	0	0	0	1	0
+mothafuckas	1	0	0	0	1	0
+mothafuckaz	1	0	0	0	1	0
+mothafucked	1	0	0	0	1	0
+mothafucker	1	0	0	0	1	0
+mothafuckers	1	0	0	0	1	0
+mothafuckin	1	0	0	0	1	0
+mothafucking	1	0	0	0	1	0
+mothafuckings	1	0	0	0	1	0
+mothafucks	1	0	0	0	1	0
+motherfuck	1	0	0	0	1	0
+motherfucked	1	0	0	0	1	0
+motherfuckers	1	0	0	0	1	0
+motherfuckin	1	0	0	0	1	0
+motherfucking	1	0	0	0	1	0
+motherfuckings	1	0	0	0	1	0
+motherfucks	1	0	0	0	1	0
+muff	1	0	0	0	1	0
+niggers	1	0	0	0	1	0
+orgasim	1	0	0	0	1	0
+orgasims	1	0	0	0	1	0
+orgasm	0	0	1	1	1	0
+orgasms	1	0	0	0	1	0
+pecker	1	0	0	0	1	0
+penis	1	1	1	0	1	0
+phonesex	1	0	1	1	1	0
+phuk	1	0	0	0	1	0
+phuked	1	0	0	0	1	0
+phuking	1	0	0	0	1	0
+phukked	1	0	0	0	1	0
+phukking	1	0	0	0	1	0
+phuks	1	0	0	0	1	0
+phuq	1	0	0	0	1	0
+pimp	1	0	0	0	1	0
+piss	1	0	0	0	1	1
+pissed	1	0	0	0	1	0
+pissers	1	0	0	0	1	0
+pisses	1	0	0	0	1	0
+pissin	1	0	0	0	1	0
+pissing	1	0	0	0	1	0
+pissoff	1	0	0	0	1	0
+prick	1	0	0	0	1	0
+pricks	1	0	0	0	1	0
+pussies	1	0	0	1	1	0
+pussys	1	0	0	0	1	0
+queer	1	0	0	0	1	0
+retard	1	0	0	0	1	0
+schlong	1	0	0	0	1	0
+screw	1	0	0	1	1	0
+sheister	1	0	0	0	1	0
+shited	1	0	0	0	1	0
+shitfull	1	0	0	0	1	0
+shiting	1	0	0	0	1	0
+shitings	1	0	0	0	1	0
+shits	1	0	0	0	1	0
+shitted	1	0	0	0	1	0
+shitter	1	0	0	0	1	0
+shitters	1	0	0	0	1	0
+shitting	1	0	0	0	1	0
+shittings	1	0	0	0	1	0
+shitty	1	0	0	0	1	0
+slag	1	0	0	0	1	0
+sleaze	1	0	0	0	1	0
+sluts	1	0	0	0	1	0
+snatch	1	0	0	1	0	0
+spunk	1	0	0	1	1	0
+twat	1	0	0	1	1	0
+kidnapper	1	1	1	1	0	1
+kid napper	1	0	1	0	1	0
+can you come over my house	1	0	1	1	1	0
+can you come over to my house	1	0	0	1	1	0
+wetback	1	0	0	0	1	0
+bitch	1	1	1	0	1	0
+blowjob	0	1	1	1	1	0
+fuck	0	1	1	0	1	0
+asshole	1	0	0	0	1	0
+motherfucker	0	0	1	0	1	0
+nazi	1	0	0	0	1	0
+nigga	1	0	0	0	1	0
+nigger	1	0	0	0	1	0
+pussy	1	1	1	0	1	0
+sexy	1	0	1	0	1	0
+sexi	1	0	1	0	1	0
+webcam	0	0	1	1	1	0
+shit	1	0	0	0	1	0
+Rape	1	0	1	1	1	0
+Suck	1	0	0	1	0	0
+Hoe	1	0	0	0	1	0
+breasts	1	0	0	1	1	0
+biches	1	0	1	0	1	0
+@SS	1	0	1	0	1	1
+fück	1	0	0	0	1	0
+Bottle Guy	1	1	1	0	1	0
+Vomit Girl	1	1	1	0	1	0
+Nut Abuse	1	1	1	0	1	0
+Suck Dude	1	1	1	0	1	0
+TubGirl	1	1	1	0	1	0
+porn	1	1	1	1	1	0
+lemonparty	1	1	1	0	1	0
+virgin	1	0	0	1	1	0
+vagina	1	1	1	1	1	0
+sperm	1	1	1	1	1	0
+cannabis	1	1	1	0	1	0
+kill myself	1	1	1	0	1	0
+alcohol	1	1	0	0	1	0
+weed	1	1	0	0	1	0
+marijuana	1	1	1	0	1	0
+cocain	1	1	1	0	1	0
+hash	1	1	1	0	1	0
+drunk	1	1	1	0	1	0
+kill	1	0	0	1	0	1
+killing	1	0	1	1	0	0
+killer	1	0	0	1	0	0
+§ex	1	1	1	0	1	1
+§exy	1	0	1	0	1	1
+cex	1	0	1	0	1	1
+sseexx	1	0	0	0	1	1
+ssexx	1	0	1	0	1	0
+sseexxx	1	0	0	0	1	1
+£ex	1	0	1	0	1	1
+£eex	1	0	1	0	1	1
+dik	1	0	1	0	1	1
+bich	1	0	1	0	1	1
+bicht	1	0	0	0	1	0
+biatch	1	0	1	0	1	0
+biotch	1	0	0	0	1	0
+bitsh	1	0	0	0	1	0
+bitsch	1	0	0	0	1	0
+beeyotch	1	0	0	0	1	0
+shiat	1	0	0	0	1	0
+sh1t	1	0	0	0	1	0
+shiit	1	0	0	0	1	0
+shiiit	1	0	0	0	1	0
+shiiiit	1	0	0	0	1	0
+basterd	1	0	0	0	1	0
+b@stard	1	0	0	0	1	0
+fok	1	0	1	0	1	1
+fook	1	0	0	0	1	0
+f0ck	1	0	1	0	1	1
+feck	1	0	0	0	1	0
+s1ag	1	0	0	0	1	0
+s1ut	1	0	0	0	1	0
+sluut	1	0	0	0	1	0
+slaag	1	0	0	0	1	0
+slaaag	1	0	0	0	1	0
+ustream	1	0	0	0	1	0
+redtube	1	0	0	0	1	0
+youporn	1	0	0	0	1	0
+pornhub	1	0	0	0	1	0
+pornsite	1	0	0	0	1	0
+sexyness	1	0	1	0	1	0
+gayporn	1	0	0	0	1	0
+lesbianporn	0	0	1	0	1	0
+analsex	1	0	1	0	1	0
+pedophil	0	0	1	0	1	0
+suicide	1	1	1	0	1	0
+suicidal	1	0	0	0	1	0
+kil	1	0	0	0	1	0
+xnxx	1	1	0	0	1	0
+penisbot	1	0	0	0	1	0
+teenporn	1	0	0	0	1	0
+hardsex	1	0	1	0	1	0
+xhamster	1	0	0	0	1	0
+sexual	1	1	1	0	1	0
+bisexual	1	1	1	0	1	0
+blowme	1	1	0	0	1	0
+bulshit	1	0	1	0	1	0
+cocaine	1	1	0	0	1	0
+fawk	1	1	0	0	1	0
+condom	1	0	0	1	1	0
+motherfker	1	0	0	0	1	0
+motherfcker	1	0	0	0	1	0
+pswrd	1	0	0	0	1	0
+pswd	1	0	0	0	1	0
+pword	1	0	0	0	1	0
+pedo	1	0	0	1	1	0
+breast	1	1	0	1	1	0
+bukkake	1	1	1	0	1	0
+pinkworld	1	0	0	0	1	0
+red tube	1	0	0	0	1	0
+you porn	1	0	0	0	1	0
+you-porn	1	0	0	0	1	0
+tube8	1	0	0	0	1	0
+cfreeporn	1	0	0	0	1	0
+x-hamster	1	0	0	0	1	0
+youjizz	1	0	0	0	1	0
+pichunter	1	0	0	0	1	0
+freeporn	1	0	0	0	1	0
+freefuckvidz	1	0	0	0	1	0
+fuckvidz	1	0	0	0	1	0
+xvideos	1	0	0	0	1	0
+x-videos	1	0	0	0	1	0
+gonzoxxx	1	0	0	0	1	0
+gonzoxxxmovies	1	0	0	0	1	0
+elephanttube	1	0	0	0	1	0
+x3xtube	1	0	0	0	1	0
+tommys-bookmarks	1	0	0	0	1	0
+spankwire	1	0	0	0	1	0
+tnaflix	1	0	0	0	1	0
+yourfreeporn	1	0	0	0	1	0
+yuvutu	1	0	0	0	1	0
+free18	1	0	0	0	1	0
+shufuni	1	0	0	0	1	0
+8freeporn	1	0	0	0	1	0
+onlymovies	1	0	0	0	1	0
+foreboxxx	1	0	0	0	1	0
+nicesextube	1	0	1	0	1	0
+porn365	1	0	0	0	1	0
+myfreepaysite	1	0	0	0	1	0
+libraryofthumbs	1	0	0	0	1	0
+slutload	1	0	0	0	1	0
+extremetube	1	0	0	0	1	0
+empflix	1	0	0	0	1	0
+hooktube	1	0	0	0	1	0
+tiava	1	0	0	0	1	0
+drtuber	1	0	0	0	1	0
+youngleafs	1	0	0	0	1	0
+nudevista	1	0	0	0	1	0
+tubekitty	1	0	0	0	1	0
+video-one	1	0	0	0	1	0
+tubegals	1	0	0	0	1	0
+rawtube	1	0	0	0	1	0
+hotshag	1	0	0	0	1	0
+nuvid	1	0	0	0	1	0
+elephantlist	1	0	0	0	1	0
+freeones	1	0	0	0	1	0
+bravoteens	1	0	0	0	1	0
+ovguide	1	0	0	0	1	0
+lubetube	1	0	0	0	1	0
+submityourflicks	1	0	0	0	1	0
+4tube	1	0	0	0	1	0
+xshare	1	0	0	0	1	0
+wowtgp	1	0	0	0	1	0
+picpost	1	0	0	0	1	0
+xxnl	1	0	0	0	1	0
+motherfucer	1	0	0	0	1	0
+lesbin	1	0	0	0	1	1
+lez	1	0	1	0	1	0
+lezzie	1	0	1	0	1	0
+lezzy	1	0	1	0	1	0
+jizz	1	0	1	0	1	1
+jizzing	1	0	0	1	1	0
+fap	1	0	0	0	1	0
+fapping	1	0	0	0	1	0
+brazzers	0	0	1	0	1	0
+beasttube	0	0	1	0	1	0
+pornerbros	0	0	1	0	1	0
+eporner	1	0	1	0	1	0
+youbunny	1	0	1	0	1	0
+alphaporno	0	0	1	0	1	0
+bigtits	1	0	0	0	1	0
+spankbang	0	0	1	0	1	0
+matadormovies	0	0	1	0	1	0
+pornwall	1	0	0	0	1	0
+fastjizz	0	0	1	0	1	0
+wetpussy	0	0	1	0	1	0
+xxxbunker	0	0	1	0	1	0
+keezmovies	0	0	1	0	1	0
+4chan	1	0	0	0	1	1
+tinyurl	1	0	0	0	1	0
+photobucket	1	0	0	0	1	0
+imageshack	1	0	0	1	1	0
+bonner	1	0	0	0	1	0
+shex	1	0	0	0	1	0
+smex	1	0	0	0	1	0
+s e x	1	0	0	0	1	0
+password	1	0	0	1	1	0
+pasword	1	0	0	0	1	0
+passs	1	0	0	1	1	0
+passss	1	0	0	0	1	0
+passw0rd	1	0	0	1	1	0
+tinychat	1	0	0	1	1	0
+bl0wj0b	1	0	0	0	1	0
+blovvjob	1	0	0	0	1	0
+shag	1	0	0	1	1	0
+shagging	1	0	0	1	1	0
+snog	1	0	0	0	1	0
+tonguekiss	1	0	0	1	1	0
+frenchkiss	1	0	0	1	1	0
+wh0re	1	0	0	0	1	0
+fck	1	0	0	0	1	0
+fk	1	0	1	0	1	1
+ffukk	1	0	0	0	1	0
+b i t c h	1	0	1	0	1	1
+ffs	1	0	1	0	1	1
+omfg	1	0	1	0	1	0
+ideot	1	0	0	0	1	0
+nigg4	1	0	0	0	1	0
+b!ach	1	0	0	0	1	1
+secs	1	0	0	0	1	1
+aass	1	0	0	0	1	1
+p£nis	1	0	0	0	1	0
+minky	1	0	0	0	1	0
+hardon	1	1	1	1	1	1
+hard-on	1	1	1	1	1	1
+jerk off	1	1	1	0	1	1
+jerkoff	1	1	1	0	1	1
+jacks off	1	1	1	0	1	1
+jerks off	1	1	1	0	1	1
+niger	1	0	0	0	1	0
+niga	1	0	0	0	1	0
+nega	1	0	0	0	1	0
+orgasmic	1	1	0	0	1	0
+phuke	1	0	0	0	1	0
+loverboy	1	0	0	0	1	0
+rapest	1	0	0	0	1	0
+raper	1	0	0	0	1	0
+raping	1	0	0	0	1	1
+anal	1	0	1	0	1	0
+azz	1	0	1	0	1	1
+ballz	1	0	0	0	1	1
+BDSM	1	1	1	0	1	1
+beeotch	1	0	0	0	1	0
+bellywhacker	1	1	1	0	1	1
+beitch	1	0	0	0	1	0
+beotch	1	0	0	0	1	0
+Bewbs	1	0	0	0	1	0
+boobi	1	0	1	0	1	1
+boobies	1	0	1	0	1	0
+booby	1	0	0	0	1	0
+booob	1	0	0	0	1	0
+bondage	1	0	1	0	1	0
+bootie	1	0	0	0	1	0
+booty	1	0	0	0	1	0
+bootiecall	1	0	1	0	1	1
+bootycall	1	0	1	0	1	1
+btch	1	0	0	0	1	0
+bunghole	1	0	0	0	1	0
+buttbreath	1	0	0	0	1	0
+butthair	1	0	0	0	1	0
+buttmuncher	1	0	0	0	1	0
+camcult	1	0	0	0	1	0
+cellular	1	0	0	1	0	0
+cellnumber	1	0	0	1	1	0
+cexy	1	0	1	0	1	1
+circlejerk	1	0	0	0	1	0
+clitoris	1	0	0	0	1	0
+comeshot	1	0	0	0	1	0
+Coitus	1	0	0	0	1	0
+Makinglove	1	0	0	0	1	0
+Boning	1	0	1	0	1	0
+Dikwad	1	0	0	0	1	0
+doggystyle	1	0	0	0	1	0
+dothenasty	1	0	0	0	1	0
+dum as	1	0	0	0	1	0
+erection	1	0	0	0	1	0
+erotic	1	0	0	0	1	0
+erotica	1	0	0	0	1	0
+fisting	1	0	1	0	1	0
+sh it	1	0	0	0	1	0
+fuckyou	1	0	0	0	1	0
+gayass	1	0	0	0	1	0
+hooters	1	1	0	0	1	0
+gmail	0	0	0	1	1	0
+gokkun	1	0	0	0	1	1
+hacking	1	1	1	1	0	1
+hitler	1	0	0	0	1	0
+homose	1	0	0	0	1	0
+hotmail	1	0	0	1	1	0
+humps	1	0	0	0	1	0
+Idiot	1	0	0	0	1	0
+jailbait	1	0	0	0	1	0
+jisum	1	0	0	1	1	0
+jizzed	1	0	1	0	1	1
+masturbation	0	0	1	0	1	0
+mather facker	1	0	0	0	1	0
+matherfacker	1	0	0	0	1	0
+Ménage à trois	1	0	0	0	1	0
+Menage e twa	1	0	0	0	1	0
+mobile number	1	0	0	0	1	0
+moneyshot	1	0	0	0	1	0
+muthf	1	0	0	0	1	0
+mthfker	1	0	0	0	1	0
+msn	1	0	0	1	1	1
+naked	1	0	0	0	1	0
+nude	1	0	0	0	1	0
+pedophile	1	1	1	0	1	0
+phone number	1	0	0	1	1	0
+popshot	1	0	0	0	1	0
+pregnant	1	0	0	1	0	0
+prostitute	1	1	1	0	1	0
+Pusy	1	0	0	0	1	0
+secsy	1	0	0	0	1	0
+semen	1	0	0	0	1	0
+send me pictures	0	0	0	1	0	0
+sextoy	1	0	1	0	1	0
+sex toy	1	0	1	0	1	0
+sexx	1	0	1	1	1	0
+sexual intercourse	1	0	1	1	1	0
+sexual partner	1	0	1	1	1	0
+shat	1	0	0	0	1	0
+sht	1	0	0	0	1	0
+shut the fuck up	1	0	0	0	1	0
+sit on me	1	0	0	1	1	0
+skanky	1	0	0	0	1	0
+smexi	1	0	1	0	1	0
+smexy	1	0	0	0	1	0
+sodomy	1	0	0	0	1	1
+peanus	1	0	0	0	1	0
+sodomize	1	0	0	0	1	0
+STFU	1	0	0	0	1	0
+stick it in	1	0	0	1	0	0
+Swastika	1	0	0	0	1	0
+sxy	1	0	0	0	1	0
+Take your pants off	1	0	0	1	1	0
+threesome	1	0	0	0	1	0
+tramp	1	0	0	0	1	0
+Turd	1	0	0	0	1	0
+unzip	1	0	0	0	1	0
+undress	1	0	0	1	1	0
+unzips pants	1	0	0	0	1	0
+vaginal	1	0	0	0	1	0
+vgina	1	0	0	0	1	0
+vigina	1	0	0	0	1	0
+What does your body look like	1	0	0	1	1	0
+wepcam	1	0	0	1	1	0
+WTF	1	0	0	0	1	0
+@sshol	1	0	1	0	1	1
+ßitch	1	0	0	0	1	0
+B00bies	1	0	0	0	1	0
+D!ck	1	0	0	0	1	0
+dum@ss	1	0	0	0	1	0
+g@y	1	0	0	0	1	0
+g@y@ss	1	0	0	0	1	0
+g@yass	1	0	0	0	1	0
+gay@ss	1	0	0	0	1	1
+jack@ss	1	0	0	0	1	0
+h00ker	1	0	0	0	1	0
+£3x	1	0	1	0	1	1
+phone #	1	0	0	1	1	0
+S3x	1	0	0	0	1	0
+séx	1	0	0	0	1	0
+s£xy	1	0	0	0	1	0
+se%	1	0	0	0	1	0
+Sh!t	1	0	0	0	1	0
+S & M	1	0	0	0	1	0
+S&M	1	0	0	0	1	0
+3-way	1	0	0	1	1	1
+3way	1	0	0	1	1	1
+3-w4y	1	0	0	1	1	1
+3w4y	1	0	0	0	1	0
+gay0	1	0	0	0	1	0
+Dammm	1	0	0	0	1	0
+fukin	1	0	0	0	1	0
+S  H  I  T	1	0	0	0	1	0
+lapdancer	1	0	0	0	1	0
+poledancer	1	0	0	0	1	0
+striptease	1	1	0	0	1	0
+stripclub	1	1	0	0	1	0
+i'msexyandiknowit	1	0	1	0	1	0
+imsexyandiknowit	1	0	1	0	1	0
+fuukk	1	0	1	0	1	0
+biitch	1	0	1	0	1	0
+asss	1	0	1	0	1	0
+cocck	1	0	1	0	1	0
+Flickr	1	0	0	1	1	0
+skype	1	0	0	1	1	1
+videochat	1	0	0	1	1	0
+ivideochat	1	0	0	1	1	0
+oovoo	1	0	0	0	1	0
+stickam	1	0	0	0	1	0
+tokbox	1	0	0	0	1	0
+marihuana	1	0	0	0	1	0
+bch	1	0	1	0	1	1
+whorree	1	0	0	0	1	0
+transsexual	1	0	1	0	1	0
+transexual	1	0	1	0	1	0
+fuch you	1	0	0	0	1	0
+bytch	1	0	1	0	1	1
+fannie	1	0	0	1	1	0
+fannie#	1	0	0	1	1	0
+raped	1	0	1	1	1	0
+rappe	1	0	0	0	1	0
+sxxexxx	1	0	0	0	1	0
+fuucker	1	0	0	0	1	0
+fuuker	1	0	0	0	1	0
+kunt	1	0	0	0	1	0
+cvnt	1	0	0	0	1	0
+chunt	1	0	0	0	1	0
+minger	1	0	0	0	1	0
+fatty	1	0	0	0	1	0
+sez	1	0	0	0	1	0
+finngering	1	0	0	1	1	0
+bllow joob	1	0	0	0	1	0
+scet	1	0	0	0	1	0
+bish	1	0	0	0	1	0
+zex	1	0	0	0	1	0
+z3x	1	0	0	0	1	0
+z e x	1	0	0	0	1	0
+comdom	1	0	0	0	1	0
+butsex	1	0	1	0	1	0
+buttsex	1	0	1	0	1	0
+butts3x	1	0	0	0	1	0
+butts£x	1	0	0	0	1	0
+fingerbang	1	0	0	1	1	0
+f1ngerbang	1	0	0	1	1	0
+rimjob	1	0	0	0	1	0
+rimj0b	1	0	0	0	1	0
+assmunch	1	0	0	0	1	0
+assmuncher	1	0	0	0	1	0
+4ssmuncher	1	0	1	0	1	1
+cunnilingous	1	0	0	0	1	0
+vaj	1	0	0	1	1	0
+vajayjay	1	0	0	0	1	0
+vergina	1	0	0	1	1	0
+vargina	1	0	0	0	1	0
+vagena	1	0	0	0	1	0
+dickriding	1	0	0	0	1	0
+assword	1	0	0	1	1	0
+playboy	1	0	0	0	1	0
+muvafucka	1	0	0	0	1	0
+bittch	1	0	0	0	1	0
+lezzey	1	0	0	0	1	0
+fagggot	1	0	0	0	1	0
+scr3w	1	0	0	0	1	0
+scr3wing	1	0	0	0	1	0
+underwear	0	0	0	1	0	0
+facerape	1	0	0	0	1	0
+Facebook	0	0	0	1	0	0
+sexey	1	0	1	1	1	0
+homosxual	1	0	0	0	1	0
+5ex	1	0	1	1	1	1
+fukeen	1	0	0	0	1	0
+bithch	1	0	0	0	1	0
+fuc	1	0	1	0	1	1
+sutup	1	0	0	0	1	0
+fvk	1	0	1	0	1	1
+bicth	1	0	0	0	1	0
+bra	1	0	0	1	0	0
+wanna have	0	0	0	1	0	0
+let's have	1	0	0	1	0	0
+who wants to have	0	0	0	1	0	0
+wanna do it	0	0	0	1	0	0
+@hotmail	0	0	1	1	1	0
+@gmail	0	0	1	1	1	0
+@live	0	0	1	1	0	0
+lie down	1	0	0	1	0	0
+lay down	1	0	1	1	1	1
+ly down	1	0	0	1	0	0
+what school do you go to	0	0	0	1	0	0
+meet in real life	0	0	0	1	0	0
+date in real life	0	0	0	1	0	0
+what do you look like	0	0	0	1	0	0
+real picture	0	0	0	1	0	0
+what is your email	0	0	0	1	0	0
+take your top off	1	0	0	1	1	0
+suck my	1	0	0	1	1	0
+lick my	1	0	0	0	1	0
+suck your	1	0	0	1	1	0
+cipa	1	0	0	0	1	0
+xomcom	0	0	1	0	1	0
+address	1	0	0	1	1	1
+adress	1	0	0	1	1	1
+cutting	1	1	1	1	1	0
+dickhead	1	0	1	0	1	0
+quck	1	0	0	0	1	0
+shithead	1	0	1	0	1	0
+fuckhead	1	0	1	0	1	0
+fuqen	1	0	0	0	1	0
+wanna have 6	1	0	0	1	0	0
+want to have 6	1	0	0	1	0	0
+6ex	1	0	1	1	1	1
+6exy	1	0	1	0	1	1
+lick you	1	0	0	1	1	0
+lick your	1	0	0	1	1	0
+mouthrape	1	0	0	1	1	0
+mouth rape	1	0	0	1	1	0
+gang bang	1	0	0	1	1	0
+penus	1	0	0	1	1	0
+suck on it	1	0	0	1	1	0
+vegina	1	0	0	0	1	0
+licking you	1	0	0	1	1	0
+licking your	1	0	0	1	1	0
+phone num	1	0	0	1	1	0
+phonenum	1	0	0	1	1	0
+wat your name	1	0	0	0	1	0
+wats your name	1	0	0	1	1	0
+wats ur name	1	0	0	1	1	0
+how old are	1	0	0	1	1	0
+make babies	1	0	0	0	1	0
+make baby	1	0	0	0	1	0
+go to hell	1	0	0	0	1	0
+cockblock	1	0	0	0	1	0
+hell	1	0	1	0	1	1
+suck me	1	0	0	0	1	0
+suckme	1	0	0	0	1	0
+fist you	1	0	0	0	1	0
+fist me	1	0	0	0	1	0
+drug	1	0	0	0	1	1
+drugs	1	0	0	0	1	1
+kik	1	0	0	1	1	1
+seks	1	0	0	1	1	0
+sx	1	0	1	0	1	0
+fock	1	0	0	0	1	0
+arss	1	0	0	0	1	0
+phanny	1	0	0	1	1	0
+mspprotectionforce	0	0	1	1	0	0
+protection force	0	0	1	1	0	0
+lapdance	1	1	1	0	1	0
+lap dance	1	1	1	0	1	0
+sexygirl	1	0	1	0	1	0
+figging	1	0	0	0	1	0
+wanna have sx	1	0	0	0	1	1
+seax	1	0	0	0	1	1
+puss	1	0	0	0	1	0
+fhuck	1	0	0	0	1	0
+omegle	1	0	0	0	1	0
+sax	1	0	0	0	1	0
+bang me	1	1	1	0	1	0
+der neger	1	1	1	0	1	0
+hump	1	0	1	0	1	1
+humping	1	0	1	0	1	0
+pussay	1	0	1	0	1	0
+pussaylicker	1	0	1	0	1	0
+snogs	1	0	1	0	1	0
+boocam	0	0	1	0	1	0
+striptiz	1	0	1	0	1	0
+allnaked	1	0	1	0	1	0
+baich	1	0	1	0	1	0
+xes	1	0	1	0	1	0
+suk my	1	0	1	0	1	0
+vag	1	0	1	0	1	0
+biach	1	0	1	0	1	0
+nipples	1	0	0	0	1	0
+nipple	1	0	0	0	1	0
+rapist	1	0	0	0	1	0
+play with yourself	1	1	1	1	1	0
+railing	1	1	0	0	1	0
+bulimia	1	1	0	0	1	0
+anorexia	1	1	0	0	1	1
+violence	1	1	0	0	1	0
+thinspo	1	1	1	1	1	0
+thinspiration	1	1	1	1	1	0
+pro-ana	1	1	0	1	1	0
+pro-mia	1	1	0	1	1	0
+kaunt	1	0	0	0	1	0
+biash	1	0	1	0	1	0
+skyp	1	0	0	0	1	1
+se ex ey	1	0	0	0	1	0
+se ex	1	0	0	0	1	0
+are you wet	0	0	0	1	1	0
+come in real life	1	0	0	1	1	1
+vigna	1	0	0	0	1	0
+gaylord	1	1	0	0	1	0
+fluck	1	0	1	0	1	0
+Hate	1	0	1	1	0	0
+kill you	1	1	1	0	1	0
+whorish	1	1	1	1	1	0
+sexay	1	1	1	0	1	0
+abuse	1	1	0	1	0	0
+mutilation	1	1	0	1	0	0
+gore	1	1	0	1	0	0
+selfharm	1	1	0	1	1	0
+ses	1	0	0	0	1	0
+fuq	1	1	1	1	1	0
+he//	1	0	1	0	1	1
+pro ana	1	1	0	1	1	0
+rainbow kiss	1	1	1	0	1	1
+sucide	1	1	1	1	1	0
+nacked	1	1	0	1	1	1
+3ex	1	0	0	0	1	1
+vags	1	0	0	0	1	1
+have ex	1	0	1	1	0	0
+s##	1	0	0	1	1	0
+tw@	1	0	1	1	1	1
+pw	1	0	0	1	1	1
+fcking	1	1	0	0	1	0
+fwuck	1	1	0	0	1	1
+scx	1	0	1	0	1	1
+sesx	1	0	1	0	1	1
+bwitch	1	0	1	0	1	1
+dicks	1	0	1	0	1	1
+Anonymous	1	0	1	0	1	0
+smx	1	0	1	0	1	1
+dogstyle	1	0	0	1	1	1
+anonamous	1	0	1	0	1	0
+anonymouse	1	0	1	0	1	0
+anoymous	1	0	1	0	1	1
+annonymous	1	0	1	0	1	1
+annonamous	1	0	1	0	1	1
+anoymous	1	0	1	0	1	1
+anomous	1	0	1	0	1	0
+anomus	1	0	1	0	1	0
+anoymus	1	0	1	0	1	1
+anonymus	1	0	1	0	1	0
+anoymus	1	0	1	0	1	1
+annonymus	1	0	1	0	1	1
+annonamus	1	0	1	0	1	1
+anonamus	1	0	1	0	1	0
+tipwatch	1	0	1	0	1	1
+tipwach	1	0	1	0	1	1
+tip watch	1	0	1	0	1	1
+tip wach	1	0	1	0	1	1
+anonymas	1	0	1	0	1	0
+anonymaus	1	0	1	0	1	0
+anoymas	1	0	1	0	1	1
+anoymaus	1	0	1	0	1	1
+anoymas	1	0	1	0	1	1
+anoymaus	1	0	1	0	1	1
+anomas	1	0	1	0	1	0
+anomaus	1	0	1	0	1	0
+anonymos	1	0	1	0	1	0
+annonymos	1	0	1	0	1	1
+anoymos	1	0	1	0	1	1
+anoymos	1	0	1	0	1	1
+anomos	1	0	1	0	1	0
+tampon	1	1	0	1	0	0
+anoy	1	0	1	0	1	1
+anony	0	0	1	0	1	0
+wordpass	1	0	1	0	1	1
+change your pw to	0	0	1	1	0	0
+change ur pw to	0	0	1	1	0	0
+change ur pass	0	0	1	1	0	0
+%UCK	1	0	1	0	1	0
+se%y	1	0	1	0	1	0
+se#y	1	0	1	0	1	0
+se#	1	0	1	0	1	0
+mother%ucker	1	0	1	0	1	0
+rahpe	0	0	1	1	1	0
+microsoft messenger	0	0	0	0	1	0
+MSN messenger	0	0	0	1	1	0
+msn mesenger	0	0	0	1	1	0
+are you alone	0	0	0	1	0	0
+are you home alone	0	0	0	1	1	0
+kiss in real	0	0	0	1	0	0
+hot in real	0	0	0	1	0	0
+beautiful in real	0	0	0	1	0	0
+email addy	1	0	0	1	1	0
+how many years are you	1	0	0	1	1	0
+skupe	1	0	0	0	1	1
+mage love to you	0	0	0	1	0	0
+make love to you	0	0	0	1	0	0
+in my bed	1	0	0	1	0	0
+massenger	1	0	0	1	1	0
+m_ssenger	1	0	0	1	1	0
+sk_pe	1	0	0	1	1	0
+s__	1	0	0	1	1	1
+t_ts	1	0	0	1	1	1
+s_ck	1	0	0	1	1	1
+between legs	0	0	0	1	1	0
+c___	1	0	0	1	1	0
+n___ked	1	0	0	1	1	0
+C----	1	0	0	1	1	0
+P____	1	0	0	1	1	0
+h___ny	1	0	0	1	1	0
+sk-pe	1	0	0	1	1	1
+phn number	1	0	0	1	1	0
+maake children	1	0	0	1	1	1
+have s	1	0	1	0	1	1
+nickers	1	0	0	1	1	0
+knicers	1	0	0	0	1	0
+knickers	1	0	0	0	1	0
+vajna	1	0	0	0	1	0
+vajina	1	0	0	0	1	0
+finger girl parts	0	0	0	1	0	0
+girl bits	1	0	0	1	1	1
+boy bits	1	0	0	1	1	1
+touch your bits	0	0	0	1	0	0
+tease	1	1	0	1	0	0
+twerk	1	1	1	0	1	0
+gay movie	1	0	1	0	1	1
+mating	1	1	1	1	0	0
+homebirth	1	1	0	0	1	0
+wanna have it	1	0	0	0	1	1
+wanna do s	1	0	0	0	1	1
+wanna have s	1	0	0	0	1	1
+do you want s	1	0	0	0	1	1
+do u want s	1	0	0	0	1	1
+seex	1	0	0	1	1	0
+seeex	1	0	0	0	1	0
+seeeex	1	0	0	0	1	0
+seeeeex	1	0	0	0	1	0
+seexxx	1	0	0	0	1	1
+sexxxxx	1	0	0	0	1	1
+seeeexxxx	1	0	0	0	1	1
+playboii	1	0	1	0	1	0
+playboiibunny	1	0	1	0	1	0
+french kiss	1	1	1	1	1	0
+serial killer	1	1	1	0	1	1
+i love willy	1	0	1	0	1	1
+sexc	1	0	1	1	1	0
+sexs	1	0	1	0	1	0
+have xxx	1	0	1	1	1	0
+horney	1	0	1	1	1	0
+nippel	1	0	0	1	1	0
+bumhole	1	0	0	1	1	0
+front bum	1	0	0	1	1	0
+fanni	1	0	0	1	1	0
+Tortura	1	1	0	0	1	1
+Child beating	1	1	1	0	1	1
+Toddler abuse	1	1	1	0	1	1
+grim reaper	1	0	1	0	1	1
+grimm reaper	1	0	1	0	1	1
+grim reper	1	0	1	0	1	1
+what is your address	1	0	0	1	1	0
+shexi	1	0	1	0	1	0
+shexy	1	0	1	0	1	0
+swexi	1	0	1	0	1	0
+swexy	1	0	1	0	1	0
+kok	1	0	0	1	1	0
+huffing	1	1	0	0	1	0
+bagging	1	1	0	0	1	0
+sexe	1	0	1	1	1	0
+sexh	1	1	0	1	1	0
+bombing	1	1	0	0	1	0
+explosion	1	1	0	0	1	0
+NSM	1	0	0	1	1	0
+SKIPE	1	0	0	1	1	0
+pussi	1	0	0	0	1	0
+sxe	1	0	1	1	1	0
+fuckoff	1	0	1	0	1	0
+DlCK	1	0	1	0	1	0
+BlTCHES	1	0	1	0	1	0
+SHlT	1	0	1	0	1	0
+BASZTARDS	1	0	1	0	1	0
+SHLUT	1	0	1	0	1	0
+FVCKING	1	0	1	0	1	0
+FVCK	1	0	1	0	1	0
+Bazuka	1	1	1	1	1	0
+hot girls kissing	1	0	1	1	1	1
+girls kissing	1	0	1	1	1	1
+girls snogging	1	0	1	1	1	1
+paedophile	1	0	1	1	1	1
+hot girls making out	1	0	1	1	1	0
+girls making out	1	0	0	0	1	1
+girls french kiss	1	0	0	0	1	1
+girls french kissing	1	0	0	0	1	1
+xpenis	1	0	0	0	1	0
+xpussy	1	0	0	0	1	0
+xsex	1	0	0	0	1	0
+dead space	1	1	0	0	1	1
+skypes	1	0	0	1	1	1
+salad fingers	1	1	0	0	1	0
+haveskype	1	0	0	1	1	0
+yourskype	1	0	0	1	1	0
+onskype	1	0	0	1	1	0
+arse	1	0	0	0	1	0
+licked in the bottom	1	0	0	1	1	1
+tongued in the bottom	1	0	0	1	1	1
+in the bottom	1	0	0	1	1	1
+in your bottom	1	0	0	1	1	1
+skypename	1	0	0	1	1	1
+facebbok	1	0	0	0	1	1
+between your legs	1	0	0	1	1	1
+between the legs	1	0	0	1	1	1
+dirty talk	1	0	0	1	1	1
+talk dirty	1	0	0	1	1	1
+dirty talking	1	0	0	1	1	1
+peepee	1	1	0	1	1	1
+lick your peepee	1	0	0	1	1	1
+smack your bottom	1	0	0	1	1	0
+dogsex	1	0	0	1	1	0
+pleasure yourself	1	0	0	1	1	0
+luvsex	1	0	0	1	1	0
+viber	1	0	0	1	1	1
+vi ber	1	0	0	1	1	0
+vib3r	1	0	0	1	1	0
+lezbo	1	1	0	0	1	0
+meatspin	1	1	0	0	1	0
+lesb	1	1	0	0	1	0
+hot women making out	1	1	0	0	1	1
+women kissing	1	1	0	0	1	1
+vir	1	0	0	1	1	0
+banging	1	1	1	0	1	0
+making out	1	1	1	0	1	1

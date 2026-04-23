@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<title>BoonieBounce</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="description" content="Download and play Boonie Bounce on Android and iOS now! Unlock amazing worlds and boosters! Bounce as high as you can to collect Fame and StarCoins which you can transfer to your MovieStarPlanet account!" />
+<meta name="keywords" content="Boonie, Bounce, cute, app, jump, MovieStarPlanet" />
+<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body>
+<div id="background" ></div>
+
+<div class="row" id="header">
+	<div id="leftHeader">
+		<image id="logo" src="img/LogoRGB.png" />
+		<div id="link">
+			<a href="https://itunes.apple.com/app/boonie-bounce/id612749441">
+				<image src="img/appstore.png" />
+			</a>
+		</div>
+	</div>
+	<div id="rightHeader">
+		<image id="title" src="img/Title_01.png" />
+	</div>
+</div>
+
+<div class="row" id="content" />
+	<div id="filter">
+		<div id="screenshots" />
+			<image class="screenshot" src="img/screenshots/1.jpg" />
+			<image class="screenshot" src="img/screenshots/2.jpg" />
+			<image class="screenshot" src="img/screenshots/3.jpg" />
+			<image class="screenshot" src="img/screenshots/4.jpg" />
+			<image class="screenshot" src="img/screenshots/5.jpg" />
+		</div>
+		<div id="text" />
+		
+		<p>Boonie Bounce - the new MovieStarPlanet game for iPhone and iPod Touch is finally here!</p>
+
+		<p>Want the Boonie as your new best friend?</p>
+
+		<!--div id="player"></div-->
+
+		<p>Help your Boonie bounce as high as you can! Bounce off dots, StarCoins and Fame Stars to try and break your record. If you fall you can save the Boonie with a Bouncy Castle. Unlock the new worlds: MONSTER CASTLE, GREEN HILLS and NEON PARTY.
+		MovieStarPlanet players can transfer the StarCoins and Fame earned to their movie star.</p>
+
+		<p>But wait... Something is chasing you! Evil Skulls try to take away your speed, Fame and Star Coins. You really need to avoid these evil things!</p>
+		
+		
+		</div>
+	</div>
+</div>
+
+
+
+
+
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '390',
+          width: '640',
+          videoId: 'q-98zuQym-c',
+          events: {
+            'onReady': onPlayerReady
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+    </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,475 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+hoer	1	1	1	1	1	0
+kut	1	0	1	1	1	0
+lul	1	0	1	1	1	0
+klit	1	0	0	1	0	0
+piemel	0	1	1	1	1	0
+kutmarokkaan	1	0	1	0	1	0
+nazi	1	0	1	0	1	0
+trut	1	0	0	0	1	0
+klootzak	1	0	0	0	1	0
+kloten	1	0	0	0	1	0
+tieten	1	1	1	1	1	0
+tiet	1	1	1	1	1	0
+lesbo	1	0	1	0	1	0
+homo	1	1	1	1	0	0
+flikker	1	0	1	0	1	0
+kont	1	1	1	1	0	0
+pooier	1	1	1	1	1	0
+testikel	1	1	1	1	1	0
+afrukken	1	1	1	1	1	0
+klaarkomen	1	1	1	1	1	0
+geil	1	0	1	1	1	0
+mongool	1	0	1	0	1	0
+slet	1	0	1	0	1	0
+beffen	1	1	1	1	1	0
+anus	1	1	1	1	1	0
+neuken	1	1	1	1	1	0
+neuk	1	1	1	1	1	0
+afzuigen	1	0	1	1	1	0
+zuigen	1	0	1	1	0	0
+pijpen	1	0	1	1	1	0
+geitenneuker	0	0	1	0	1	0
+debiel	1	0	0	0	1	0
+schaamlippen	1	0	1	1	1	0
+schaamhaar	1	0	1	1	1	0
+schijt	1	0	1	0	1	0
+sperma	1	1	1	1	1	0
+tering	1	0	1	0	1	0
+teef	1	0	1	0	1	1
+seks	1	1	1	1	1	0
+sex	1	0	1	1	1	1
+seksen	1	1	1	1	1	0
+sexen	1	0	1	1	1	1
+nueken	1	0	1	1	1	0
+neuke	1	0	1	1	1	0
+kud	1	0	1	0	1	0
+kutje	0	0	1	0	1	0
+kanke	1	0	1	0	1	0
+hoerr	1	1	1	0	1	0
+mongol	1	0	1	0	1	0
+mogol	1	0	1	0	1	0
+megol	1	0	1	0	1	0
+ping	1	0	0	1	0	0
+fuck	0	1	1	1	1	0
+motherfucker	0	0	1	0	1	0
+blowjob	0	0	1	1	1	0
+nazist	1	0	1	0	1	0
+pussy	1	1	1	1	1	0
+sexy	1	1	1	1	1	0
+webcam	1	0	0	1	1	0
+zenci	1	0	1	0	1	0
+sexi	1	1	1	1	1	0
+homosex	0	0	1	1	1	0
+kankerhoer	0	0	1	0	1	0
+k@nkerhoer	1	1	1	0	1	0
+kutt	1	0	1	0	1	0
+slettebak	1	1	1	0	1	0
+kutthoer	0	0	1	0	1	0
+fuk	1	0	0	0	1	1
+sexxen	1	0	1	0	1	0
+seksueel	1	1	1	1	1	0
+se%en	1	0	1	1	1	1
+sekzen	1	0	1	0	1	1
+sexsen	1	0	1	1	1	1
+condoom	0	1	1	1	1	0
+insemination	1	1	0	0	1	0
+pik	1	0	1	1	0	0
+kutkind	0	1	1	0	1	0
+kutkint	1	0	1	0	1	0
+kuttkind	0	0	1	0	1	0
+kankerkind	1	0	1	0	1	0
+k@nkerkind	1	0	1	0	1	0
+kangkerkind	1	0	1	0	1	0
+kankermogool	1	1	1	0	1	0
+kankermongool	1	0	1	0	1	0
+afneuken	0	1	1	1	1	0
+asshole	1	1	0	0	1	0
+rukken	1	0	1	1	1	0
+gail	1	0	0	1	1	1
+geihl	1	0	1	1	1	1
+kankerluier	1	0	1	0	1	0
+bitch	1	0	0	0	1	0
+ejaculeren	1	1	1	1	1	0
+l3itch	1	0	0	0	1	0
+lesbi	1	0	1	0	1	0
+masturberen	1	1	1	1	1	0
+maddefakker	1	0	1	0	1	0
+fakjoe	1	0	0	0	1	0
+scrotum	1	0	1	1	1	0
+sexy	1	1	1	1	1	0
+sexi	1	0	1	0	1	1
+manwijf	1	0	1	0	1	0
+tietuh	1	0	1	1	1	0
+borsten	1	0	0	1	1	0
+b0rsten	1	1	1	1	1	0
+sloerie	1	0	1	0	1	0
+testikels	1	1	1	1	1	0
+kutje likken	0	0	1	1	1	0
+lik mijn reet	1	1	1	0	1	0
+bitchies	1	0	0	0	1	0
+stijve pimol	1	0	1	1	1	0
+stijve pimel	1	0	1	1	1	0
+stijve piemel	0	0	1	1	1	0
+stijve	1	0	0	1	0	0
+stijfe pimol	1	0	0	1	1	0
+pimol	1	0	1	1	1	0
+seksi	1	0	1	0	1	0
+seksy	1	0	1	0	1	0
+sekssi	1	0	1	0	1	0
+sexxi	1	0	1	0	1	0
+kenkerhoer	1	0	1	0	1	0
+kenkerkut	1	0	1	0	1	0
+kankerkut	1	0	1	0	1	0
+khut	1	0	1	0	1	1
+nuiken	1	0	1	1	1	1
+neuhken	1	0	1	1	1	0
+khutje	1	0	1	0	1	1
+cuht	1	0	1	0	1	1
+cuhtje	1	0	1	0	1	1
+neukertje	1	0	1	1	1	0
+beffuh	1	1	1	1	1	0
+fcking	1	0	0	0	1	0
+fck	1	0	0	0	1	0
+kutmogool	0	0	1	0	1	0
+kondoom	0	0	1	1	1	0
+hoereneuker	0	0	1	0	1	0
+hoerenneuker	0	0	1	0	1	0
+mngl	1	0	0	0	1	0
+megool	1	0	1	0	1	0
+cut	1	0	1	0	1	1
+downy	1	0	0	0	1	1
+downie	1	0	0	0	1	1
+pedo	1	1	1	1	1	0
+pedobeer	1	0	0	1	1	0
+pedoseks	0	1	1	1	1	0
+pedosex	0	1	1	1	1	0
+se%	1	1	1	1	1	0
+sekx	1	0	1	0	1	0
+sexs	1	0	1	1	1	1
+sexxe	1	0	1	0	1	0
+sexsueel	1	0	1	1	1	1
+sexkse	1	0	1	0	1	0
+fok	1	0	0	0	1	1
+wtf	1	0	1	0	1	0
+sexxy	1	0	1	0	1	0
+sexe	1	0	1	1	1	1
+op zijn hondjes	1	1	1	1	1	0
+verrekte kut	1	0	1	0	1	0
+verekte kut	0	0	1	0	1	0
+verrekte	1	0	1	0	1	0
+piemel in kut	1	0	1	1	1	0
+pimel	1	0	1	1	1	0
+pikkie	1	1	1	1	1	0
+pikje	1	0	1	1	1	1
+sperma	1	1	1	1	1	0
+ahbap emmek	1	0	0	0	1	0
+vagina	1	1	1	1	1	0
+kanklijer	1	0	1	0	1	0
+kankerlijer	1	0	1	0	1	0
+kankerleier	1	0	1	0	1	0
+kuwt	1	0	1	0	1	0
+neuwken	1	0	1	1	1	0
+kankerbek	1	0	1	0	1	0
+fucxing	1	0	0	0	1	0
+fucxking	1	0	0	0	1	0
+hoerje	1	0	1	0	1	0
+teringbitch	1	0	1	0	1	0
+teringbits	1	0	1	0	1	0
+teringhoer	1	0	1	0	1	0
+teringkut	0	0	1	0	1	0
+kutmeisje	0	0	1	0	1	0
+kutjoch	0	0	1	0	1	0
+kutkanker	1	0	1	0	1	0
+kutklootzak	1	0	1	0	1	0
+kankerkutzak	1	0	1	0	1	0
+kutzak	1	0	1	0	1	0
+kutidioot	1	0	1	0	1	0
+kankeridioot	1	0	1	0	1	0
+kale kut	1	0	1	0	1	0
+kalekut	1	0	1	0	1	0
+koelie	1	0	0	0	1	0
+konjo	1	0	0	0	1	0
+tollie	1	0	1	1	1	0
+tolly	1	0	1	1	1	0
+poeni	1	0	1	0	1	0
+poenie	1	0	1	0	1	0
+manweif	1	0	1	0	1	0
+h0m0	1	0	1	0	1	0
+h0mo	1	0	1	0	1	0
+hom0	1	0	1	0	1	0
+homootje	0	0	1	0	1	0
+h0m00tje	1	0	1	0	1	0
+homohoer	0	0	1	1	0	0
+vingeren	1	0	1	1	1	0
+rukkuh	1	0	1	1	1	0
+vozen	1	1	1	1	1	0
+afruken	1	0	1	1	1	0
+pik in kut	1	0	1	1	1	0
+p!k	1	0	1	1	1	1
+p!kkie	1	0	1	1	1	0
+kloot	0	0	1	0	1	0
+kl0ten	1	0	1	0	1	0
+klaark0men	1	0	1	1	1	0
+in je kontje	1	0	1	1	1	0
+in je reet	1	1	1	1	1	0
+reet	1	0	1	1	1	0
+neem ik je van achteren	1	0	0	1	1	0
+neem ik je van achter	1	0	0	1	1	0
+b17ch	1	0	0	0	1	0
+b1tch	1	0	0	0	1	0
+b!tch	1	0	0	0	1	0
+klootzakken	1	0	1	0	1	0
+penetreren	1	1	1	1	1	0
+penetratie	1	1	1	1	1	0
+aflebberen	1	0	0	1	0	0
+anaal	1	0	1	1	1	0
+kontneuker	1	0	1	0	1	0
+kontjesneuker	1	0	1	0	1	0
+paardeneuker	1	0	0	0	1	0
+heoreneuker	1	0	0	0	1	0
+hoerenueker	1	0	0	0	1	0
+phijpen	1	0	1	1	1	1
+paipen	1	0	0	1	1	0
+peipen	1	0	1	1	1	1
+aftrekken	1	0	1	1	0	0
+fak	1	0	0	0	1	0
+vak jou	1	0	1	0	1	0
+fak jou	1	0	0	0	1	0
+vak you	1	0	1	0	1	0
+fak you	1	0	0	0	1	0
+stoeipoes	1	0	1	1	1	0
+dom blondje	1	0	0	0	1	0
+h0er	1	1	1	0	1	0
+h0ertje	1	0	1	0	1	0
+kankerh0er	1	0	1	0	1	0
+h0eren	1	0	1	0	1	0
+hoeren	1	0	1	0	1	0
+hoewren	1	0	1	0	1	0
+hoewr	1	0	1	0	1	0
+w8twoord	1	0	0	0	1	0
+w8twoort	1	0	0	0	1	0
+w8w	1	0	0	0	1	0
+kknker	1	0	0	0	1	0
+kuthoofd	1	0	1	0	1	0
+kontenaaier	1	0	1	0	1	0
+piemel likken	1	0	0	1	1	0
+gangbang	1	1	1	0	1	0
+homoseksi	0	0	1	1	1	0
+cammen	1	0	0	1	0	1
+adres	1	0	0	1	0	0
+telefoon	1	0	1	1	0	0
+kontjeslikker	1	0	1	0	1	0
+kontlikker	1	0	1	0	1	0
+kontelikker	1	0	1	0	1	0
+bulshit	1	0	0	0	1	0
+spleetjeslikker	1	0	0	1	1	0
+spleetje likken	1	0	0	1	1	0
+dildo	0	1	1	1	1	0
+vetzak	1	0	1	0	1	0
+dikke trut	1	0	0	0	1	0
+stomme trut	1	0	1	0	1	0
+fellatio	0	1	1	1	1	0
+vinger in je reet	1	1	1	0	1	0
+vinger in je kont	1	1	1	0	1	0
+vinger je jezelf	1	0	0	1	1	0
+hasj	1	0	0	0	1	0
+hash	1	0	0	0	1	0
+cocaine	1	0	0	0	1	0
+kokaine	1	0	0	0	1	0
+wijf	1	0	1	0	1	1
+prostitue	1	0	1	1	1	0
+prostitutie	1	1	0	1	1	0
+bangalijst	1	0	1	0	1	1
+zelfbevrediging	0	1	1	1	1	0
+zwarte joekel	1	0	1	0	1	0
+gsm	1	0	0	1	1	0
+skrotum	1	0	1	1	1	0
+vingrt	1	0	1	1	1	0
+wagtwoord	1	0	1	0	1	0
+w8gtwoord	1	0	1	0	1	0
+w8gtw00rd	1	0	1	0	1	0
+w8gtw	1	0	1	0	1	0
+cybersex	1	0	1	1	1	0
+vrijen	1	0	1	1	1	0
+geilaard	1	0	1	1	1	0
+lesbie	1	0	1	1	1	0
+maddefucker	1	0	1	0	1	0
+moddefakker	1	0	1	0	1	0
+fakker	1	0	1	0	1	0
+porno	1	0	1	1	1	0
+pim0l	1	0	1	1	1	0
+maagd	1	0	1	1	0	0
+se%ks	1	0	1	0	1	1
+se%x	1	0	1	0	1	1
+movia	1	0	0	1	0	0
+xxxdump	1	0	0	0	1	1
+klitsurfen	1	0	0	0	1	0
+pornxi	1	0	0	0	1	0
+nikker	1	0	1	0	1	0
+w8word	1	0	0	0	1	0
+spleetje	1	0	1	1	0	0
+stoephoer	1	0	1	0	1	0
+peenus	1	0	1	1	1	1
+telefoonsex	1	0	1	1	1	0
+telefoonnummer	1	0	0	1	0	0
+verk8cht	1	1	1	1	1	0
+verkr8chter	1	0	1	1	1	0
+verkr8chten	1	1	1	1	1	0
+verkrachter	0	1	1	1	1	0
+w8w00rd	0	0	1	0	1	0
+w8woord	0	0	1	0	1	0
+waar woon je	0	0	0	1	0	0
+wachtw00rd	0	0	1	0	1	0
+welke straat	1	0	0	1	0	0
+stuur foto	1	0	0	1	0	0
+peenis	1	0	1	1	1	1
+sperm	1	1	1	1	1	0
+waar woon jij	0	0	0	1	0	0
+achternaam	1	0	0	1	0	0
+hoe heet je	0	0	0	1	0	0
+echte naam	1	0	0	1	0	0
+bloot	1	1	1	1	0	0
+naakt	1	1	1	1	0	0
+kuthomo	0	0	1	0	1	0
+loverboy	1	1	1	1	0	0
+verkr8er	0	0	1	1	1	0
+verkracht	0	0	1	1	1	0
+Facebook	0	0	0	1	0	0
+ondergoed	0	0	0	1	0	0
+slipje	0	0	0	1	0	0
+string	0	0	0	1	0	0
+bh	1	0	0	1	0	0
+pedofiel	1	1	1	1	1	0
+skype	0	0	0	1	0	0
+@hotmail	1	0	1	1	0	0
+@sshol	1	0	1	0	1	0
+£3x	1	0	1	1	1	0
+£eex	1	0	1	1	1	0
+£ex	1	0	1	1	1	0
+§ex	1	0	1	1	1	0
+§exy	1	0	1	1	0	0
+trio	1	0	0	1	0	0
+triootje	1	0	1	1	1	0
+anaalsex	1	0	1	1	1	0
+b i t c h	0	0	1	0	1	0
+B00bies	1	0	1	0	1	0
+biitch	1	0	1	0	1	0
+bitsch	1	0	1	0	1	0
+bittch	1	0	1	0	1	0
+bl0wj0b	1	0	1	1	1	0
+blovvjob	1	0	1	1	1	0
+bitsh	1	0	1	0	1	0
+foto	1	0	0	1	0	0
+heb je een foto	1	0	0	1	0	0
+stuur een foto	0	0	0	1	0	0
+camera	1	0	0	1	0	0
+wil je me zien	1	0	0	1	0	0
+foto's	1	0	0	1	0	0
+in het echt	1	0	0	1	0	0
+scheer je je	1	0	0	1	0	0
+clitoris	1	0	1	1	1	0
+clitje	1	0	1	1	1	0
+vaginaal	1	1	1	1	1	0
+mobielnr	1	0	0	1	0	0
+straat	0	0	0	1	0	0
+erectie	1	1	1	1	1	0
+alleen thuis	1	0	0	1	0	0
+msn	1	0	0	1	0	0
+hyves	0	0	0	1	0	0
+ontmoeten	1	0	0	1	0	0
+hoe zie je er uit	1	0	0	1	0	0
+ongesteld	0	0	0	1	0	0
+maandstonden	1	0	0	1	0	0
+mobiel	1	0	0	1	0	0
+orgasme	1	1	1	1	1	0
+kleed je uit	1	0	0	1	0	0
+ga liggen	1	0	0	1	0	0
+tongen	1	0	0	1	1	0
+videochat	1	0	0	1	0	0
+welke groep zit	1	0	0	1	0	0
+doe je broek uit	1	0	0	1	0	0
+borst	1	0	0	1	0	0
+btch	1	0	1	0	1	0
+lekkerding	0	0	1	1	0	0
+borstjes	1	1	1	1	1	0
+tepel	1	1	1	1	1	0
+geslacht	1	0	0	1	0	0
+geslachtsgemeenschap	1	1	1	1	1	0
+drtuber	0	0	1	1	0	0
+beha	1	1	1	1	0	0
+lekkertje	1	0	1	1	0	0
+kuthoer	1	0	1	0	1	0
+kutwijf	1	0	1	0	1	0
+lik mijn ballen	1	0	1	1	1	1
+lik me	1	0	1	1	1	1
+lik mij	1	0	1	1	1	1
+netlog	1	0	0	1	0	0
+hoe noem je in het echt	1	0	0	1	0	0
+wippen	0	0	0	1	0	0
+omfg	1	1	1	0	1	1
+verkrachten	1	1	1	1	1	0
+verk8t	1	1	1	1	1	0
+anorexia	1	0	0	1	0	0
+railing	1	1	0	1	0	0
+boulemia	1	0	0	1	0	0
+snijden	1	1	0	1	0	0
+geweld	1	1	0	1	0	0
+red light district	1	1	0	1	0	0
+blowen	1	1	0	1	0	0
+abortus	1	1	0	1	0	0
+zelfmoord	1	1	0	1	0	0
+suicide	1	1	0	1	0	0
+ontucht	1	1	0	1	0	0
+zedenzaak	1	1	0	1	0	0
+mishandeling	1	1	0	1	0	0
+kindermishandeling	1	0	0	1	0	0
+zuipen	1	1	0	1	0	0
+zwanger	1	1	0	1	0	0
+misbruik	1	1	0	1	0	0
+neger	1	0	1	0	1	1
+kankerhomo	0	1	0	0	1	0
+ktje	1	1	0	1	1	1
+aanranden	1	1	0	1	1	1
+wil je met me naar bed	1	0	0	1	0	0
+borst&	1	1	0	1	1	0
+verk8	1	1	0	1	1	1
+instagram	1	0	0	1	0	1
+makak	1	0	0	0	1	1
+spast	1	0	0	0	1	1
+toepen	1	1	0	0	1	0
+vogelen	1	1	0	1	1	1
+open en bloot	1	1	0	1	0	0
+100 hete vragen	1	1	0	1	0	0
+darmtoerist	1	0	0	0	1	1
+poepen	1	0	1	1	1	0
+anorex	1	1	0	1	0	0
+verneuken	1	0	0	0	1	0
+pik zuigen	1	1	0	1	1	0
+hyves naam	1	0	0	1	1	1
+wa'pp	0	0	0	1	0	0
+wapp	1	0	0	1	0	0
+mcn	1	0	0	1	0	0
+kinderprostitutie	1	1	1	1	1	0
+fuckin	1	1	0	1	1	0
+fukking	1	1	0	1	1	0
+kontgat	1	1	0	1	1	0
+s!et	1	0	0	0	1	0
+penus	1	1	0	1	1	0
+tampon	1	1	0	1	0	0
+faqing	1	0	0	0	1	0
+godverdomme	1	1	0	0	1	0
+gijl	1	1	0	1	1	0
+kontjé	1	0	0	1	1	0
+kuwtje	1	0	0	1	1	0
+neuq	1	0	0	1	1	0
+neuqen	1	0	0	1	1	0
+neucken	1	0	0	1	1	0
+neuwk	1	0	0	1	1	0
+strelen	1	0	0	1	0	0
+streel	1	0	0	1	0	0
+slurf	1	0	0	1	1	0
+leuter	1	0	0	1	0	0
+kontje	1	0	0	1	0	0
+tepels	1	0	0	1	1	0
+wichat	1	0	0	1	0	0

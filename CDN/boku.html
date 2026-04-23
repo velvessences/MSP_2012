@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<style type="text/css">
+
+body 
+{
+	color:white;
+	background-color:black;
+	font-family:arial;
+	overflow:hidden;
+}
+
+
+
+#box1 
+{
+	position : absolute;
+	top : 100px;
+	left : 0px;
+	width : 200px;
+	height : 250px;
+
+	padding-top: 0px;
+	
+	color:white;
+	text-align : center;
+
+}
+#box2
+{
+	position : absolute;
+	top : 100px;
+	left : 230px;
+	width : 200px;
+	height : 250px;
+
+	padding-top: 0px;
+	
+	color:white;
+	text-align : center;
+}
+#box3 
+{
+	position : absolute;
+	top : 100px;
+	left : 460px;
+	width : 200px;
+	height : 250px;
+
+	padding-top: 0px;
+	margin:0px;
+	
+	color:white;
+	text-align : center;
+}
+
+#bottombox
+{
+	position : absolute;
+	top : 360px;
+	left : 50px;
+	width : 650px;
+	height : 240px;
+
+	padding-top: 10px;
+	
+	padding-left : 10px;
+	color:white;
+	margin:0px;
+}
+
+.boxtext
+{
+
+	position : absolute;
+	width: 100%;
+	margin-top:0px;
+	top:10px;
+	left:0px;
+	text-align:center;
+}
+
+.bokubutton
+{
+	margin:0px;
+	position : absolute;
+	bottom: 20px;
+	left: 25px;
+
+}
+
+
+</style>
+
+<!--
+<script type="text/javascript">
+document.write(Date() +" "+ window.location.href+"<br/>");
+</script>
+-->
+
+
+</head>
+<body scroll="no">
+<script type="text/javascript">
+function getUrlParam( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+</script>
+<h1>Buy VIP Membership for MovieStarPlanet</h1>
+<div id="box1">
+	<div class="boxtext">
+		<h3>750 StarCoins</h3>
+		1 week VIP membership<br/><br/>
+		Pay with SMS<br>
+		<h1>20 kr.</h1>
+	</div>
+	<div class="bokubutton">
+		<script type="text/javascript">
+		/*test service: http://buy.boku.com/buybutton/ffe5e1165799832ce5f783d4/buy.js */
+		/* 1week service: http://buy.boku.com/buybutton/cd1e04782a92560b444d5b9c/buy.js */
+			document.write('<script language="JavaScript" src="http://buy.boku.com/buybutton/cd1e04782a92560b444d5b9c/buy.js?param='+getUrlParam('actorid')+'"><\/script>');
+		</script>
+	</div>
+</div>
+
+<div id="box2">
+	<div class="boxtext">
+		<h3>2000 StarCoins</h3>
+		2 weeks VIP membership<br/><br/>
+		Pay with SMS<br>
+		<h1>30 kr.</h1>
+	</div>
+	<div class="bokubutton">
+		<script type="text/javascript">
+			document.write('<script language="JavaScript" src="http://buy.boku.com/buybutton/f10b963e5799832c6f439bce/buy.js?param='+getUrlParam('actorid')+'"><\/script>');
+		</script>
+	</div>
+</div>
+
+<div id="box3">
+	<div class="boxtext">
+		<h3>5000 StarCoins</h3>
+		1 month VIP membership<br/><br/>
+		Pay with SMS<br>
+		<h1>50 kr.</h1>
+	</div>
+	<div class="bokubutton">
+		<script type="text/javascript">
+			document.write('<script language="JavaScript" src="http://buy.boku.com/buybutton/f11c58f55799832c2a08080d/buy.js?param='+getUrlParam('actorid')+'"><\/script>');
+		</script>
+	</div>
+</div>
+
+<div id="bottombox">
+<b>When you buy a VIP membership you get the number of StarCoins shown above.</b><br/>
+<b>As a VIP member you can:</b>
+<ul>
+<li>Spin the VIP wheel once per day and win a lot of StarCoins</li>
+<li>Buy exclusive VIP clothes, accessories and furniture</li>
+<li>Buy exclusive VIP music and backgrounds for your movies</li>
+<li>Have 5 times more friends, eg. 200 at level 2 and 500 at level 5</li>
+<!-- <li>Get access to VIP chat rooms and VIP areas in chat rooms</li> -->
+<li>Give autographs every 15 minutes instead of every 60 minutes</li>
+</ul>
+<h2>All this is only possible for VIP members!</h2>
+</div>
+
+</body>
+</html> 

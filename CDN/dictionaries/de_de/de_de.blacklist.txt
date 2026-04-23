@@ -1,0 +1,904 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+schlampe	1	0	0	0	1	0
+pimmel	1	0	0	0	1	0
+schwanz	1	0	0	0	1	0
+pimmeln	1	0	0	0	1	0
+gehobelt	1	0	0	0	1	0
+geschlechtsverkehr	1	0	0	1	1	0
+sex	1	0	1	1	1	0
+nutte	1	0	0	0	1	0
+prostituerte	1	0	0	1	1	0
+hure	1	0	0	0	1	0
+muschi	1	0	0	0	1	0
+pullermann	1	0	0	0	1	0
+piephahn	1	0	0	0	1	0
+titten	1	0	0	0	1	0
+brust	1	0	0	1	1	0
+brüste	1	0	0	1	1	0
+zicke	1	0	0	0	1	0
+vettel	1	0	0	0	1	0
+dirne	1	0	0	0	1	0
+fuck	0	0	1	0	1	0
+scheiss	1	0	0	0	1	0
+scheiß	1	0	0	0	1	0
+schwul	1	0	0	0	1	0
+homo	1	0	0	0	1	0
+lesbisch	1	0	0	0	1	0
+lesbierin	1	0	0	0	1	0
+lesbe	1	0	0	0	1	0
+fick	1	0	0	0	1	0
+bumsen	1	0	0	0	1	0
+vögeln	1	0	0	0	1	0
+blowjob	1	0	0	1	1	0
+fuck	0	0	1	0	1	0
+dildo	1	0	0	0	1	0
+bitch	1	0	0	0	1	0
+kitzler	1	0	0	1	1	0
+arsch	1	0	0	0	1	0
+masturbier	1	0	1	1	1	0
+nazi	1	0	0	0	1	0
+nationalsozialist	1	0	0	0	1	0
+hoden	1	0	0	0	1	0
+popo	1	0	0	0	1	0
+anus	1	0	1	1	1	0
+dick	1	0	0	0	1	0
+huhre	1	0	0	0	1	0
+hurre	1	0	0	0	1	0
+nudde	1	0	0	0	1	0
+nute	1	0	0	0	1	0
+bordsteinschwalbe	1	0	0	0	1	0
+fotze	1	0	0	0	1	0
+fottze	1	0	0	0	1	0
+vixer	1	0	0	0	1	0
+fixer	1	0	0	0	1	0
+wixer	1	0	0	0	1	0
+shlampe	1	0	0	0	1	0
+sclampe	1	0	0	0	1	0
+schlammpe	1	0	0	0	1	0
+hässlon	1	0	0	0	1	0
+hobbylos	1	0	0	0	1	0
+fickschnitzel	1	0	0	0	1	0
+fik	1	0	0	0	1	0
+ficken	1	0	1	0	1	1
+fiken	1	0	0	0	1	0
+fiicken	1	0	0	0	1	0
+scheide	1	0	0	1	1	0
+möse	1	0	0	0	1	0
+mumu	1	0	0	0	1	0
+fotzengehopse	1	0	0	0	1	0
+wixfish	1	0	0	0	1	0
+wixfisch	1	0	0	0	1	0
+b!tch	1	0	0	0	1	0
+piller	1	0	0	0	1	0
+pillermann	1	0	0	0	1	0
+bumsnudel	1	0	0	0	1	0
+bummsen	1	0	0	0	1	0
+tittis	1	0	0	0	1	0
+titen	1	0	0	0	1	0
+brustwarze	1	0	0	1	1	0
+meine tage	1	0	0	0	1	0
+blödi	1	0	0	0	1	0
+dumkopf	1	0	0	0	1	0
+pissflitsche	1	0	0	0	1	0
+kackbratze	1	0	0	0	1	0
+zuhälter	1	0	0	0	1	0
+wegelagerer	1	0	0	0	1	0
+fickfotze	1	0	0	0	1	0
+knasti	1	0	0	0	1	0
+kiffen	1	0	0	0	1	0
+saufen	1	0	0	0	1	0
+besoffen	1	0	0	0	1	0
+bekifft	1	0	0	0	1	0
+gewixt	1	0	0	0	1	0
+wixen	1	0	0	0	1	0
+einen runterholen	1	0	0	1	1	0
+runterholen	1	0	0	0	1	0
+poppen	1	0	0	0	1	0
+popen	1	0	0	0	1	0
+anal	1	0	1	1	1	0
+analfistel	1	0	0	0	1	0
+hurenficker	1	0	0	0	1	0
+mutterficker	1	0	0	0	1	0
+betrunken	1	0	0	0	1	0
+weed	1	0	0	0	1	0
+heroin	1	0	0	0	1	0
+lsd	1	0	0	0	1	0
+speed	1	0	0	0	1	0
+vagina	1	0	1	1	1	0
+fladderfotze	1	0	0	0	1	0
+flatterfotze	1	0	0	0	1	0
+fotse	1	0	0	0	1	0
+votze	1	0	0	0	1	0
+votse	1	0	0	0	1	0
+schirch	1	0	0	0	1	0
+misthgeburt	1	0	0	0	1	0
+mistgeburt	1	0	0	0	1	0
+missgeburt	1	0	0	0	1	0
+zike	1	0	0	0	1	0
+opfer	1	0	0	0	1	0
+opfa	1	0	0	0	1	0
+opfah	1	0	0	0	1	0
+schwuuli	1	0	0	0	1	0
+schwuul	1	0	0	0	1	0
+lespisch	1	0	0	0	1	0
+lespe	1	0	0	0	1	0
+ziecke	1	0	0	0	1	0
+wtf	1	0	0	0	1	0
+sexy	1	0	1	0	1	0
+sexii	1	0	1	0	1	0
+sexi	1	0	1	0	1	0
+fresse	1	0	0	0	1	0
+penna	1	0	0	0	1	0
+penner	1	0	0	0	1	0
+tusse	1	0	0	0	1	0
+tussi	1	0	0	0	1	0
+pw	1	0	0	0	1	0
+passwort	1	0	0	0	1	0
+password	1	0	0	0	1	0
+passi	1	0	0	0	1	0
+halt's maul	1	0	0	0	1	0
+maul	1	0	0	0	1	0
+kackwurst	1	0	0	0	1	0
+halt die fresse	1	0	0	0	1	0
+figgn	1	0	0	0	1	0
+figgen	1	0	0	0	1	0
+fiq	1	0	0	0	1	0
+fiqqen	1	0	0	0	1	0
+ficker	1	0	0	0	1	0
+s e x	1	0	0	0	1	0
+säx	1	0	0	0	1	0
+s ä x	1	0	0	0	1	0
+bastard	1	0	1	0	1	0
+fotzegehopse	1	0	0	0	1	0
+wixxkind	1	0	0	0	1	0
+wichskind	1	0	0	0	1	0
+wixx kind	1	0	0	0	1	0
+schnepfe	1	0	0	0	1	0
+schnöpfe	1	0	0	0	1	0
+seex	1	0	0	0	1	0
+schlambe	1	0	0	0	1	0
+aschloch	1	0	0	0	1	0
+arschloch	1	0	0	0	1	0
+asch	1	0	0	0	1	0
+muschikopf	1	0	0	0	1	0
+dein mudda	1	0	0	0	1	0
+zickke	1	0	0	0	1	0
+skype	1	0	0	1	0	0
+ärsche	1	0	0	0	1	0
+arschlöcher	1	0	0	0	1	0
+fottse	1	0	0	0	1	0
+wixhörnchen	1	0	0	0	1	0
+arschkuh	1	0	0	0	1	0
+luschen	1	0	0	0	1	0
+looser	1	0	0	0	1	0
+luser	1	0	0	0	1	0
+luhser	1	0	0	0	1	0
+pissblacj	1	0	0	0	1	0
+pissblach	1	0	0	0	1	0
+drecksblach	1	0	0	0	1	0
+miststück	1	0	0	0	1	0
+leck mich	1	0	0	0	1	0
+blöder	1	0	0	0	1	0
+plöt	1	0	0	0	1	0
+schwulle	1	0	0	0	1	0
+schrulle	1	0	0	0	1	0
+hesslig	1	0	0	0	1	0
+hesslich	1	0	0	0	1	0
+tiitten	1	0	0	0	1	0
+tidden	1	0	0	0	1	0
+maul halten	1	0	0	0	1	0
+fresse halten	1	0	0	0	1	0
+zice	1	0	0	0	1	0
+spaken	1	0	0	0	1	0
+spacken	1	0	0	0	1	0
+spakken	1	0	0	0	1	0
+spakko	1	0	0	0	1	0
+spacko	1	0	0	0	1	0
+wie alt bist du	1	0	0	0	1	0
+wie heißt du	1	0	0	0	1	0
+wo wohnst du	1	0	0	1	1	0
+hurenkind	1	0	0	0	1	0
+hurentochter	1	0	0	0	1	0
+schlape	1	0	0	0	1	0
+biatch	1	0	0	0	1	0
+b!atch	1	0	0	0	1	0
+houde	1	0	0	0	1	0
+möjse	1	0	0	0	1	0
+zwitter	1	0	0	0	1	0
+nageln	1	0	0	0	1	0
+rammeln	1	0	0	0	1	0
+treiben	1	0	0	0	1	0
+liebe machen	1	0	0	0	1	0
+figgt	1	0	0	0	1	0
+fiqqt	1	0	0	0	1	0
+hurrentochter	1	0	0	0	1	0
+sperma	1	0	0	1	1	0
+mis geburt	1	0	0	0	1	0
+bitsch	1	0	0	0	1	0
+ich melde dich	1	0	0	0	1	0
+affenarsch	1	0	0	0	1	0
+schnauze	1	0	0	0	1	0
+schnautze	1	0	0	0	1	0
+bitsh	1	0	0	0	1	0
+halzmaul	1	0	0	0	1	0
+fek	1	0	0	0	1	0
+fek dich	1	0	0	0	1	0
+fick dich	1	0	0	0	1	0
+fiqq dich	1	0	0	0	1	0
+fehlgeburt	1	0	0	0	1	0
+schwanger	1	0	0	1	1	0
+samenerguss	1	0	0	1	1	0
+fucken	1	0	0	0	1	0
+facebook	1	0	1	1	0	0
+fb	1	0	0	1	0	0
+hdf	1	0	0	0	1	0
+fd	1	0	0	0	1	0
+idiot	1	0	0	0	1	0
+behindert	1	0	0	0	1	0
+behinderte	1	0	0	0	1	0
+bhinderter	1	0	0	0	1	0
+behindi	1	0	0	0	1	0
+mongo	1	0	0	0	1	0
+verfickt	1	0	0	0	1	0
+vig	1	0	0	0	1	0
+paswort	1	0	0	0	1	0
+sexsüchtig	1	0	1	0	1	0
+blödekuh	1	0	0	0	1	0
+pimmelmann	1	0	0	0	1	0
+nuutte	1	0	0	0	1	0
+gesichtsbuch	1	0	0	0	1	0
+verficken	1	0	0	0	1	0
+läsbe	1	0	0	0	1	0
+huso	1	0	0	0	1	0
+fickk	1	0	0	0	1	0
+sexx	1	0	1	0	1	0
+sexxx	1	0	1	0	1	0
+sexxxx	1	0	1	0	1	0
+seeex	1	0	0	0	1	0
+seeeex	1	0	0	0	1	0
+woher kommst	1	0	0	1	1	0
+trottel	1	0	0	0	1	0
+prostitutirte	1	0	0	1	1	0
+intim	1	0	1	1	1	0
+periode	1	0	0	0	1	0
+periodee	1	0	0	0	1	0
+menstruation	1	0	0	0	1	0
+fike	1	0	0	0	1	0
+schwulsten	1	0	0	0	1	0
+frezze	1	0	0	0	1	0
+ferfickte	1	0	0	0	1	0
+muttersficker	1	0	0	0	1	0
+fickeuch	1	0	0	0	1	0
+vollpfosten	1	0	0	0	1	0
+zish ab	1	0	0	0	1	0
+passwor t	1	0	0	0	1	0
+arschkinder	1	0	0	0	1	0
+pimmil	1	0	0	0	1	0
+klape	1	0	0	0	1	0
+schlamppe	1	0	0	0	1	0
+fecken	1	0	0	0	1	0
+fickdich	1	0	0	0	1	0
+fickdiech	1	0	0	0	1	0
+fickdish	1	0	0	0	1	0
+bblöde	1	0	0	0	1	0
+hässlig	1	0	0	0	1	0
+arschgeige	1	0	0	0	1	0
+arsh geige	1	0	0	0	1	0
+po	1	0	0	0	1	1
+poooo	1	0	0	0	1	0
+verbiss	1	0	0	0	1	0
+lesbenpaar	1	0	0	0	1	0
+feucht	1	0	1	1	1	0
+steif	1	0	0	0	1	0
+schwanzlutscher	1	0	0	0	1	0
+schwanzlutscha	1	0	0	0	1	0
+sexxy	1	0	1	0	1	0
+sexxi	1	0	1	0	1	0
+fascho	1	0	0	0	1	0
+rassist	1	0	0	0	1	0
+natzi	1	0	0	0	1	0
+scheiser	1	0	0	0	1	0
+bittsch	1	0	0	0	1	0
+lutscher	1	0	0	0	1	0
+lutscherin	1	0	0	0	1	0
+suka	1	0	0	0	1	0
+ficen	1	0	0	0	1	0
+horensohn	1	0	0	0	1	0
+schlampem	1	0	0	0	1	0
+hirnamputierte	1	0	0	0	1	0
+bumbs	1	0	0	0	1	0
+drogen	1	0	1	1	1	0
+hash	1	0	0	0	1	0
+pillen schmeißen	1	0	0	0	1	0
+wer wohnt in	1	0	0	0	1	0
+oass	1	0	0	0	1	0
+hurntochter	1	0	0	0	1	0
+orgasmus	1	0	0	1	1	0
+tussen	1	0	0	0	1	0
+pisse	1	0	0	0	1	0
+mannsweib	1	0	1	1	0	0
+hhurensohn	1	0	0	0	1	0
+fick1	1	0	0	0	1	0
+ge fickt	1	0	0	0	1	0
+schl ampe	1	0	0	0	1	0
+pordel	1	0	0	0	1	0
+wie heist  du	1	0	0	0	1	0
+nuhtte	1	0	0	0	1	0
+nuhtten	1	0	0	0	1	0
+opfalein	1	0	0	0	1	0
+f!ck dich	1	0	0	0	1	0
+arschlöcherine	1	0	0	0	1	0
+votzeeen	1	0	0	0	1	0
+fotzeeen	1	0	0	0	1	0
+assi	1	0	0	0	1	0
+asii	1	0	0	0	1	0
+asi	1	0	0	0	1	0
+s€x	1	0	0	0	1	0
+pennerrin	1	0	0	0	1	0
+penner rin	1	0	0	0	1	0
+lackaffe	1	0	0	0	1	0
+schwulitäten	1	0	0	0	1	0
+sei leise	1	0	0	1	0	0
+arschh	1	0	0	0	1	0
+vieck	1	0	0	0	1	0
+transe	1	0	0	0	1	0
+verfickt3e	1	0	0	0	1	0
+verfickte	1	0	0	0	1	0
+verfikte	1	0	0	0	1	0
+ferfikte	1	0	0	0	1	0
+sexgott	1	0	1	0	1	0
+schulambe	1	0	0	0	1	0
+abgelutschter	1	0	0	0	1	0
+abgewixte	1	0	0	0	1	0
+abgewichste	1	0	0	0	1	0
+abgewixter	1	0	0	0	1	0
+abgewichster	1	0	0	0	1	0
+hesslixch	1	0	0	0	1	0
+arschgeficktehure	1	0	0	0	1	0
+hosenscheißer	1	0	0	0	1	0
+froschficker	1	0	0	0	1	0
+ficcen	1	0	0	0	1	0
+wixxer	1	0	0	0	1	0
+sexsex	1	0	1	0	1	0
+sexsexsex	1	0	1	0	1	0
+sexsexsexsex	1	0	1	0	1	0
+moppfer	1	0	0	0	1	0
+kindermachen	1	0	0	0	1	0
+kinderkriegen	1	0	0	0	1	0
+durchgefickt	1	0	0	0	1	0
+bisser	1	0	0	0	1	0
+pisser	1	0	0	0	1	0
+bummskartoffel	1	0	0	0	1	0
+clappe	1	0	0	0	1	0
+clape	1	0	0	0	1	0
+honk	1	0	0	0	1	0
+§es	1	0	0	1	1	0
+§ex	1	0	1	1	1	0
+§äx	1	0	0	1	1	0
+§€x	1	0	0	1	1	0
+ficc	1	0	0	0	1	0
+mistgebprt	1	0	0	0	1	0
+missgebprt	1	0	0	0	1	0
+missgebort	1	0	0	0	1	0
+shut up	1	0	0	0	1	0
+shit	1	0	0	0	1	0
+hurensohen	1	0	0	0	1	0
+idioten	1	0	0	0	1	0
+penners	1	0	0	0	1	0
+fettes kind	1	0	0	0	1	0
+schwuleswessen	1	0	0	0	1	0
+fic ken	1	0	0	0	1	0
+egoschwein	1	0	0	0	1	0
+verkackt	1	0	0	0	1	0
+wie viele jahre bist d	1	0	0	0	1	0
+aschgesicht	1	0	0	0	1	0
+fickkfehler	1	0	0	0	1	0
+heimscheißer	1	0	0	0	1	0
+notte	1	0	0	0	1	0
+hohre	1	0	0	0	1	0
+horre	1	0	0	0	1	0
+hore	1	0	0	0	1	0
+fickken	1	0	0	0	1	0
+fickd ich	1	0	0	0	1	0
+fic kdich	1	0	0	0	1	0
+fic	1	0	0	0	1	0
+gevickt	1	0	0	0	1	0
+huchentochter	1	0	0	0	1	0
+arschlocher	1	0	0	0	1	0
+pedobär	1	0	1	1	1	0
+pädebär	1	0	1	1	1	0
+pädobär	1	0	1	1	1	0
+pedo	1	0	1	1	1	0
+pädo	1	0	1	1	1	0
+heslig	1	0	0	0	1	0
+asch gefikkte	1	0	0	0	1	0
+behinderung	1	0	0	0	1	0
+drecksack	1	0	0	0	1	0
+pww	1	0	0	0	1	0
+pwww	1	0	0	0	1	0
+pwwww	1	0	0	0	1	0
+sox	1	0	0	0	1	0
+ferficktes	1	0	0	0	1	0
+ferfickter	1	0	0	0	1	0
+pazzword	1	0	0	0	1	0
+pazzwort	1	0	0	0	1	0
+nuttiges	1	0	0	0	1	0
+fickeeeee	1	0	0	0	1	0
+seexx	1	0	0	0	1	0
+fack	1	0	0	1	0	0
+t u s e	1	0	0	0	1	0
+opfaaa	1	0	0	0	1	0
+schlampengesichter	1	0	0	0	1	0
+figdich	1	0	0	0	1	0
+vervikte	1	0	0	0	1	0
+ver piss	1	0	0	0	1	0
+mistgebur	1	0	0	0	1	0
+passii	1	0	0	0	1	0
+passwortii	1	0	0	0	1	0
+säks	1	0	0	0	1	0
+schlapen	1	0	0	0	1	0
+tusi	1	0	0	0	1	0
+dume	1	0	0	0	1	0
+hurrenbock	1	0	0	0	1	0
+pen!s	1	0	0	0	1	0
+pen!!s	1	0	0	0	1	0
+pen!!!s	1	0	0	0	1	0
+behinderter	1	0	0	0	1	0
+onlinesex	1	0	1	1	1	0
+blödfrau	1	0	0	0	1	0
+blödmann	1	0	0	0	1	0
+schlampenloch	1	0	0	0	1	0
+penes	1	0	0	0	1	0
+haslich	1	0	0	0	1	0
+arschgeburt	1	0	0	0	1	0
+leckenn	1	0	0	0	1	0
+cheat	1	0	0	0	1	0
+cheaten	1	0	0	0	1	0
+cheatet	1	0	0	0	1	0
+viken	1	0	0	0	1	0
+hitler	1	0	1	0	1	0
+strassenpenner	1	0	0	0	1	0
+pws	1	0	0	0	1	0
+homosexueller h	1	0	1	0	1	0
+pasi	1	0	0	0	1	0
+arschis	1	0	0	0	1	0
+arschiis	1	0	0	0	1	0
+fieken	1	0	0	0	1	0
+f-i-c-k-d-i-c-h	1	0	0	0	1	0
+muddaa	1	0	0	0	1	0
+mauel	1	0	0	0	1	0
+fieck	1	0	0	0	1	0
+fiecken	1	0	0	0	1	0
+schnauz	1	0	0	0	1	0
+perverzz	1	0	0	0	1	0
+pervers	1	0	0	0	1	0
+muschie	1	0	0	0	1	0
+fickiii	1	0	0	0	1	0
+powarze	1	0	0	0	1	0
+arschwarze	1	0	0	0	1	0
+moul	1	0	0	0	1	0
+wixkind	1	0	0	0	1	0
+klugscheißer	1	0	0	0	1	0
+wwtf	1	0	0	0	1	0
+nudden	1	0	0	0	1	0
+bumssen	1	0	0	0	1	0
+hesslige	1	0	0	0	1	0
+hessliger	1	0	0	0	1	0
+heslige	1	0	0	0	1	0
+hesliger	1	0	0	0	1	0
+fikken	1	0	0	0	1	0
+arschborerin	1	0	0	0	1	0
+schlampenkind	1	0	0	0	1	0
+schlampee	1	0	0	0	1	0
+ppoppen	1	0	0	0	1	0
+steckdosenbefruchter	1	0	0	0	1	0
+pissnelke	1	0	0	0	1	0
+pissnelken	1	0	0	0	1	0
+schülervz	1	0	0	0	1	0
+meinvz	1	0	0	0	1	0
+schüler cc	1	0	0	0	1	0
+se><	1	1	0	1	1	0
+BH	1	0	0	1	0	0
+BH-Größe	1	0	1	1	0	0
+psw	1	0	0	0	1	0
+vibrator	1	0	0	0	1	0
+fickkk	1	0	0	0	1	0
+fickkkk	1	0	0	0	1	0
+lech mich	1	0	0	0	1	0
+dumi	1	0	0	0	1	0
+ficke	1	0	0	0	1	0
+fickerin	1	0	0	0	1	0
+loser	1	0	0	0	1	0
+louser	1	0	0	0	1	0
+lousa	1	0	0	0	1	0
+losa	1	0	0	0	1	0
+loosa	1	0	0	0	1	0
+fressö	1	0	0	0	1	0
+frössö7	1	0	0	0	1	0
+frössö	1	0	0	0	1	0
+mist-geburt	1	0	0	0	1	0
+miss-geburt	1	0	0	0	1	0
+arschlecker	1	0	0	0	1	0
+biiiitch	1	0	0	0	1	0
+fotzee	1	0	0	0	1	0
+fotzeee	1	0	0	0	1	0
+fickmich	1	0	0	0	1	0
+opffer	1	0	0	0	1	0
+mopfer	1	0	0	0	1	0
+mopfa	1	0	0	0	1	0
+veepiss dich	1	0	0	0	1	0
+@rschloch	1	0	0	0	1	0
+blödm@nn	1	0	0	0	1	0
+vergewaltigt	1	0	0	1	1	0
+pennna	1	0	0	0	1	0
+pener	1	0	0	0	1	0
+pena	1	0	0	0	1	0
+schl-ampe	1	0	0	0	1	0
+sch-lampe	1	0	0	0	1	0
+bidch	1	0	0	0	1	0
+popppen	1	0	0	0	1	0
+poppenn	1	0	0	0	1	0
+popppenn	1	0	0	0	1	0
+pooppen	1	0	0	0	1	0
+vicka	1	0	0	0	1	0
+schwull	1	0	0	0	1	0
+dumpfbacke	1	0	0	0	1	0
+wixerin	1	0	0	0	1	0
+arschemurt	1	0	0	0	1	0
+hals maule	1	0	0	0	1	0
+fikenn	1	0	0	0	1	0
+sschwul	1	0	0	0	1	0
+fickkt	1	0	0	0	1	0
+passswort	1	0	0	0	1	0
+passsword	1	0	0	0	1	0
+fickerr	1	0	0	0	1	0
+heslichkeid	1	0	0	0	1	0
+hesslichkeit	1	0	0	0	1	0
+fickende	1	0	0	0	1	0
+z u h ä l t e r	1	0	0	0	1	0
+frese	1	0	0	0	1	0
+misssgeburt	1	0	0	0	1	0
+missgbeurd	1	0	0	0	1	0
+missgeburd	1	0	0	0	1	0
+missssgeburd	1	0	0	0	1	0
+misssgeburd	1	0	0	0	1	0
+arschlo	1	0	0	0	1	0
+aschlos	1	0	0	0	1	0
+arschlos	1	0	0	0	1	0
+puff	1	0	0	0	1	0
+puffmutter	1	0	0	0	1	0
+puffmudder	1	0	0	0	1	0
+dorfnutte	1	0	0	0	1	0
+dorfnudde	1	0	0	0	1	0
+fikct	1	0	0	0	1	0
+fickt	1	0	0	0	1	0
+arschloc	1	0	0	0	1	0
+schwuchtel	1	0	0	0	1	0
+schwuchtell	1	0	0	0	1	0
+sccchlampe	1	0	0	0	1	0
+ficktt	1	0	0	0	1	0
+hurenarschwixer	1	0	0	0	1	0
+hurenarsch	1	0	0	0	1	0
+fickdisch	1	0	0	0	1	0
+schawul	1	0	0	0	1	0
+schuwul	1	0	0	0	1	0
+archloch	1	0	0	0	1	0
+b!tchh	1	0	0	0	1	0
+lespissch	1	0	0	0	1	0
+pasii	1	0	0	0	1	0
+opfaa	1	0	0	0	1	0
+hurentochta	1	0	0	0	1	0
+hurentochtah	1	0	0	0	1	0
+passwor	1	0	0	0	1	0
+piss dich	1	0	0	0	1	0
+piss	1	0	0	0	1	0
+analratte	1	0	0	0	1	0
+arscn	1	0	0	0	1	0
+arschhamster	1	0	0	0	1	0
+eierlotscher	1	0	0	0	1	0
+eierlutscher	1	0	0	0	1	0
+penislutscher	1	0	0	0	1	0
+peniislutscher	1	0	0	0	1	0
+schlapperfotze	1	0	0	0	1	0
+krüppel	1	0	0	0	1	0
+tanga	1	0	1	1	1	0
+g-string	1	0	0	1	1	0
+f!ck d!ch	1	0	0	0	1	0
+oralsex	1	0	1	1	1	0
+oral sex	1	0	1	1	1	0
+fotzen	1	0	0	0	1	0
+fortzen	1	0	0	0	1	0
+tempelhure	1	0	0	0	1	0
+scheiz	1	0	0	0	1	0
+scheize	1	0	0	0	1	0
+figg	1	0	0	0	1	0
+nigga	1	0	0	0	1	0
+nigger	1	0	0	0	1	0
+porno	1	0	1	1	1	0
+penis	1	1	0	1	1	0
+webcam	1	0	0	1	1	0
+camme	1	0	0	1	1	0
+cammen	1	0	0	1	1	0
+cam	1	0	0	1	1	0
+mastrubieren	1	0	1	1	1	0
+onanieren	1	0	0	1	1	0
+unterwäsche	1	1	0	1	1	0
+peddo	1	0	0	0	1	0
+pädophil	0	0	1	1	1	0
+nakt	1	1	0	1	1	0
+ejakulieren	1	1	0	1	1	0
+face	1	0	0	1	0	0
+ich kann dein Bild sehen	1	0	0	1	0	0
+ich kann dein Foto sehen	1	0	0	1	0	0
+schick mir ein Bild	1	0	0	1	0	0
+schick mir ein Foto	1	0	0	1	0	0
+sende mir ein Bild	1	0	0	1	0	0
+sende mir en Foto	1	0	0	1	0	0
+kamera	1	0	0	1	0	0
+willst du mich sehen	1	0	0	1	1	0
+foto	1	0	0	0	1	0
+bilder	1	0	0	1	0	0
+string	1	0	0	0	1	0
+höschen	1	0	0	1	1	0
+raisierst du dich	1	0	0	1	0	0
+jungfrau	1	0	0	1	0	0
+telefonnummer	1	0	0	1	1	0
+strasse	1	0	0	0	1	0
+Handynummer	1	0	0	1	0	0
+klitoris	1	0	0	1	1	0
+klit	1	0	0	1	1	0
+erektion	1	0	0	1	1	0
+alleine zuhause	1	0	0	1	0	0
+SMS	1	0	0	1	0	0
+MSN	1	0	0	1	0	0
+können wir uns treffen	1	0	0	1	0	0
+wie siehtst du aus	1	0	0	1	0	0
+welche schule besuchst du	1	0	0	1	0	0
+tinychat	1	0	0	1	1	0
+imageshack	1	0	0	0	1	0
+flickr	1	0	0	0	1	0
+ivideochat	1	0	0	1	1	0
+orgasm	1	1	0	1	1	0
+photobucket	1	0	0	1	1	0
+zieh dich aus	1	0	0	1	0	0
+zieh deine hose aus	1	0	0	1	0	0
+zungenkuss	1	0	0	0	1	0
+videochat	1	0	0	1	1	0
+welche klasse gehst du in	1	0	0	1	0	0
+welche klasse besuchst du	1	0	0	1	0	0
+nachname	1	0	0	1	1	0
+echter name	1	0	0	1	0	0
+echte name	1	0	0	1	0	0
+Adresse	1	0	0	1	1	0
+kannst du mich anrufen	1	0	0	1	0	0
+ritzen	1	1	0	1	1	0
+cutting	1	1	0	1	0	0
+selbstmord	1	1	0	1	1	0
+Schizze	1	1	0	0	1	0
+skiipe	0	0	0	1	0	0
+xes	1	1	0	0	1	0
+yxes	1	0	0	0	1	0
+sterben	1	0	1	1	0	0
+FaCeB°°k	1	0	0	1	0	0
+scheizze	1	0	0	0	1	0
+skyp	1	0	0	1	0	0
+in welche klasse gehst du	1	0	0	1	1	0
+macht dir kaka in deinem mund	1	0	0	0	1	0
+schwein	1	0	0	0	1	0
+Hundesohn	1	0	0	0	1	0
+Hurrensohn	1	0	0	0	1	0
+sheiße	1	0	0	0	1	0
+kenni	1	1	0	0	1	0
+kennwort	1	0	0	0	1	0
+p3nise	1	1	1	1	1	0
+chlampen	1	1	1	0	1	0
+hurenkinder	1	1	1	0	1	0
+4rsch	1	1	1	0	1	0
+der neger	1	1	1	0	1	0
+Landser	1	1	1	0	1	0
+Böhse Onkelz	1	1	1	0	1	0
+White Pride	1	1	1	0	1	0
+Rudolf Hess	1	1	1	0	1	0
+Suizid	1	1	1	0	1	0
+Magersucht	1	1	1	0	1	0
+Bullimie	1	1	1	0	1	0
+Borderline	1	1	1	0	1	0
+Trigger	1	1	1	0	1	0
+Rauchen	1	1	1	0	1	0
+Hasch	1	1	1	0	1	0
+Haschisch	1	1	1	0	1	0
+Cannabis	1	1	1	0	1	0
+Mariahuana	1	1	1	0	1	0
+Anorexie	1	1	1	0	1	0
+SVV	1	1	1	0	1	0
+Bulimie	1	1	0	0	1	0
+bin msp mitarbeiter	1	0	0	0	1	0
+puf	1	0	0	0	1	0
+über das s wort reden	1	0	0	1	1	0
+pfotze	1	1	0	0	1	0
+wer hat skyp	1	0	0	1	1	0
+hals fres	1	0	0	0	1	0
+code	1	0	0	0	1	0
+skipe	1	0	0	0	1	0
+verpst euch	1	0	0	0	1	0
+blöde ku	1	0	0	0	1	0
+aschii	1	0	0	0	1	0
+nutten	1	1	0	0	1	0
+acc tausch	1	0	0	0	1	0
+hurenson#	1	1	0	0	1	0
+wie alt	1	0	0	1	1	0
+wodka	1	0	0	0	1	0
+kaka	1	1	0	0	1	0
+bumsfreak	1	0	0	0	1	0
+vick	1	1	0	0	1	0
+ferpis	1	0	0	0	1	0
+verfigtes	1	0	0	0	1	0
+willst du vip	1	0	0	0	1	0
+fettarsch	1	1	0	0	1	0
+deine handynummer	1	0	0	1	1	0
+welche schulen	1	0	0	1	1	0
+schwanzpumpe	1	1	0	0	1	0
+busen	1	1	0	1	1	0
+pemmel	1	1	0	0	1	0
+pin	1	0	0	0	1	0
+sexfreundin	1	1	0	1	1	0
+paswört	1	0	0	0	1	0
+fuk	1	1	0	0	1	0
+gay	1	1	0	0	1	0
+petting	1	1	0	1	1	0
+vergewaltigung	1	1	0	0	1	0
+vergewaltigen	1	1	0	1	1	0
+kindesmissbrauch	1	1	0	1	1	0
+rape	1	1	0	1	1	0
+raping	1	1	0	1	1	0
+seksihh	1	1	0	0	1	0
+stripper	1	1	0	0	1	0
+tabledance	1	1	0	0	1	0
+striptease	1	1	0	0	1	0
+bitc	1	0	0	0	1	0
+@rsch	1	1	0	0	1	0
+wikser	1	1	0	0	1	0
+orgasmu	1	1	0	1	1	0
+arsh	1	1	0	0	1	0
+gefigt	1	1	0	0	1	0
+hurreh	1	1	0	0	1	0
+passwot	1	0	0	0	1	0
+bassword	1	0	0	0	1	0
+schlommpe	1	1	0	0	1	0
+p-wort	1	0	0	0	1	0
+bumse	1	1	0	0	1	0
+bitsc	1	1	0	0	1	0
+schlümpe	1	1	0	0	1	0
+grabschen	1	1	0	1	1	0
+orschlöcher	1	1	0	0	1	0
+vicken	1	1	0	1	1	0
+e-mail	1	1	0	1	1	0
+bluejop	1	1	0	1	1	0
+um sonst vip	1	1	0	0	1	0
+muttafuncker	1	1	0	0	1	0
+bommsen	1	1	0	1	1	0
+fetti	1	0	0	0	1	0
+spassst	1	1	0	0	1	0
+skaipe	1	1	0	1	1	0
+puurno	1	1	0	1	1	0
+arshtritt	1	1	0	0	1	0
+orsch	1	1	0	0	1	0
+fohotze	1	1	0	0	1	0
+arschs	1	1	0	0	1	0
+schwuli	1	1	0	0	1	0
+schwuhli	1	1	0	0	1	0
+blöde kuch	1	1	0	0	1	0
+fuc	1	1	0	0	1	0
+dein pw	1	1	0	0	1	0
+neger	1	1	1	1	1	0
+nu t e	1	1	0	0	1	0
+hidler	1	1	0	0	1	0
+handynmr	1	1	0	1	1	0
+hüre	1	1	0	0	1	0
+püsswürd	1	0	0	0	1	0
+vigdich	1	1	0	0	1	0
+jappy	1	1	0	1	1	0
+kiss x sis	1	1	0	1	1	0
+papa to kiss in the dark	1	1	0	1	1	0
+Yuri	1	1	0	0	1	0
+yuri murakami	1	1	0	0	1	0
+yaoi	1	1	0	0	1	0
+kanokon	1	0	0	0	1	0
+bulimia	1	0	1	0	1	0
+anorexia	1	1	1	0	1	0
+shid	1	0	1	0	1	0
+schlamp	1	0	1	0	1	0
+Schaiße	1	0	1	0	1	0
+pasw	1	0	1	0	1	0
+kondomen	1	0	1	0	1	0
+hurensohn	1	0	1	0	1	0
+fücken	1	0	1	0	1	0
+figen	1	0	1	0	1	0
+fichser	1	0	1	0	1	0
+fotz	1	0	1	0	1	0
+füccken	1	0	1	0	1	0
+fuqq	1	0	1	0	1	0
+misthahn	1	0	1	0	1	0
+mistgeuburt	1	0	1	0	1	0
+nutti	1	0	1	0	1	0
+pazziwort	1	0	1	0	1	0
+sau	1	0	1	0	1	0
+schlampi	1	0	1	0	1	0
+schwule	1	0	1	0	1	0
+wigser	1	0	1	0	1	0
+durchgefickte	1	0	1	0	1	0
+hacker	1	0	1	0	1	0
+virus	1	0	1	0	1	0
+kondome	1	0	1	0	1	0
+pääniis	1	0	1	0	1	0
+nackig	1	0	1	0	1	0
+sch@isse	1	0	1	0	1	0
+bazwort	1	0	1	0	1	0
+hirnlos	1	0	1	0	1	0
+hirnlose	1	0	1	0	1	0
+peanis	1	0	1	0	1	0
+phsycho	1	0	1	0	1	0
+pimel	1	0	1	0	1	0
+psycho	1	0	1	0	1	0
+seax	1	0	1	0	1	0
+skaipöö	1	0	1	0	1	0
+videochatten	1	0	1	0	1	0
+wohnst	1	0	1	0	1	0
+wagina	1	0	1	0	1	0
+fotzää	1	0	1	0	1	0
+penispe	1	0	1	0	1	0
+leckmich	1	0	1	0	1	0
+nutt	1	0	1	0	1	0
+kondohm	1	0	1	0	1	0
+vickser	1	0	1	0	1	0
+oschloch	1	0	1	0	1	0
+vickdich	1	0	1	0	1	0
+cheats	1	0	1	0	1	0
+besofen	1	0	1	0	1	0
+fak	1	0	1	0	1	0
+eingebildete	1	0	1	0	1	0
+nega	1	0	1	0	1	0
+verpissn	1	0	1	0	1	0
+fikdich	1	0	1	0	1	0
+pasword	1	0	1	0	1	0
+schaizze	1	0	1	0	1	0
+scwanz	1	0	1	0	1	1
+vikser	1	0	1	0	1	1
+kake	1	0	1	0	1	1
+lotscher	1	0	1	0	1	1
+fikn	1	0	1	0	1	1
+nackt	1	0	1	0	1	1
+sxe	1	0	1	0	1	1
+kondom	1	0	1	0	1	1
+sexmachen	1	0	1	0	1	1
+duhurenkind	1	0	1	0	1	1
+kife	1	0	1	0	1	1
+geheimwort	1	0	1	0	1	1
+bltch	1	0	1	0	1	1
+vollidio	1	0	1	0	1	1
+mudafucka	1	0	1	0	1	1
+madafaka	1	0	1	0	1	1
+luder	1	0	1	0	1	1
+h u r e	1	0	1	0	1	1
+fickfeheler	1	0	1	0	1	1
+slampe	1	0	1	0	1	1
+ashloch	1	0	1	0	1	1
+halbnackt	1	0	1	0	1	1
+instagram	1	0	0	1	1	0
+schlanpe	1	0	1	0	1	1
+opfii	1	0	1	0	1	1
+fac	1	0	1	0	1	1
+fcken	1	0	1	0	1	1
+schlompe	1	0	1	0	1	1
+passys	1	0	1	0	1	1
+duassihurre	1	0	1	0	1	1
+dubitch	1	0	1	0	1	1
+duhurenesohn	1	0	1	0	1	1
+duschlampe	1	0	1	0	1	1
+schweim	1	0	1	0	1	1
+tampon	1	1	0	1	0	0
+Ecchi	1	1	0	0	1	1
+Bazuka	1	1	1	0	1	1
+hetero	1	1	0	0	1	0
+Harzi	1	0	0	0	1	0
+Hartzi	1	0	0	0	1	0

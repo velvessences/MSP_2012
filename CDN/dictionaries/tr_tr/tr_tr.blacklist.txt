@@ -1,0 +1,608 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+it	1	0	0	0	1	1
+oruspu	1	0	0	0	1	1
+orospu çocuğu	1	0	0	0	1	1
+götveren	1	0	0	0	1	1
+top	1	0	0	0	1	1
+kahpe	1	0	0	0	1	1
+am	1	0	1	1	1	1
+amına koydugum	1	0	0	0	1	1
+manyak	1	0	0	0	1	1
+pezevenk	1	0	0	0	1	1
+salak	1	0	0	0	1	1
+gerizekalı	1	0	0	0	1	1
+zavallı	1	0	0	0	1	1
+pislik	1	0	0	0	1	1
+dingil	1	0	0	0	1	1
+uyuz	1	0	0	0	1	1
+zilli	1	0	0	0	1	1
+oha	1	0	0	0	1	1
+mal	1	0	0	0	1	1
+şerefsiz	1	0	0	0	1	1
+namussuz	1	0	0	0	1	1
+becerdiğim	1	0	0	0	1	1
+hıyar	1	0	0	0	1	1
+sik	1	0	1	1	1	0
+sikerim	1	0	0	0	1	0
+anasını siktigimin	1	0	0	0	1	1
+kilotunu siktiğim	1	0	0	1	1	1
+faise	1	0	0	0	1	1
+itin iti	1	0	0	0	1	1
+inek oğlu inek	1	0	0	0	1	1
+sokayım	1	0	0	0	1	1
+yüzsüz	1	0	0	0	1	1
+yuh	1	0	0	0	1	1
+ohaa	1	0	0	0	1	1
+yarrak	1	0	0	1	1	0
+ulen	1	0	0	0	1	1
+domuz	1	0	0	0	1	1
+sapık	1	0	1	1	1	0
+öküz	1	0	0	0	1	1
+lan	1	0	0	0	1	1
+ibne	1	0	0	0	1	1
+ananı sikiyim	1	0	0	0	1	1
+şifre	1	0	0	0	1	0
+parolan	1	0	0	0	1	1
+parola	1	0	0	0	1	1
+adın ne	1	0	0	0	1	1
+gerçekte adın ne	1	0	0	1	1	1
+gerçek adın ne	1	0	0	1	1	1
+amk	1	0	1	0	1	1
+amcuk	1	0	0	0	1	1
+siktir	1	0	0	0	1	1
+sktr	1	0	0	0	1	1
+facebook	1	1	1	1	1	0
+lezbiyen	1	0	0	0	1	1
+sevişelim	1	0	0	1	1	0
+sevişmek isteyen	1	0	1	1	1	1
+len	1	0	0	0	1	1
+ulan	1	0	0	0	1	1
+ula	1	0	0	0	1	1
+sümüklü	1	0	0	0	1	1
+sex	1	0	1	0	1	0
+sex isteyen	1	0	1	0	1	1
+yarramı yala	1	0	0	1	1	1
+amımı yala	1	0	0	0	1	1
+yaş kaç	1	0	0	1	1	1
+kaç yaşındasın	1	0	0	1	1	1
+nerde kalıyon	1	0	0	1	0	1
+nerede kalıyorsun	1	0	0	1	0	1
+kaçıncı sınıfa gidiyorsun	1	0	0	1	1	1
+ad	1	0	0	0	1	1
+yaş	1	0	0	1	1	1
+piç	1	0	0	0	1	1
+sikişelimmi	1	0	0	1	1	1
+orospi	1	0	0	0	1	1
+fuck	0	0	1	0	1	0
+fuck you	1	0	0	0	1	1
+sik beni	1	0	0	0	1	1
+sike sike	1	0	0	0	1	1
+sikerim seni	1	0	0	0	1	1
+hayvanoğlu hayvan	1	0	0	0	1	1
+züppe	1	0	0	0	1	1
+gerzek	1	0	0	0	1	1
+amcık	1	0	0	0	1	1
+faişe	1	0	0	0	1	1
+1 Girl 1 Pitcher	1	0	0	0	1	0
+4girlsfingerpaint	1	0	0	0	1	0
+1 Guy 1 Cock	1	0	0	0	1	0
+1 man 1 jar	1	0	0	0	1	0
+1 Priest 1 Nun	1	0	0	0	1	0
+1man1jar	1	0	0	0	1	0
+2 girls 1 cup	1	0	0	0	1	0
+2 girls 1 finger	1	0	0	0	1	0
+Taciz	1	0	0	0	1	0
+seks	1	0	1	1	1	0
+oç	1	0	0	0	1	1
+seni sikeler	1	0	0	0	1	1
+ORUŞPU ÇOCUĞU	1	0	0	0	1	1
+yş	1	0	0	1	1	1
+yavşak	1	0	0	0	1	1
+öpüştünmü	1	0	0	1	1	1
+salaklar	1	0	0	0	1	1
+fakyu	1	0	0	0	1	1
+mallar	1	0	0	0	1	1
+göt lalesi	1	0	0	0	1	1
+am suyu	1	0	0	0	1	1
+sktir	1	0	0	0	1	1
+sexy	1	0	1	0	1	0
+amına koyayım	1	0	0	0	1	1
+boşalayım	1	0	0	1	1	1
+siktir git	1	0	0	0	1	1
+kapa çeneni	1	0	0	0	1	1
+sevişelim mi	1	0	0	1	1	1
+yaragımı op	1	0	0	0	1	1
+msnden sevıssek	1	0	0	1	1	1
+yaragımı görmek ıstemezmisin	1	0	0	0	1	1
+sexdir	1	0	1	0	1	1
+kes lan	1	0	0	0	1	1
+göt	1	0	0	0	1	1
+yarranı yeyim	1	0	0	0	1	1
+ebeni sikim	1	0	0	0	1	1
+sapik	1	0	0	0	1	0
+tipsiz	1	0	0	0	1	1
+gerizekali	1	0	0	0	1	1
+sex ısteyen	1	0	1	0	1	1
+pıpı	1	0	0	1	1	0
+pipi	1	0	0	1	1	0
+sexs	1	0	1	0	1	0
+bosalt kendini	1	0	0	0	1	1
+bosal	1	0	0	1	1	1
+cinsel	1	0	0	1	1	1
+cinsellik	1	0	0	1	1	1
+kaltak	1	0	0	0	1	1
+kamm	1	0	0	1	0	1
+kam	1	0	0	1	0	1
+mastürbasyon	1	0	0	1	1	0
+otuzbir	1	0	0	1	1	1
+istimna	1	0	0	1	1	1
+iççamaşırı	1	0	0	1	1	1
+pedo	1	0	0	1	1	0
+kamera	1	0	0	1	1	1
+çıplak	1	0	0	1	0	1
+boşalmak	1	0	0	1	1	1
+meni	1	0	0	1	1	1
+skype	1	0	0	1	0	0
+nerde yaşıyorsun	1	0	0	1	0	0
+telefon numarası	1	0	0	1	0	0
+cadde	1	0	0	1	0	1
+sokak	1	0	0	1	0	0
+ceptelno	1	0	0	1	0	1
+evime gelebilirmisin	1	0	0	1	0	1
+klit	1	0	0	1	1	1
+klitoris	1	0	0	1	1	1
+bızır	1	0	0	1	1	1
+dılak	1	0	0	1	1	1
+dilcik	1	0	0	1	1	1
+ereksiyon	1	0	0	1	1	1
+dikme	1	0	0	1	0	1
+kalkma	1	0	0	1	0	1
+sertleşme	1	0	0	1	0	0
+evde yalnızmısın	1	0	0	1	0	1
+resmini görebilirmiyim	1	0	0	1	0	1
+resim gönder	1	0	0	1	0	1
+resmini görebilir miyim	1	0	0	1	0	1
+beni görmek istermisin	1	0	0	1	0	1
+beni görmek ister misin	1	0	0	1	0	1
+resimler	1	0	0	1	0	0
+tanga	1	0	0	1	0	0
+kırbaç	1	0	0	1	1	1
+külot	1	0	0	1	1	1
+traş oluyor musun	1	0	0	1	0	0
+bakire	1	0	0	1	1	1
+bakir	1	0	0	1	1	1
+porno	1	0	0	1	1	0
+miki	1	0	0	1	1	1
+vajina	1	0	0	1	1	0
+vajen	1	0	0	1	1	0
+evime gelebilir misin	1	0	0	1	0	1
+evde yalnız mısın	1	0	0	1	0	1
+yazılı mesaj	1	0	0	1	0	0
+tex mesajı	1	0	0	1	0	0
+msgr	1	0	0	1	1	0
+tanışabilir miyiz	1	0	0	1	0	0
+neye benziyorsun	1	0	0	1	0	0
+hangi okula gidiyorsun	1	0	0	1	0	1
+peryod	1	0	0	1	0	0
+regl	1	0	0	1	0	0
+aybaşı	1	0	0	1	0	1
+hayız	1	0	0	1	0	1
+hayz	1	0	0	1	0	1
+tinychat	1	0	0	1	0	0
+imageshack	1	0	0	1	0	0
+imajlar	1	0	0	1	0	1
+Flickr	1	0	0	1	0	0
+ivideochat	1	0	0	1	0	0
+cep no	1	0	0	1	0	1
+cep tlf	1	0	0	1	0	1
+mobilno	1	0	0	1	0	0
+orgazm	1	0	0	1	1	0
+doyum	1	0	0	1	0	1
+boşalma	1	0	0	1	1	1
+photobucket	1	0	0	1	0	0
+soyun	0	0	0	1	0	0
+külotunu çıkar	1	0	0	1	0	1
+dil öpücüğü	1	0	0	1	0	1
+videochat	1	0	0	1	0	0
+kaça gidiyorsun	1	0	0	1	0	1
+kaçıncı sınıf	1	0	0	1	0	1
+soyad	1	0	0	1	1	0
+gerçek isim	1	0	0	1	0	1
+adres	1	0	0	1	0	1
+@live	1	0	0	1	0	0
+amq	1	0	1	0	1	1
+aq	1	0	0	0	1	0
+qahbe	1	0	0	0	1	1
+kahbe	1	0	0	0	1	1
+qahpe	1	0	0	0	1	1
+cam	1	0	0	1	0	1
+camera	1	0	0	1	0	1
+kalktı	1	0	0	1	0	1
+sikim kalktı	1	0	0	1	1	1
+31 çekiyorum	1	0	0	1	1	1
+otuzbır	1	0	0	1	1	1
+orospu	1	0	0	0	1	1
+oc	1	0	0	0	1	1
+kilot	1	0	0	1	1	1
+mesene	1	0	0	1	1	1
+msn den sevişsek	1	0	0	1	1	1
+amcik	1	0	0	0	1	1
+yarak	1	0	0	0	1	1
+yarram	1	0	0	0	1	1
+sikim	1	0	0	0	1	1
+sikiş	1	0	0	0	1	1
+porn	1	0	0	1	1	0
+amınakoyim	1	0	0	0	1	1
+amına	1	0	0	0	1	1
+koduğum	1	0	0	0	1	1
+dallama	1	0	0	0	1	1
+sie	1	0	0	0	1	1
+sokuş	1	0	0	0	1	1
+sok	1	0	0	0	1	1
+meme	1	0	0	0	1	1
+sıç	1	0	0	0	1	1
+ağzına sıçtığım	1	0	0	0	1	1
+döl	1	0	0	1	1	1
+daşşak	1	0	0	0	1	1
+daşak	1	0	0	0	1	1
+domal	1	0	0	1	1	1
+malak	1	0	0	0	1	1
+dübür	1	0	0	0	1	1
+dibür	1	0	0	0	1	1
+otuzbir çekiyorum	1	0	0	1	1	1
+azgın	1	0	0	1	0	0
+kökleyim	1	0	0	1	1	1
+kökliyim	1	0	0	1	1	1
+azdır	1	0	0	1	1	1
+azalım	1	0	0	1	1	1
+azdım	1	0	0	1	1	1
+sertleştim	1	0	0	1	1	1
+soktum	1	0	0	1	1	1
+skayp	1	0	0	1	0	1
+emesen	1	0	0	1	0	1
+foto	1	0	0	1	0	0
+sperm	1	0	0	1	1	0
+göğüs	1	0	0	1	0	1
+sapıklık	1	0	1	1	1	1
+memelerini yalarım	1	0	0	1	1	1
+memelerini yalayım	1	0	0	1	1	1
+yalayım	1	0	0	1	0	1
+yalarım	1	0	0	1	0	1
+yala	1	0	0	1	0	1
+yiyişelim	1	0	0	1	1	1
+sikis	1	1	0	0	1	1
+sikti	1	1	0	0	1	1
+sikme	1	1	0	0	1	1
+sokus	1	1	0	0	1	1
+sokma	1	1	0	0	1	1
+domal	1	1	0	0	1	1
+amcik	1	1	0	0	1	1
+xxx	1	1	0	0	1	1
+yarak	1	1	0	0	1	1
+yarrak	1	1	0	0	1	1
+domal	1	1	0	0	1	1
+31	1	1	0	0	1	1
+adrianne	1	1	0	0	1	1
+adult	1	1	0	0	1	1
+amcik	1	1	0	0	1	1
+anal	1	1	0	0	1	1
+analcum	1	1	0	0	1	1
+animal	1	1	0	0	1	1
+asshole	1	1	0	0	1	1
+atesli	1	1	0	0	1	1
+azdirici	1	1	0	0	1	1
+azgin	1	1	0	0	1	1
+bakire	1	1	0	0	1	1
+baldiz	1	1	0	0	1	1
+beat	1	1	0	0	1	1
+biseksuel	1	1	0	0	1	1
+bitch	1	1	0	0	1	1
+bok	1	1	0	0	1	1
+boob	1	1	0	0	1	1
+bosal	1	1	0	0	1	1
+buyutucu	1	1	0	0	1	1
+cenabet	1	1	0	0	1	1
+ciftles	1	1	0	0	1	1
+ciplak	1	1	0	0	1	1
+citir	1	1	0	0	1	1
+cock suck	1	1	0	0	1	1
+crap	1	1	0	0	1	1
+cukpenis	1	1	0	0	1	1
+cunub	1	1	0	0	1	1
+dick	1	1	0	0	1	1
+domal	1	1	0	0	1	1
+dump	1	1	0	0	1	1
+emme	1	1	0	0	1	1
+ensest	1	1	0	0	1	1
+erotic	1	1	0	0	1	1
+erotig	1	1	0	0	1	1
+erotik	1	1	0	0	1	1
+esbian	1	1	0	0	1	1
+escinsel	1	1	0	0	1	1
+escort	1	1	0	0	1	1
+eskort	1	1	0	0	1	1
+fantezi	1	1	0	0	1	1
+fetish	1	1	0	0	1	1
+fire	1	1	0	0	1	1
+firikik	1	1	0	0	1	1
+free	1	1	0	0	1	1
+fuck	0	1	1	0	1	0
+gay	1	1	0	0	1	1
+geciktirici	1	1	0	0	1	1
+genital	1	1	0	0	1	1
+gerdek	1	1	0	0	1	1
+girl	1	1	0	0	1	1
+gizli	1	1	0	0	1	1
+gogus	1	1	0	0	1	1
+got	1	1	0	0	1	1
+hatun	1	1	0	0	1	1
+haydar	1	1	0	0	1	1
+hayvan	1	1	0	0	1	1
+hentai	1	1	0	0	1	1
+hikaye	1	1	0	0	1	1
+homemade	1	1	0	0	1	1
+homoseksüel	1	1	0	0	1	1
+hot	1	1	0	0	1	1
+impud	1	1	0	0	1	1
+itiraf	1	1	0	0	1	1
+jigolo	1	1	0	0	1	1
+kalca	1	1	0	0	1	1
+kaltak	1	1	0	0	1	1
+kerhane	1	1	0	0	1	1
+kinky	1	1	0	0	1	1
+kizlik	1	1	0	0	1	1
+kudur	1	1	0	0	1	1
+kulot	1	1	0	0	1	1
+lesbian	1	1	0	0	1	1
+lezbiyen	1	1	0	0	1	1
+liseli	1	1	0	0	1	1
+lolita	1	1	0	0	1	1
+lust	1	1	0	0	1	1
+mastirbas	1	1	0	0	1	1
+masturbasyon	1	1	0	0	1	1
+mature	1	1	0	0	1	1
+meme	1	1	0	0	1	1
+mom	1	1	0	0	1	1
+naughty	1	1	0	0	1	1
+nefes	1	1	0	0	1	1
+nubile	1	1	0	0	1	1
+nude	1	1	0	0	1	1
+nudist	1	1	0	0	1	1
+olgun	1	1	0	0	1	1
+opusme	1	1	0	0	1	1
+oral	1	1	0	0	1	1
+orgazm	1	1	0	0	1	1
+orospu	1	1	0	0	1	1
+panty	1	1	0	0	1	1
+partner	1	1	0	0	1	1
+penis	1	1	0	0	1	1
+pervert	1	1	0	0	1	1
+pezevenk	1	1	0	0	1	1
+popo	1	1	0	0	1	1
+porn	1	1	0	0	1	1
+pussy	1	1	0	0	1	1
+sapik	1	1	0	0	1	1
+sarisin	1	1	0	0	1	1
+sehvet	1	1	0	0	1	1
+sevisme	1	1	0	0	1	1
+showgirl	1	1	0	0	1	1
+sicak	1	1	0	0	1	1
+sik	1	1	0	0	1	1
+sisman	1	1	0	0	1	1
+sok	1	1	0	0	1	1
+sperm	1	1	0	0	1	1
+suck	1	1	0	0	1	1
+surtuk	1	1	0	0	1	1
+swinger	1	1	0	0	1	1
+taciz	1	1	0	0	1	1
+tecavuz	1	1	0	0	1	1
+teen	1	1	0	0	1	1
+terbiyesiz	1	1	0	0	1	1
+travesti	1	1	0	0	1	1
+tube	1	1	0	0	1	1
+turbanli	1	1	0	0	1	1
+vagina	1	1	0	0	1	1
+vajina	1	1	0	0	1	1
+virgin	1	1	0	0	1	1
+vurvur	1	1	0	0	1	1
+xn	1	1	0	0	1	1
+xx	1	1	0	0	1	1
+yala	1	1	0	0	1	1
+yarak	1	1	0	0	1	1
+yarrak	1	1	0	0	1	1
+yasak	1	1	0	0	1	1
+yerli	1	1	0	0	1	1
+yetiskin	1	1	0	0	1	1
+zoo	1	1	0	0	1	1
+adrianne	1	1	0	0	1	1
+adult	1	1	0	0	1	1
+amcik	1	1	0	0	1	1
+amcik	1	1	0	0	1	1
+anal	1	1	0	0	1	1
+analcum	1	1	0	0	1	1
+asshole	1	1	0	0	1	1
+atesli	1	1	0	0	1	1
+atesli	1	1	0	0	1	1
+azdirici	1	1	0	0	1	1
+azgin	1	1	0	0	1	1
+bakire	1	1	0	0	1	1
+biseksuel	1	1	0	0	1	1
+bitch	1	1	0	0	1	1
+bok	1	1	0	0	1	1
+boob	1	1	0	0	1	1
+bosalmak	1	1	0	0	1	1
+bosalmak	1	1	0	0	1	1
+buyutucu	1	1	0	0	1	1
+büyütücü	1	1	0	0	1	1
+cenabet	1	1	0	0	1	1
+ciftles	1	1	0	0	1	1
+çiftles	1	1	0	0	1	1
+ciplak	1	1	0	0	1	1
+çiplak	1	1	0	0	1	1
+citir	1	1	0	0	1	1
+çitir	1	1	0	0	1	1
+cock	1	1	0	0	1	1
+crap	1	1	0	0	1	1
+cukpenis	1	1	0	0	1	1
+cunub	1	1	0	0	1	1
+cünüp	1	1	0	0	1	1
+cünup	1	1	0	0	1	1
+dick	1	1	0	0	1	1
+dassak	1	1	0	0	1	1
+dassag	1	1	0	0	1	1
+domal	1	1	0	0	1	1
+emme	1	1	0	0	1	1
+ensest	1	1	0	0	1	1
+erotic	1	1	0	0	1	1
+erotig	1	1	0	0	1	1
+erotik	1	1	0	0	1	1
+esbian	1	1	0	0	1	1
+escinsel	1	1	0	0	1	1
+escort	1	1	0	0	1	1
+eskort	1	1	0	0	1	1
+esrar	1	1	0	0	1	1
+fahise	1	1	0	0	1	1
+fahise	1	1	0	0	1	1
+fantezi	1	1	0	0	1	1
+fantazi	1	1	0	0	1	1
+fetish	1	1	0	0	1	1
+fire	1	1	0	0	1	1
+firikik	1	1	0	0	1	1
+fuck	0	1	1	0	1	0
+gay	1	1	0	0	1	1
+gey	1	1	0	0	1	1
+geciktirici	1	1	0	0	1	1
+genital	1	1	0	0	1	1
+girl	1	1	0	0	1	1
+gizli	1	1	0	0	1	1
+gogus	1	1	0	0	1	1
+gögüs	1	1	0	0	1	1
+got	1	1	0	0	1	1
+göt	1	1	0	0	1	1
+hatun	1	1	0	0	1	1
+hentai	1	1	0	0	1	1
+hikaye	1	1	0	0	1	1
+homoseksuel	1	1	0	0	1	1
+hot	1	1	0	0	1	1
+jigolo	1	1	0	0	1	1
+kalça	1	1	0	0	1	1
+kalça	1	1	0	0	1	1
+kaltak	1	1	0	0	1	1
+kancik	1	1	0	0	1	1
+kancik	1	1	0	0	1	1
+kinky	1	1	0	0	1	1
+kizlik	1	1	0	0	1	1
+kizlik	1	1	0	0	1	1
+kudur	1	1	0	0	1	1
+külot	1	1	0	0	1	1
+lesbian	1	1	0	0	1	1
+lezbien	1	1	0	0	1	1
+lezbiyen	1	1	0	0	1	1
+liseli	1	1	0	0	1	1
+lolita	1	1	0	0	1	1
+lust	1	1	0	0	1	1
+mastirbas	1	1	0	0	1	1
+mastirbas	1	1	0	0	1	1
+mastürbasyon	1	1	0	0	1	1
+mastürbas	1	1	0	0	1	1
+mature	1	1	0	0	1	1
+meme	1	1	0	0	1	1
+naughty	1	1	0	0	1	1
+nefes	1	1	0	0	1	1
+nude	1	1	0	0	1	1
+nudist	1	1	0	0	1	1
+olgun	1	1	0	0	1	1
+opusme	1	1	0	0	1	1
+öpüsme	1	1	0	0	1	1
+oral	1	1	0	0	1	1
+orgazm	1	1	0	0	1	1
+orospu	1	1	0	0	1	1
+panty	1	1	0	0	1	1
+partner	1	1	0	0	1	1
+penis	1	1	0	0	1	1
+pervert	1	1	0	0	1	1
+pic	1	1	0	0	1	1
+piç	1	1	0	0	1	1
+pkk	1	1	0	0	1	1
+popo	1	1	0	0	1	1
+porn	1	1	0	0	1	1
+pussy	1	1	0	0	1	1
+sapik	1	1	0	0	1	1
+sapik	1	1	0	0	1	1
+sarisin	1	1	0	0	1	1
+sarisin	1	1	0	0	1	1
+sehvet	1	1	0	0	1	1
+sehvet	1	1	0	0	1	1
+seks	1	1	0	0	1	1
+sevisme	1	1	0	0	1	0
+sex	1	1	0	0	1	1
+ateşli	1	0	0	0	1	1
+çiftleş	1	0	0	0	1	1
+çıtır	1	0	0	0	1	1
+daşşağ	1	0	0	0	1	1
+fahişe	1	0	0	0	1	1
+kancık	1	0	0	0	1	1
+kızlık	1	0	0	0	1	1
+mastırbas	1	0	0	0	1	1
+öpüşme	1	0	0	0	1	1
+sarışın	1	0	0	0	1	1
+şehvet	1	0	0	0	1	1
+çük	1	0	0	1	1	1
+pipim	1	0	0	1	1	1
+abaza	1	0	1	1	1	1
+tampon	1	1	0	1	0	0
+amdelisi	1	0	0	1	1	1
+am delisi	1	0	0	1	1	1
+feysbuk	1	0	1	1	0	0
+hotmail	1	0	1	1	1	0
+mail	1	0	1	1	1	0
+feys	1	0	1	1	1	0
+buk	1	0	1	1	1	0
+fsbk	1	0	1	1	1	0
+feysbk	1	0	1	1	1	0
+facebuk	1	0	1	1	1	0
+face	1	0	1	1	1	0
+book	1	0	1	1	1	0
+donbal	1	0	0	1	1	1
+hilesi	1	1	1	0	1	0
+soyisim	1	0	0	1	1	0
+tecavüz	1	1	0	1	1	0
+katliam	1	1	1	1	1	0
+sevişmek	1	1	0	1	1	0
+sevişme	1	1	0	1	1	0
+sübyancı	1	1	0	1	1	0
+pedofil	1	1	0	1	1	0
+seviş	1	1	0	1	1	0
+sikişme	1	1	0	1	1	0
+sikişmek	1	1	0	1	1	0
+sikişiyor	1	1	0	1	1	0
+sıkısme	1	1	0	1	1	0
+sıkısen	1	1	0	1	1	0
+sikişen	1	1	0	1	1	0
+sıkcem	1	1	0	1	1	0
+sikcem	1	1	0	1	1	0
+sikilen	1	1	0	1	1	0
+sevisen	1	1	0	1	1	0
+sevışen	1	1	0	1	1	0
+sevısen	1	1	0	1	1	0
+kürtaj	1	1	0	1	1	1
+sevişm	1	1	1	0	1	0
+sevism	1	1	1	0	1	0
+sikisme	1	1	1	1	1	0
+sikişm	1	1	1	1	1	0
+sikism	1	1	1	1	1	0
+pornayı	1	1	1	1	1	0
+porna	1	1	1	1	1	0
+memeler	1	0	1	1	1	1
+hile	1	0	1	0	1	0
+s-x	1	0	1	1	1	1
+memelerini	1	1	1	1	1	0
+müdür	1	0	1	1	0	0
+moderatör	1	0	1	1	0	0
+polis	1	0	1	1	0	0
+görevli	1	0	1	1	0	0
+a_z_d_ı_m	1	0	1	1	1	1
+adet oldunmu	1	1	0	1	1	1
+ıhıh	1	1	0	1	1	1
+sapığı	1	0	1	1	1	1
+kamasutra	1	1	1	1	1	0

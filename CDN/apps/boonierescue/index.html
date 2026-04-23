@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<title>BoonieRescue</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="description" content="Download and play Boonie Rescue on iOS and Android now! Travel through wondrous planet worlds, solving puzzles and rescuing the Boonies! Collect Fame and StarCoins which you can transfer to your MovieStarPlanet account!" />
+<meta name="keywords" content="Boonie, Rescue, cute, app, puzzle, match 3, MovieStarPlanet" />
+<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body>
+<div id="background" ></div>
+
+<div class="row" id="header">
+	<div id="leftHeader">
+		<image id="logo" src="img/LogoRGB.png" />
+		<div id="link">
+			<a href="https://itunes.apple.com/dk/app/boonie-rescue/id661073143?mt=8">
+				<image src="img/appstore.png" />
+			</a>
+		</div>
+		<div id="link2">
+			<a href="https://play.google.com/store/apps/details?id=com.moviestarplanet.BoonierescueAndroid">
+				<image src="img/GooglePlay_badge.png" />
+			</a>
+		</div>		
+	</div>
+	<div id="rightHeader">
+		<image id="title" src="img/Title_01.png" />
+	</div>
+</div>
+
+<div class="row" id="content" />
+	<div id="filter">
+		<div id="screenshots" />
+			<image class="screenshot" src="img/screenshots/1.jpg" />
+			<image class="screenshot" src="img/screenshots/3.jpg" />
+			<image class="screenshot" src="img/screenshots/2.jpg" />
+			<image class="screenshot" src="img/screenshots/4.jpg" />
+			<image class="screenshot" src="img/screenshots/5.jpg" />
+		</div>
+		<div id="text" />
+		
+		<p>OH NO! </p>
+
+		<p>Help the cute Boonies in this awesome new match 3 game ^.^ </p>
+
+		<!--div id="player"></div-->
+
+		<p>Travel from planet to planet in your fluffy intergalactic spaceship and 
+		 rescue lost Boonies across the universe... </p>
+
+		<p><ul>
+		<li>Match-3 with lots of different game modes! 
+		<li>Lots of levels and hours of fun! 
+		<li>Unlock Boosters and rescue the Boonies with style! 
+		</ul>
+		</p>
+		 
+		<p>MovieStarPlanet players can transfer the StarCoins and Fame earned to their online movie star. 
+Fluffy adventures await you in... BOONIE RESCUE! </p>
+		
+		<p>\(^_^)/</p>
+		
+		</div>
+	</div>
+</div>
+
+
+
+
+
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '390',
+          width: '640',
+          videoId: 'q-98zuQym-c',
+          events: {
+            'onReady': onPlayerReady
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+    </script>
+
+
+</body>
+
+</html>

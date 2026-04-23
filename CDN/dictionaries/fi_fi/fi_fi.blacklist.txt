@@ -1,0 +1,434 @@
+﻿word	matchWholeWord	isYoutube	isUsername	isAlert	isBlackList	isExactFiltering
+paska	1	0	1	0	1	1
+vittu	1	0	1	0	1	1
+perkele	0	0	1	0	1	0
+helvetti	1	0	1	0	1	1
+saatana	1	0	1	0	1	1
+jumalauta	1	0	1	0	1	1
+mulkku	0	0	1	0	1	0
+kulli	1	0	1	1	1	1
+runkkari	0	0	1	0	1	0
+helkkari	1	0	1	0	1	1
+vitun	1	0	1	0	1	1
+helvetin	1	0	1	0	1	1
+bitch	0	0	1	0	1	0
+horo	1	0	1	0	1	1
+vitu	1	0	1	0	1	1
+nekru	1	0	1	0	1	1
+seksikäs	0	0	1	1	1	0
+seksi	1	0	1	1	1	1
+seksiä	0	0	1	1	1	0
+seksii	1	0	1	1	1	1
+pimppi	1	0	1	1	1	1
+pimppa	1	0	1	1	1	1
+pimpin	1	0	1	1	1	1
+pimpit	1	0	1	1	1	1
+pimpat	1	0	1	1	1	1
+kyrvän	1	0	1	1	1	1
+kyrvät	1	0	1	1	1	1
+kullin	1	0	1	1	1	1
+kullien	1	0	1	1	1	1
+kullit	1	0	1	1	1	1
+hintti	1	0	1	0	1	1
+lespo	0	0	1	0	1	0
+seksitää	0	0	1	1	1	0
+nussi	1	0	1	1	1	1
+hiton	1	0	1	0	1	1
+hitto	1	0	1	0	1	1
+vagina	0	0	1	1	1	0
+peniksen	1	0	1	1	1	1
+penikset	1	0	1	1	1	1
+tissi	1	0	1	0	1	0
+tissit	1	0	1	0	1	1
+tissien	1	0	1	0	1	0
+rinnat	1	0	1	1	1	1
+paskat	1	0	1	0	1	1
+porno	0	0	1	1	1	0
+pervo	0	0	1	0	1	0
+anaali	1	0	1	0	1	1
+vtu	1	0	1	0	1	1
+transu	0	0	1	0	1	0
+SinäTuubaPaska	0	0	1	0	1	0
+SinäTuubiPaska	0	0	1	0	1	0
+Les sales blagues de l'Écho	0	1	1	0	1	0
+raili's people	1	0	1	0	1	1
+Paljalt naljakas	1	0	1	0	1	1
+suomiseksi	1	0	1	1	1	1
+homppeli	1	0	1	0	1	1
+hintit	1	0	1	0	1	1
+hintin	1	0	1	0	1	1
+kyrpä	0	0	1	1	1	0
+lutka	1	0	1	0	1	0
+kyrpiä	1	0	1	0	1	1
+sex	1	0	1	0	1	1
+seks	1	0	1	1	1	1
+terska	0	0	1	1	1	0
+emätin	1	0	1	0	1	1
+liukuvoide	0	0	1	0	1	0
+vibraattori	0	0	1	1	1	0
+dildo	0	0	1	0	1	0
+hieromasauva	1	0	1	0	1	1
+kondoomi	0	0	1	0	1	0
+kortsu	0	0	1	0	1	0
+perseeseen	0	0	1	0	1	0
+häpykarva	0	0	1	0	1	0
+munakarva	0	0	1	0	1	0
+kivekset	0	0	1	0	1	0
+tussu	1	0	0	0	1	1
+kives	1	0	1	0	1	1
+prkl	1	0	1	0	1	1
+sperm	0	0	1	1	1	0
+runkkaa	0	0	1	1	1	0
+runkata	0	0	1	1	1	0
+raiskaa	0	0	1	0	1	0
+raiskata	0	0	1	0	1	0
+Sinä Tuuba Kakka	1	0	1	0	1	0
+Cokkelin Civittaejaet	1	0	0	0	1	1
+DUO-panisin	1	0	0	0	1	1
+saakeli	1	0	1	0	1	1
+saakelin	1	0	1	0	1	1
+helkutti	1	0	1	0	1	1
+helkutin	1	0	1	0	1	1
+dick	1	0	1	0	1	1
+fucking	0	0	1	0	1	0
+persreikä	0	0	1	0	1	0
+kusipää	1	0	1	0	1	1
+vittupää	0	0	1	0	1	0
+munapää	1	0	1	0	1	1
+seksuaali	0	0	1	1	1	0
+seksikkä	0	0	1	1	1	0
+esinahka	0	0	1	0	1	0
+horny	1	0	1	0	1	1
+sexy	1	0	1	0	1	1
+siittiö	1	0	1	0	1	1
+siittiöt	1	0	1	0	1	1
+vittuun	1	0	1	0	1	1
+vittuu	1	0	1	0	1	1
+vituiksi	1	0	1	0	1	1
+vituiks	1	0	1	0	1	1
+vittuile	0	0	1	0	1	0
+vittuilu	0	0	1	0	1	0
+vittuillaa	0	0	1	0	1	0
+asshole	0	0	1	0	1	0
+mulkut	1	0	1	0	1	1
+transvestiitti	0	0	1	0	1	0
+alkoholi	1	0	1	0	1	0
+perse	1	0	1	0	1	1
+huora	0	0	1	0	1	0
+perseenreijät	0	0	1	0	1	0
+perseennuolija	0	0	1	0	1	0
+perseenreikä	0	0	1	0	1	0
+suihinotto	0	0	1	0	1	0
+stondis	0	0	1	1	1	0
+paskapuhe	0	0	1	0	1	0
+hevonpaska	1	0	1	0	1	1
+perseeseen nussija	0	0	1	0	1	0
+perskarva	0	0	1	0	1	0
+puhelinnumero	0	0	1	1	1	0
+kokaiini	0	0	1	0	1	0
+kondomi	0	0	1	0	1	0
+pillu	0	0	1	1	1	0
+siemensyöksy	0	0	1	1	1	0
+läskiperse	0	0	1	0	1	0
+hasis	1	0	1	0	1	1
+homo	1	0	1	0	1	1
+kiimainen	0	0	1	1	1	0
+idiootti	0	0	1	0	1	0
+vetää käteen	0	0	1	0	1	0
+vedä käteen	0	0	1	0	1	0
+vedän käteen	1	0	1	1	1	1
+lesbo	0	0	1	0	1	0
+marihuana	0	0	1	0	1	0
+masturboi	0	0	1	1	1	0
+kännykkänumero	1	0	1	1	1	1
+neekeri	0	0	1	0	1	0
+orgasmi	0	0	1	1	1	0
+salasana	1	0	1	0	1	1
+salkkis	0	0	1	0	1	0
+penis	0	0	1	1	1	0
+puhelinseksi	0	0	1	1	1	0
+kännissä	0	0	1	0	1	0
+häivy helvettiin	1	0	1	0	1	1
+raiskaus	0	0	1	0	1	0
+raiskaaja	0	0	1	0	1	0
+jälkeenjääny	1	0	1	0	1	1
+kielari	0	0	1	1	1	0
+runkkaus	0	0	1	0	1	0
+pippeli	0	0	1	1	1	0
+klitoris	0	0	1	1	1	0
+anaaliseksi	0	0	1	1	1	0
+eroottinen	1	0	1	0	1	1
+erotiikka	1	0	1	0	1	1
+kiihotta	0	0	1	1	1	0
+itsari	1	0	1	0	1	1
+itsemurha	1	0	1	0	1	1
+ottaa suihin	1	0	1	1	1	1
+ota suihin	1	0	1	1	1	1
+otan suihin	1	0	1	1	1	1
+kiimane	0	0	1	1	1	0
+kannabis	0	0	1	0	1	0
+masturbaatio	0	0	1	1	1	0
+kännynumero	1	0	1	1	1	1
+känny numero	1	0	1	1	1	1
+kännykkä numero	1	0	1	1	1	1
+orkku	1	0	1	1	1	1
+salis	1	0	0	0	1	1
+salari	1	0	0	0	1	1
+parittaja	1	0	1	0	1	1
+kusi	1	0	1	0	1	1
+känni	1	0	1	0	1	1
+känniin	1	0	1	0	1	1
+naimaan	1	0	0	0	1	1
+naidaan	1	0	0	0	1	1
+naida sun kanssa	1	0	0	0	1	1
+naida sun kaa	1	0	0	0	1	1
+kikkeli	0	0	1	0	1	0
+daisarit	1	0	1	0	1	1
+hinkit	1	0	1	0	1	1
+kossu	1	0	1	0	1	1
+vodka	0	0	1	0	1	0
+bisse	1	0	1	0	1	1
+kalja	1	0	1	0	1	1
+äpärä	1	0	0	0	1	1
+puhelinsex	0	0	1	1	1	0
+kusta	1	0	0	0	1	1
+kivespussi	1	0	1	0	1	1
+ootko neitsyt	1	0	0	1	1	1
+oletko neitsyt	1	0	0	1	1	1
+runkku	0	0	1	0	1	0
+runkut	1	0	1	0	1	1
+mese	1	0	0	1	0	1
+nimi on Facebookissa	1	0	0	1	1	1
+Facebook nimi	1	0	0	1	0	1
+irl nimi	1	0	0	1	1	1
+ikä	1	0	0	1	0	1
+ikänen	1	0	0	1	0	1
+ikäinen	1	0	0	1	0	1
+sukunimi	0	0	1	1	1	0
+osoite	1	0	0	1	0	1
+osote	1	0	0	1	0	1
+kadunnimi	1	0	0	1	1	1
+koulussa oot	1	0	0	1	0	1
+koulua käyt	1	0	0	1	0	1
+tapan sut	1	0	0	0	1	0
+hakkaan sut	1	0	0	0	1	1
+vammanen	1	0	1	0	1	1
+ryssä	1	0	1	0	1	1
+haluutko turpaan	1	0	0	0	1	1
+saat turpaan	1	0	0	0	1	1
+saat turpiin	1	0	0	0	1	1
+sulle turpaan	1	0	0	0	1	1
+sulle turpiin	1	0	0	0	1	1
+Missä asut	1	0	0	1	1	1
+missä asutte	1	0	0	1	1	1
+mikä sun nimi on	1	0	0	1	1	1
+tekstari	1	0	0	1	1	0
+tekstiviesti	1	0	0	1	1	0
+nettikamera	0	0	0	1	0	0
+skype nimi	1	0	0	1	1	1
+sukupuoliyhtey	0	0	1	1	1	0
+sukueli	0	0	1	0	1	0
+seksisuh	0	0	1	1	1	0
+sexi	1	0	1	0	1	1
+sukupuolitau	0	0	1	0	1	0
+raiskauks	0	0	1	0	1	0
+sadomaso	0	0	1	0	1	0
+perverssi	0	0	1	0	1	0
+rakastella	0	0	1	1	1	0
+rakastele	1	0	1	1	1	1
+oikea nimi	1	0	0	1	0	1
+oikee nimi	1	0	0	1	0	1
+sun koko nimi	1	0	0	1	1	1
+mun nimi on	1	0	0	1	0	1
+sun kokonimi	1	0	0	1	1	1
+mun kokonimi	1	0	0	1	1	1
+irl-nimi	1	0	0	1	1	1
+kaalimato	0	0	1	1	1	0
+häpyhuul	0	0	1	0	1	0
+genital	0	0	1	0	1	0
+nusia	1	0	0	0	1	1
+nusitaa	1	0	0	0	1	1
+telefonnummer	0	0	1	1	1	0
+telefon nummer	1	0	0	1	1	0
+prostitu	0	0	1	0	1	0
+paskiai	0	0	1	0	1	0
+sähköposti	0	0	0	1	0	0
+mailioso	0	0	0	1	0	0
+mikä sun maili on	1	0	0	1	1	1
+sposti	1	0	0	1	1	1
+mun maili on	1	0	0	1	0	1
+ufoporno	0	0	1	0	1	0
+kamera	0	0	0	1	0	0
+rintaliivit	1	0	0	1	0	1
+tissiliivit	1	0	0	1	0	1
+rintsikat	1	0	0	1	0	1
+kadun nimi	1	0	0	1	0	1
+pedo	1	0	1	1	1	1
+pedofiili	0	0	1	1	1	0
+alasti	1	0	0	1	0	1
+alaston	1	0	1	1	0	1
+alastomana	1	0	0	1	0	1
+irc-galleria	1	0	0	1	0	1
+ircgalleria	1	0	0	1	0	1
+irc galleria	1	0	0	1	0	1
+Facebook	0	0	0	1	0	0
+voinko nähdä kuvasi	1	0	0	1	0	1
+saanko nähdä kuvasi	1	0	0	1	0	1
+haluaisin nähdä kuvasi	1	0	0	1	0	1
+lähetä minulle kuva	1	0	0	1	0	1
+lähetä mulle kuva	1	0	0	1	0	1
+haluatko nähdä minut	1	0	0	1	0	1
+haluatko nähdä mut	1	0	0	1	0	1
+haluutko nähdä mut	1	0	0	1	0	1
+haluutko nähdä minut	1	0	0	1	0	1
+stringit	1	0	1	1	0	1
+pikkuhousut	1	0	0	1	0	1
+pikkarit	1	0	0	1	0	1
+pikkupöksyt	1	0	0	1	0	1
+alushousut	1	0	0	1	0	1
+neitsyt	1	0	0	1	0	1
+katu	1	0	0	1	0	1
+voitko tulla luokseni	1	0	0	1	0	1
+tule luokseni	1	0	0	1	0	1
+tule mun luo	1	0	0	1	0	1
+tule minun luo	1	0	0	1	0	1
+tule kotiini	1	0	0	1	0	1
+tuu meille	1	0	0	1	0	1
+tule meille	1	0	0	1	0	1
+erektio	1	0	1	1	1	1
+oletko yksin kotona	1	0	0	1	0	1
+ootko yksin kotona	1	0	0	1	0	1
+oletko yksin	1	0	0	1	0	1
+oletko kotona yksin	1	0	0	1	0	1
+msn	1	0	0	1	0	1
+voidaanko tavata	1	0	0	1	0	1
+voidaanko nähdä	1	0	0	1	0	1
+nähdäänkö	1	0	0	1	0	1
+tavataanko	1	0	0	1	0	0
+miltä näytät	1	0	0	1	0	1
+minkä näköinen olet	1	0	0	1	0	1
+minkä näköinen oot	1	0	0	1	0	1
+minkä näkönen oot	1	0	0	1	0	1
+minkä näkönen olet	1	0	0	1	0	1
+mitä koulua käyt	1	0	0	1	1	1
+missä koulussa oot	1	0	0	1	1	1
+missä koulussa olet	1	0	0	1	1	1
+kuukautiset	1	0	1	1	0	1
+menkat	1	0	0	1	0	1
+tinychat	1	0	0	1	0	0
+imagechack	0	0	0	1	0	0
+Flickr	0	0	0	1	0	0
+ivideochat	1	0	0	1	0	1
+photobucket	1	0	0	1	0	1
+riisu	0	0	0	1	0	0
+ota housut pois	1	0	0	1	0	1
+ota housusi pois	1	0	0	1	0	1
+kielisuudelma	1	0	1	1	1	1
+videochat	1	0	0	1	0	1
+millä luokalla olet	1	0	0	1	0	1
+millä luokalla oot	1	0	0	1	0	1
+monennella luokalla	1	0	0	1	0	1
+monennella oot	1	0	0	1	0	1
+mille luokalle meet	1	0	0	1	0	1
+mille luokalle menet	1	0	0	1	0	1
+monennelle luokalle	1	0	0	1	0	1
+voitko soittaa minulle	1	0	0	1	0	1
+voitko soittaa mulle	1	0	0	1	0	1
+voinko soittaa	1	0	0	1	0	1
+puhelin numero	1	0	0	1	1	1
+pallit	1	0	1	1	1	1
+koskettele	0	0	0	1	0	0
+kosketella	0	0	0	1	0	0
+kiihotu	0	0	1	1	1	0
+kiihottu	0	0	1	1	1	0
+ime	1	0	1	1	0	1
+nuole	0	0	0	1	0	0
+nuolla	1	0	1	1	0	1
+pankaa	1	0	1	1	0	1
+panekaa	1	0	0	1	0	1
+ootko märkä	1	0	0	1	0	1
+oletko märkä	1	0	0	1	0	1
+alusasu	0	0	0	1	0	0
+anaaliin	1	0	1	0	1	1
+anaalii	1	0	1	0	1	1
+naidaa	1	0	0	0	1	1
+webkamera	0	0	0	1	0	0
+webcamera	0	0	0	1	0	0
+itsetyydyt	0	0	1	1	1	0
+anus	1	0	1	1	1	1
+anukseen	1	0	1	0	1	1
+anuksee	1	0	1	0	1	1
+wittu	0	0	1	0	1	0
+viddu	0	0	1	0	1	0
+blog	1	0	0	1	0	1
+blogi	1	0	0	1	0	1
+seksata	0	0	0	0	1	0
+sexata	0	0	0	0	1	0
+bissee	1	0	0	0	1	1
+erektiota	1	0	0	1	1	1
+erektion	1	0	0	1	1	1
+erektiossa	1	0	0	1	1	1
+helvettii	1	0	0	0	1	1
+helvettiin	1	0	0	0	1	1
+homon	1	0	0	0	1	1
+homoa	1	0	0	0	1	1
+homoo	1	0	0	0	1	1
+homot	1	0	0	0	1	1
+itsarin	1	0	0	0	1	1
+itsemurhan	1	0	0	0	1	1
+kaljaa	1	0	0	0	1	1
+kaljat	1	0	0	0	1	1
+kaljan	1	0	0	0	1	1
+kännii	1	0	0	0	1	1
+kossuu	1	0	0	0	1	1
+kuka on Facebookissa	1	0	0	1	1	1
+kuka on Facessa	1	0	0	1	1	1
+kuka on Facebookis	1	0	0	1	1	1
+mulkun	1	0	0	0	1	1
+mun sähköposti on	1	0	0	1	1	1
+mun sähköpostiosoite on	1	0	0	1	1	1
+mun sähköpostiosote on	1	0	0	1	1	1
+mun email on	1	0	0	1	1	1
+mun email osote on	1	0	0	1	1	1
+nussia	1	0	0	1	1	1
+nussii	1	0	0	1	1	1
+nussitaa	1	0	0	1	1	1
+nussimaa	1	0	0	1	1	1
+nussimaan	1	0	0	1	1	1
+nussitaan	1	0	0	1	1	1
+nussitaaks	1	0	0	0	1	1
+nussinu	1	0	0	1	1	1
+rakastelee	1	0	0	1	1	1
+rakastelen	1	0	0	1	1	1
+rakastellaan	1	0	0	1	1	1
+rakastellaa	1	0	0	1	1	1
+rakastellu	1	0	0	1	1	1
+ryssät	1	0	0	0	1	1
+ryssän	1	0	0	0	1	1
+saatanan	1	0	0	0	1	1
+salasanan	1	0	0	0	1	1
+spostin	1	0	0	1	1	1
+vammane	1	0	0	0	1	1
+vedä kätee	1	0	0	0	1	1
+vtun	1	0	0	0	1	1
+vtut	1	0	0	0	1	1
+vitut	1	0	0	0	1	1
+mikä sun oikee nimi	1	0	0	1	0	1
+mikä sun oikea nimi	1	0	0	1	0	1
+missä muuten asut	1	0	0	1	0	1
+mikä sun ikä	1	0	0	1	0	1
+ranteet auki	1	0	0	1	1	1
+bulimia	1	0	0	1	1	0
+anorexia	1	0	0	1	1	0
+anoreksia	1	0	0	1	1	0
+väkivalta	1	1	0	1	0	0
+pro-ana	1	1	0	1	1	0
+pro-mia	1	1	0	1	1	0
+thinspo	1	1	0	1	1	0
+thinspiration	1	1	0	1	1	0
+tampon	1	1	0	1	0	0
+nai	1	1	1	0	1	1
+pane	1	1	1	0	1	1
+pentaan	1	1	1	0	1	1
+haida	1	1	1	0	1	1
+naida	1	1	1	0	1	0

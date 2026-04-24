@@ -6,8 +6,31 @@
 <title>MCDN</title>
 <link rel="stylesheet" href="style.css">
 
+<style>
+/* Removes scrollbars and makes the background black */
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+/* Floats your topbar over the game so it doesn't push the layout down */
+#topbar {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: white;
+    z-index: 10;
+}
+</style>
+
 <script>
 window.RufflePlayer = window.RufflePlayer || {};
+window.RufflePlayer.config = {
+    autoplay: "on",
+    unmuteOverlay: "visible",
+    letterbox: "on" /* This is the native Ruffle way to keep aspect ratio safe */
+};
 </script>
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 </head>
@@ -15,14 +38,14 @@ window.RufflePlayer = window.RufflePlayer || {};
 <body>
 
 <div id="topbar">
-<h1>MCDN</h1>
-<button onclick="loadGame()">PLAY</button>
+    <h1>MCDN</h1>
 </div>
 
 <div id="game"></div>
 
 <script>
-function loadGame() {
+// 1. Automatically load the game when the page is ready
+window.addEventListener("DOMContentLoaded", () => {
     const ruffle = window.RufflePlayer.newest();
     const player = ruffle.createPlayer();
 
@@ -30,21 +53,21 @@ function loadGame() {
     container.innerHTML = "";
     container.appendChild(player);
 
-    player.style.width = "960px";
-    player.style.height = "540px";
-    player.style.margin = "0 auto";
+    // 2. Tell the player to fill the browser window
+    player.style.width = "100vw";
+    player.style.height = "100vh";
     player.style.display = "block";
 
+    // 3. YOUR exact original load settings, completely untouched
     player.load({
         url: "https://raw.githubusercontent.com/velvessences/MCDN/main/Main_23_04.swf",
         allowScriptAccess: true,
         backgroundColor: "#000000",
-        allowScriptAccess: true,
         forceNetwork: true,
         quality: "low",
         scale: "showAll"
     });
-}
+});
 </script>
 
 </body>

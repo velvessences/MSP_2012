@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+const libamf = require('libamf');
 const nodeamf = require('@jadbalout/nodeamf'); // THE CORRECT PACKAGE
 const app = express();
 const PORT = 1600;
@@ -66,9 +67,6 @@ app.post('/Gateway.aspx', express.raw({ type: '*/*' }), (req, res) => {
     const method = req.query.method;
     if (!method) return res.status(200).send();
 
-    console.log(`   -> [AMF METHOD]: ${method}`);
-
-    // HACK: Quickly extract the Response ID (e.g., "/1", "/2") from the raw binary AMF request
     const rawString = req.body.toString('utf8');
     const match = rawString.match(/\/[0-9]+/);
     const responseId = match ? match[0] : '/1';
@@ -81,10 +79,11 @@ app.post('/Gateway.aspx', express.raw({ type: '*/*' }), (req, res) => {
             const handler = require(scriptPath);
             const responseData = handler.execute(req); 
             
-            // 1. Encode the JS object into binary AMF3 using nodeamf
-            const amf3Data = nodeamf.serialize(responseData, nodeamf.ENCODING.AMF3);
+            // 1. Encode using libamf (Syntax may vary slightly depending on your exact libamf version)
+            // It might be libamf.encode(), libamf.serialize(), etc.
+            const amf3Data = libamf.serialize(responseData, libamf.AMF3); 
             
-            // 2. Wrap it into the AMF0 Packet with the correct Response ID
+            // 2. Wrap it into the AMF0 Packet
             const finalPacket = buildAMFPacket(responseId, amf3Data);
 
             res.setHeader('Content-Type', 'application/x-amf');
@@ -94,7 +93,6 @@ app.post('/Gateway.aspx', express.raw({ type: '*/*' }), (req, res) => {
             res.status(500).send();
         }
     } else {
-        console.log(`   -> [MISSING SCRIPT]: Create services/${scriptName}.js to handle this!`);
         res.status(200).send();
     }
 });

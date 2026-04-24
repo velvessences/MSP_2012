@@ -1,7 +1,5 @@
 // services/LoadDataForRegisterNewUser.js
-
-const nodeamf = require('@jadbalout/nodeamf'); // Use the SAME package as server.js
-
+const libamf = require('libamf'); // Must match the server.js library
 // 1. Strongly Typed Classes
 // Adding _explicitType is a bulletproof fallback to force the AMF library to map it to AS3
 class RegisterNewUserData { constructor() { this._explicitType = "com.moviestarplanet.moviestar.valueObjects.RegisterNewUserData"; } }
@@ -12,13 +10,13 @@ class Mouth { constructor() { this._explicitType = "com.moviestarplanet.moviesta
 class Cloth { constructor() { this._explicitType = "com.moviestarplanet.moviestar.valueObjects.Cloth"; } }
 
 // 2. Bind the Javascript classes to the ActionScript classes so Flash accepts them
-if (nodeamf.registerClassAlias) {
-    nodeamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.RegisterNewUserData", RegisterNewUserData);
-    nodeamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Eye", Eye);
-    nodeamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.EyeShadow", EyeShadow);
-    nodeamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Nose", Nose);
-    nodeamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Mouth", Mouth);
-    nodeamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Cloth", Cloth);
+if (libamf.registerClassAlias) {
+    libamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.RegisterNewUserData", RegisterNewUserData);
+    libamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Eye", Eye);
+    libamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.EyeShadow", EyeShadow);
+    libamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Nose", Nose);
+    libamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Mouth", Mouth);
+    libamf.registerClassAlias("com.moviestarplanet.moviestar.valueObjects.Cloth", Cloth);
 }
 
 // Helper Functions

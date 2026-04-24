@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MCDN</title>
+<link rel="stylesheet" href="style.css">
+
+<script>
+window.RufflePlayer = window.RufflePlayer || {};
+</script>
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+</head>
+
+<body>
+
+<div id="topbar">
+<h1>MCDN</h1>
+<button onclick="loadGame()">PLAY</button>
+</div>
+
+<div id="game"></div>
+
+<script>
+function loadGame() {
+    const ruffle = window.RufflePlayer.newest();
+    const player = ruffle.createPlayer();
+
+    const container = document.getElementById("game");
+    container.innerHTML = "";
+    container.appendChild(player);
+
+    player.style.width = "960px";
+    player.style.height = "540px";
+    player.style.margin = "0 auto";
+    player.style.display = "block";
+
+    player.load({
+        url: "https://raw.githubusercontent.com/velvessences/MCDN/main/Main_23_04.swf",
+        allowScriptAccess: true,
+        backgroundColor: "#000000",
+        allowScriptAccess: true,
+        forceNetwork: true,
+        quality: "low",
+        scale: "showAll"
+    });
+}
+</script>
+
+</body>
+</html>

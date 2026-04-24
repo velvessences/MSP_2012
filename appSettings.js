@@ -1,5 +1,4 @@
 // appSettings.js
-// Extracted straight from the client SWF screenshots!
 module.exports = {
     "ServerType": "unrestricted",
     "ShowCEOPLogo": "true",
@@ -7,17 +6,45 @@ module.exports = {
     "showwebshoplink": "true",
     "PurchaseFlow": "1",
     "MalesMustWearTops": "false",
-    "SnapshotServerUrl": "http://localhost:1600/", // Point back to our server
+    "SnapshotServerUrl": "http://localhost:1600/",
     "MaxConcurrentAmfCalls": "5",
     "MaxConcurrentLoads": "5",
     "UserBehaviorServiceHostName": "localhost",
     "UseUserBehaviorService": "false",
     "UseUserNameFiltering": "false",
     "EcosystemUrl": "http://localhost:1600/",
-    "chatFMSServer": "rtmp://localhost/fms", // Fake RTMP server for now
+    "chatFMSServer": "rtmp://localhost/fms", 
     "ImageUpload": "true",
     "worldpetmagazine": "true",
     "BlobServiceHostName": "localhost",
     "ChristmasStartDate": "12-01",
-    "FMSAppName": "MSPWeb"
+    "FMSAppName": "MSPWeb",
+    
+    // NEW SETTINGS FOUND IN YOUR SCREENSHOTS:
+    "DEVICE_FINGERPRINT_COLLECTION_ENABLED": "false",
+    "CommFMSServer": "rtmp://localhost/fms",
+    "SPECIAL_INPUT_TEXT_CHARS": "",
+    "MODERATION_CHECK_UPDATE_TIMER_SECONDS": "60",
+    "HELP_CENTER_LINK": "http://localhost:1600",
+    "SAFETY_HELPLINE_LINK": "http://localhost:1600",
+    "SAFETY_RULES_LINK": "http://localhost:1600",
+    "PORTRAIT_MODE": "false",
+    "USE_OLD_MESSAGES_LIST": "true",
+    "MESSAGE_SERVICE_ELB": "http://localhost:1600",
+    "MESSAGE_SERVER_URL": "http://localhost:1600",
+    "SEND_MESSAGES_TO_CASSANDRA_DATABASE": "false",
+    "RELEASE_VERSION": "1.0",
+    "CLIENT_IDLE_TIMEOUT": "3600",
+    "ACTOR_DETAILS_CHECK_UPDATE_TIMER_SECONDS": "60",
+    "SCHOOL_FRIENDS_ENABLED_SWITCH": "false",
+    "XMPP_STATUS": "false",
+    "ALLOWED_NON_FRIEND_COMMUNICATION": "true",
+    "XMPP_USE_LOCALHOST": "true",
+    "XMPP_SERVER": "localhost",
+    "GIFT_CERTIFICATE_ENABLED": "true",
+    "MANGROVE_FEATURE_USAGE_MIN_T": "60",
+    "LOG_MISSING_ASSETS": "true",
+    "MY_SCHOOL_FIRST_NAME_ENABLED": "false",
+    "SHOW_OFFER_COUNTDOWN": "false",
+    "YOUTUBE_API_KEY": ""
 };

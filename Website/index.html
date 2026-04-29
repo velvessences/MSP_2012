@@ -198,7 +198,7 @@
     var SWF_FILE = "https://raw.githubusercontent.com/velvessences/MCDN/main/Main_20130527_172419.swf";
 
     // ── SERVER (your Railway backend) ─────────────────────────────────────────
-    var SERVER = "https://mspserver-production.up.railway.app";
+    var SERVER = "mspserver-production.up.railway.app";
 //
     // ══════════════════════════════════════════════════════════════════════════
 
@@ -210,18 +210,17 @@
       "cdnLocalBasePath="      + encodeURIComponent(CDN_BASE),
 
       // Server endpoints — override every localhost:1600 URL the game knows about
-      "serverUrl="             + encodeURIComponent(SERVER + "/"),
-      "webServiceUrl="         + encodeURIComponent(SERVER + "/WebService/Service.asmx"),
-      "gatewayUrl="            + encodeURIComponent(SERVER + "/Gateway.aspx"),
-      "userServiceUrl="        + encodeURIComponent(SERVER + "/WebService/User/UserService.asmx"),
-      "profileServiceUrl="     + encodeURIComponent(SERVER + "/WebService/Profile/ProfileService.asmx"),
-      "activityServiceUrl="    + encodeURIComponent(SERVER + "/WebService/Activity/ActivityService.asmx"),
-      "scrapBlogServiceUrl="   + encodeURIComponent(SERVER + "/WebService/ScrapBlog/ScrapBlogService.asmx"),
-      "themeServiceUrl="       + encodeURIComponent(SERVER + "/WebService/ThemeManager/ThemeManagerService.asmx"),
-      "parentalConsentUrl="    + encodeURIComponent(SERVER + "/WebService/ParentalConsent/ParentalConsentWebService.asmx"),
-
-      // Tell the SWF it is running on a real website (not localhost),
-      // so it skips the "IsRunningLocally" dev-mode branch
+      "serverUrl="          + encodeURIComponent("https://" + SERVER + "/"),
+      "webServiceUrl="      + encodeURIComponent("https://" + SERVER + "/WebService/Service.asmx"),
+      "gatewayUrl="         + encodeURIComponent("https://" + SERVER + "/Gateway.aspx"),
+      "userServiceUrl="     + encodeURIComponent("https://" + SERVER + "/WebService/User/UserService.asmx"),
+      "profileServiceUrl="  + encodeURIComponent("https://" + SERVER + "/WebService/Profile/ProfileService.asmx"),
+      "activityServiceUrl=" + encodeURIComponent("https://" + SERVER + "/WebService/Activity/ActivityService.asmx"),
+      "scrapBlogServiceUrl="+ encodeURIComponent("https://" + SERVER + "/WebService/ScrapBlog/ScrapBlogService.asmx"),
+      "themeServiceUrl="    + encodeURIComponent("https://" + SERVER + "/WebService/ThemeManager/ThemeManagerService.asmx"),
+      "parentalConsentUrl=" + encodeURIComponent("https://" + SERVER + "/WebService/ParentalConsent/ParentalConsentWebService.asmx"),
+      "gatewayUrl="         + encodeURIComponent("https://" + SERVER + "/Gateway.aspx"),
+     
       "isDevSite=false",
       "isAdminSite=false",
     ].join("&");

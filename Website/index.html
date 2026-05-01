@@ -1,19 +1,39 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>MovieStarPlanet</title>
+  <meta charset="UTF-8">
+  <title>MovieStarPlanet — 2013 Private Server</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Quicksand:wght@400;500;600;700&display=swap');
+
+    :root {
+      --msp-pink:      #ff3fa4;
+      --msp-pink-deep: #c0008a;
+      --msp-yellow:    #ffd400;
+      --msp-yellow-d:  #ff9800;
+      --msp-cyan:      #38e1ff;
+      --msp-purple:    #7a2cff;
+      --msp-bg:        #160033;
+      --msp-bg-2:      #2a0c52;
+      --ink:           #ffffff;
+      --ink-dim:       #ffd4f0;
+      --error:         #ff3b6e;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
 
     html, body {
       margin: 0;
       padding: 0;
-      background: #1a0033;
-      overflow: hidden;
       height: 100%;
+      background:
+        radial-gradient(120% 80% at 50% 0%, var(--msp-bg-2) 0%, var(--msp-bg) 60%, #0a001f 100%);
+      color: var(--ink);
+      font-family: 'Quicksand', system-ui, sans-serif;
+      overflow: hidden;
     }
 
-    /* Animated star background */
+    /* Twinkly star field */
     body::before {
       content: '';
       position: fixed;
@@ -34,13 +54,13 @@
       z-index: 0;
       pointer-events: none;
     }
-
     @keyframes twinkle {
-      0%   { opacity: 0.4; }
+      0% { opacity: .35; }
       100% { opacity: 1; }
     }
 
-    #start-screen {
+    /* Floating stage */
+    #gate-screen {
       position: relative;
       z-index: 1;
       width: 100vw;
@@ -49,101 +69,221 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      gap: 32px;
+      padding: 40px 24px;
+      gap: 28px;
+      animation: stage-in .7s cubic-bezier(.22, 1, .36, 1) both;
+    }
+    @keyframes stage-in {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: none; }
     }
 
+    /* Logo */
     .logo {
       font-family: 'Fredoka One', cursive, sans-serif;
-      font-size: clamp(36px, 7vw, 80px);
+      font-size: clamp(44px, 8vw, 92px);
+      letter-spacing: 1.5px;
+      line-height: 1;
+      text-align: center;
       color: #fff;
       text-shadow:
-        0 0 20px #ff44cc,
-        0 0 60px #ff00aa,
+        0 0 24px rgba(255, 63, 164, .9),
+        0 0 60px rgba(255, 0, 170, .6),
         0 4px 0 #aa0066;
-      letter-spacing: 2px;
-      animation: pulse-glow 2.5s ease-in-out infinite;
-      text-align: center;
-      line-height: 1.1;
+      animation: pulse-glow 2.6s ease-in-out infinite;
+      margin: 0;
     }
-
-    .logo span {
-      color: #ffdd00;
+    .logo .star {
+      display: inline-block;
+      color: var(--msp-yellow);
       text-shadow:
-        0 0 20px #ffaa00,
-        0 0 60px #ff6600,
+        0 0 20px var(--msp-yellow-d),
+        0 0 50px #ff6600,
         0 4px 0 #aa4400;
+      animation: spin-star 6s linear infinite;
+      transform-origin: center;
     }
-
     @keyframes pulse-glow {
       0%, 100% { filter: brightness(1); }
-      50%       { filter: brightness(1.25); }
+      50%      { filter: brightness(1.18); }
     }
-
-    .subtitle {
-      font-family: 'Fredoka One', cursive, sans-serif;
-      font-size: clamp(14px, 2vw, 20px);
-      color: #ffaaee;
-      letter-spacing: 4px;
-      text-transform: uppercase;
-      opacity: 0.8;
-    }
-
-    #start {
-      position: relative;
-      font-family: 'Fredoka One', cursive, sans-serif;
-      font-size: clamp(20px, 3vw, 32px);
-      padding: 18px 60px;
-      background: linear-gradient(135deg, #ff00aa, #cc00ff);
-      color: #fff;
-      border: 3px solid rgba(255,255,255,0.4);
-      border-radius: 60px;
-      cursor: pointer;
-      letter-spacing: 1px;
-      box-shadow:
-        0 0 30px #ff00aa88,
-        0 0 60px #cc00ff44,
-        inset 0 1px 0 rgba(255,255,255,0.3);
-      transition: transform 0.15s, box-shadow 0.15s;
-      animation: bounce-in 0.6s cubic-bezier(.34,1.56,.64,1) both;
-    }
-
-    @keyframes bounce-in {
-      from { transform: scale(0.5); opacity: 0; }
-      to   { transform: scale(1);   opacity: 1; }
-    }
-
-    #start:hover {
-      transform: scale(1.07) translateY(-2px);
-      box-shadow:
-        0 0 50px #ff00aaaa,
-        0 0 100px #cc00ff66,
-        inset 0 1px 0 rgba(255,255,255,0.3);
-    }
-
-    #start:active {
-      transform: scale(0.97);
-    }
-
-    /* sparkle dots around button */
-    #start::before, #start::after {
-      content: '★';
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      font-size: 18px;
-      color: #ffdd00;
-      text-shadow: 0 0 10px #ffaa00;
-      animation: spin-star 3s linear infinite;
-    }
-    #start::before { left: 18px; animation-direction: normal; }
-    #start::after  { right: 18px; animation-direction: reverse; }
-
     @keyframes spin-star {
-      0%   { transform: translateY(-50%) rotate(0deg)   scale(1);   }
-      50%  { transform: translateY(-50%) rotate(180deg) scale(1.4); }
-      100% { transform: translateY(-50%) rotate(360deg) scale(1);   }
+      to { transform: rotate(360deg); }
     }
 
+    .tagline {
+      font-family: 'Fredoka One', cursive, sans-serif;
+      font-size: clamp(16px, 2.2vw, 22px);
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      color: var(--msp-yellow);
+      text-shadow: 0 0 18px rgba(255, 212, 0, .55);
+      margin: 0;
+    }
+
+    /* Disclaimer card */
+    .card {
+      width: min(560px, 100%);
+      background: linear-gradient(180deg, rgba(255, 255, 255, .07), rgba(255, 255, 255, .03));
+      border: 1.5px solid rgba(255, 63, 164, .55);
+      border-radius: 22px;
+      padding: 18px 22px;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      box-shadow:
+        0 0 0 1px rgba(255, 255, 255, .06) inset,
+        0 18px 60px rgba(122, 44, 255, .25),
+        0 0 28px rgba(255, 63, 164, .25);
+    }
+    .card p {
+      margin: 0;
+      font-size: 14.5px;
+      line-height: 1.55;
+      color: var(--ink-dim);
+      text-align: center;
+    }
+    .card p strong {
+      color: #fff;
+      font-weight: 600;
+    }
+
+    /* Password form */
+    .pw-wrap {
+      width: min(520px, 100%);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      align-items: stretch;
+    }
+    .pw-label {
+      font-size: 13px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--msp-cyan);
+      text-align: center;
+      font-weight: 700;
+      text-shadow: 0 0 12px rgba(56, 225, 255, .5);
+    }
+
+    .pw-row {
+      display: flex;
+      gap: 10px;
+      align-items: stretch;
+    }
+
+    .pw-input {
+      flex: 1;
+      height: 56px;
+      padding: 0 22px;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 4px;
+      text-align: center;
+      color: #fff;
+      background: rgba(255, 255, 255, .08);
+      border: 2px solid rgba(255, 63, 164, .45);
+      border-radius: 999px;
+      outline: none;
+      transition: border-color .2s, box-shadow .2s, background .2s;
+    }
+    .pw-input::placeholder {
+      color: rgba(255, 255, 255, .45);
+      letter-spacing: 2px;
+      font-weight: 400;
+    }
+    .pw-input:focus {
+      border-color: var(--msp-yellow);
+      background: rgba(255, 255, 255, .12);
+      box-shadow:
+        0 0 0 4px rgba(255, 212, 0, .18),
+        0 0 28px rgba(255, 212, 0, .35);
+    }
+    .pw-input.shake {
+      border-color: var(--error);
+      animation: shake .45s cubic-bezier(.36, .07, .19, .97);
+    }
+    @keyframes shake {
+      10%, 90% { transform: translateX(-2px); }
+      20%, 80% { transform: translateX(4px); }
+      30%, 50%, 70% { transform: translateX(-7px); }
+      40%, 60% { transform: translateX(7px); }
+    }
+
+    .pw-btn {
+      position: relative;
+      height: 56px;
+      padding: 0 38px;
+      font-family: 'Fredoka One', cursive, sans-serif;
+      font-size: 19px;
+      letter-spacing: 1.5px;
+      color: #fff;
+      background: linear-gradient(135deg, #ff3fa4 0%, #cc00ff 100%);
+      border: 2.5px solid rgba(255, 255, 255, .55);
+      border-radius: 999px;
+      cursor: pointer;
+      box-shadow:
+        0 0 30px rgba(255, 63, 164, .6),
+        0 0 60px rgba(204, 0, 255, .35),
+        inset 0 1px 0 rgba(255, 255, 255, .35);
+      transition: transform .12s ease, box-shadow .15s ease, filter .15s ease;
+    }
+    .pw-btn:hover {
+      transform: translateY(-2px) scale(1.04);
+      filter: brightness(1.08);
+      box-shadow:
+        0 0 50px rgba(255, 63, 164, .8),
+        0 0 100px rgba(204, 0, 255, .5),
+        inset 0 1px 0 rgba(255, 255, 255, .45);
+    }
+    .pw-btn:active { transform: scale(.97); }
+    .pw-btn .arrow {
+      display: inline-block;
+      margin-left: 8px;
+      transition: transform .2s;
+    }
+    .pw-btn:hover .arrow { transform: translateX(4px); }
+
+    .pw-error {
+      min-height: 22px;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--error);
+      text-align: center;
+      opacity: 0;
+      transform: translateY(-4px);
+      transition: opacity .25s, transform .25s;
+      text-shadow: 0 0 10px rgba(255, 59, 110, .4);
+    }
+    .pw-error.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .pw-error .hint {
+      display: block;
+      margin-top: 4px;
+      color: var(--msp-cyan);
+      font-weight: 500;
+      font-style: italic;
+      text-shadow: 0 0 10px rgba(56, 225, 255, .4);
+    }
+
+    /* Footer credit */
+    .credit {
+      position: fixed;
+      bottom: 14px;
+      left: 0;
+      right: 0;
+      text-align: center;
+      font-size: 12px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, .4);
+      z-index: 1;
+    }
+    .credit b { color: var(--msp-pink); }
+
+    /* Flash container */
     #flash-container {
       display: none;
       width: 100vw;
@@ -151,112 +291,180 @@
       position: relative;
       z-index: 1;
     }
-
     embed, object {
       display: block;
       width: 100%;
       height: 100%;
     }
 
-    /* Error banner */
-    #error-msg {
-      display: none;
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      background: #cc0000dd;
-      color: #fff;
-      font-family: monospace;
-      font-size: 13px;
-      padding: 10px 16px;
-      z-index: 999;
-      backdrop-filter: blur(4px);
+    @media (max-width: 520px) {
+      .pw-row { flex-direction: column; }
+      .pw-btn { padding: 0 20px; }
     }
   </style>
 </head>
 <body>
 
-  <div id="start-screen">
-    <div class="logo">MovieStarPlanet<br><span>2013</span></div>
-    <div class="subtitle">Private server created by xavier</div>
-    <button id="start">▶ &nbsp; Enter the World</button>
-  </div>
+  <main id="gate-screen">
+    <h1 class="logo">
+      MovieStar<span class="star">★</span>Planet
+    </h1>
+    <p class="tagline">2013 · Private Server</p>
+
+    <section class="card">
+      <p>
+        This server has <strong>no intention of generating income</strong> &mdash; it exists
+        purely for <strong>archival and nostalgic purposes</strong>. All assets, characters,
+        artwork, and trademarks belong to <strong>MovieStarPlanet</strong> and their
+        respective owners.
+      </p>
+    </section>
+
+    <form class="pw-wrap" id="gate-form" autocomplete="off" novalidate>
+      <label class="pw-label" for="pw">Enter password to continue</label>
+      <div class="pw-row">
+        <input
+          id="pw"
+          class="pw-input"
+          type="password"
+          inputmode="numeric"
+          maxlength="32"
+          placeholder="••••"
+          aria-label="Password"
+          spellcheck="false"
+          autofocus>
+        <button id="continue-btn" class="pw-btn" type="submit">
+          Continue<span class="arrow">→</span>
+        </button>
+      </div>
+      <div id="pw-error" class="pw-error" role="alert" aria-live="polite"></div>
+    </form>
+  </main>
 
   <div id="flash-container"></div>
-  <div id="error-msg"></div>
+
+  <p class="credit">Private server created by <b>xavier</b></p>
 
   <script>
     // ══════════════════════════════════════════════════════════════════════════
-    // CONFIG — edit these two blocks only
+    // CONFIG — edit these two blocks only (UNCHANGED from working setup)
     // ══════════════════════════════════════════════════════════════════════════
 
     // ── ASSETS (SWF files, graphics, styles) ─────────────────────────────────
-    // GitHub raw works for the MAIN swf embed but child SWFs need proper MIME types.
-    // Move to Cloudflare Pages / Netlify if child assets fail to load.
     var CDN_BASE = "velvessences.github.io/MCDN/CDN";
     var SWF_FILE = "https://raw.githubusercontent.com/velvessences/MCDN/main/Main_20130527_172419.swf";
 
     // ── SERVER (your Railway backend) ─────────────────────────────────────────
     var SERVER = "mspserver-production.up.railway.app";
-//
     // ══════════════════════════════════════════════════════════════════════════
+
+    // ── PASSWORD GATE ────────────────────────────────────────────────────────
+    var PASSWORD = "2013";
+    var STORAGE_KEY = "msp2013_unlocked";
+
+    var HINTS = [
+      "Hint: it's the year this version of the game is from.",
+      "Hint: a four-digit number — and it's literally written at the top of this page.",
+      "Hint: read the tagline. \"2013 · Private Server\" — really, that's it. ☝️"
+    ];
 
     // ── FLASH VARS ──────────────────────────────────────────────────────────
     var flashVars = [
-      // Asset paths
-      "CustomBasePath="        + encodeURIComponent(CDN_BASE),
-      "cdnBasePath="           + encodeURIComponent(CDN_BASE),
-      "cdnLocalBasePath="      + encodeURIComponent(CDN_BASE),
-
-      // Server endpoints — override every localhost:1600 URL the game knows about
-      //"serverUrl="          + encodeURIComponent(SERVER + "/"),
-      //"webServiceUrl="      + encodeURIComponent(SERVER + "/WebService/Service.asmx"),
-      //"gatewayUrl="         + encodeURIComponent(SERVER + "/Gateway.aspx"),
-      //"userServiceUrl="     + encodeURIComponent(SERVER + "/WebService/User/UserService.asmx"),
-      //"profileServiceUrl="  + encodeURIComponent(SERVER + "/WebService/Profile/ProfileService.asmx"),
-      //"activityServiceUrl=" + encodeURIComponent(SERVER + "/WebService/Activity/ActivityService.asmx"),
-      //"scrapBlogServiceUrl="+ encodeURIComponent(SERVER + "/WebService/ScrapBlog/ScrapBlogService.asmx"),
-      //"themeServiceUrl="    + encodeURIComponent(SERVER + "/WebService/ThemeManager/ThemeManagerService.asmx"),
-      //"parentalConsentUrl=" + encodeURIComponent(SERVER + "/WebService/ParentalConsent/ParentalConsentWebService.asmx"),
-      //"gatewayUrl="         + encodeURIComponent(SERVER + "/Gateway.aspx"),
-     
+      "CustomBasePath="   + encodeURIComponent(CDN_BASE),
+      "cdnBasePath="      + encodeURIComponent(CDN_BASE),
+      "cdnLocalBasePath=" + encodeURIComponent(CDN_BASE),
       "isDevSite=false",
-      "isAdminSite=false",
+      "isAdminSite=false"
     ].join("&");
 
     // ── LAUNCH ──────────────────────────────────────────────────────────────
-    document.getElementById("start").addEventListener("click", function () {
-      document.getElementById("start-screen").style.display = "none";
+    function launchGame() {
+      var gate = document.getElementById("gate-screen");
+      var credit = document.querySelector(".credit");
+      gate.style.transition = "opacity .35s ease, transform .35s ease";
+      gate.style.opacity = "0";
+      gate.style.transform = "scale(.98)";
+      if (credit) credit.style.opacity = "0";
 
-      var container = document.getElementById("flash-container");
-      container.style.display = "block";
+      setTimeout(function () {
+        gate.style.display = "none";
+        if (credit) credit.style.display = "none";
 
-      // Use <object> + <embed> for maximum browser compat with Ruffle / old Flash
-      container.innerHTML =
-        '<object type="application/x-shockwave-flash"' +
-        '        data="' + SWF_FILE + '"' +
-        '        width="100%" height="100%">' +
-        '  <param name="movie"           value="' + SWF_FILE + '" />' +
-        '  <param name="FlashVars"       value="' + flashVars + '" />' +
-        '  <param name="allowScriptAccess" value="always" />' +
-        '  <param name="allowNetworking" value="all" />' +
-        '  <param name="allowFullScreen" value="true" />' +
-        '  <param name="wmode"           value="direct" />' +
-        '  <param name="quality"         value="low" />' +
-        '  <embed' +
-        '    src="'              + SWF_FILE  + '"' +
-        '    type="application/x-shockwave-flash"' +
-        '    FlashVars="'        + flashVars + '"' +
-        '    allowscriptaccess="always"' +
-        '    allownetworking="all"' +
-        '    allowfullscreen="true"' +
-        '    wmode="direct"' +
-        '    quality="low"' +
-        '    width="100%" height="100%">' +
-        '  </embed>' +
-        '</object>';
+        var container = document.getElementById("flash-container");
+        container.style.display = "block";
+
+        container.innerHTML =
+          '<object type="application/x-shockwave-flash"' +
+          '        data="' + SWF_FILE + '"' +
+          '        width="100%" height="100%">' +
+          '  <param name="movie"             value="' + SWF_FILE + '" />' +
+          '  <param name="FlashVars"         value="' + flashVars + '" />' +
+          '  <param name="allowScriptAccess" value="always" />' +
+          '  <param name="allowNetworking"   value="all" />' +
+          '  <param name="allowFullScreen"   value="true" />' +
+          '  <param name="wmode"             value="direct" />' +
+          '  <param name="quality"           value="low" />' +
+          '  <embed' +
+          '    src="'              + SWF_FILE  + '"' +
+          '    type="application/x-shockwave-flash"' +
+          '    FlashVars="'        + flashVars + '"' +
+          '    allowscriptaccess="always"' +
+          '    allownetworking="all"' +
+          '    allowfullscreen="true"' +
+          '    wmode="direct"' +
+          '    quality="low"' +
+          '    width="100%" height="100%">' +
+          '  </embed>' +
+          '</object>';
+      }, 350);
+    }
+
+    // ── GATE LOGIC ──────────────────────────────────────────────────────────
+    var wrongCount = 0;
+    var input    = document.getElementById("pw");
+    var errorEl  = document.getElementById("pw-error");
+    var form     = document.getElementById("gate-form");
+
+    // Already unlocked in this browser? Skip the gate.
+    try {
+      if (localStorage.getItem(STORAGE_KEY) === "1") {
+        launchGame();
+      }
+    } catch (e) { /* localStorage may be blocked */ }
+
+    function showError(msg, hint) {
+      errorEl.innerHTML = msg + (hint ? '<span class="hint">' + hint + '</span>' : "");
+      errorEl.classList.add("show");
+    }
+
+    function clearError() {
+      errorEl.classList.remove("show");
+    }
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var val = input.value.trim();
+
+      if (val === PASSWORD) {
+        clearError();
+        try { localStorage.setItem(STORAGE_KEY, "1"); } catch (e) {}
+        launchGame();
+        return;
+      }
+
+      // Wrong password — shake + escalating hint.
+      input.classList.remove("shake");
+      // force reflow so the animation can replay
+      void input.offsetWidth;
+      input.classList.add("shake");
+
+      var hint = HINTS[Math.min(wrongCount, HINTS.length - 1)];
+      showError("Incorrect password.", hint);
+      wrongCount++;
+      input.select();
     });
+
+    input.addEventListener("input", clearError);
   </script>
 
 </body>

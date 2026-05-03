@@ -347,12 +347,15 @@
 
   <script>
     // ══════════════════════════════════════════════════════════════════════════
-    // CONFIG — edit these two blocks only (UNCHANGED from working setup)
+    // CONFIG — edit these two blocks only
     // ══════════════════════════════════════════════════════════════════════════
 
     // ── ASSETS (SWF files, graphics, styles) ─────────────────────────────────
     var CDN_BASE = "velvessences.github.io/MCDN/CDN";
     var SWF_FILE = "https://raw.githubusercontent.com/velvessences/MCDN/main/Main_20111130_101735.swf";
+    
+    // We create an absolute URL format for the Flash base parameter
+    var ABSOLUTE_BASE = "https://" + CDN_BASE + "/";
 
     // ── SERVER (your Railway backend) ─────────────────────────────────────────
     var SERVER = "mspserver-production.up.railway.app";
@@ -377,6 +380,17 @@
       "isAdminSite=false"
     ].join("&");
 
+    // ── SNEAKY HIJACK (THE MAGIC FIX) ───────────────────────────────────────
+    // The AS3 code uses ExternalInterface.call("eval", "document.location.href")
+    // We intercept eval() to lie to the SWF so it uses your CDN instead of 127.0.0.1
+    var originalEval = window.eval;
+    window.eval = function(code) {
+      if (code === "document.location.href" || code === "window.location.href") {
+        return ABSOLUTE_BASE;
+      }
+      return originalEval(code);
+    };
+
     // ── LAUNCH ──────────────────────────────────────────────────────────────
     function launchGame() {
       var gate = document.getElementById("gate-screen");
@@ -393,12 +407,15 @@
         var container = document.getElementById("flash-container");
         container.style.display = "block";
 
+        // Notice the added "base" parameters below. This forces standard Flex 
+        // framework files (like styles.swf) to load relative to the CDN.
         container.innerHTML =
           '<object type="application/x-shockwave-flash"' +
           '        data="' + SWF_FILE + '"' +
           '        width="100%" height="100%">' +
           '  <param name="movie"             value="' + SWF_FILE + '" />' +
           '  <param name="FlashVars"         value="' + flashVars + '" />' +
+          '  <param name="base"              value="' + ABSOLUTE_BASE + '" />' +
           '  <param name="allowScriptAccess" value="always" />' +
           '  <param name="allowNetworking"   value="all" />' +
           '  <param name="allowFullScreen"   value="true" />' +
@@ -408,6 +425,7 @@
           '    src="'              + SWF_FILE  + '"' +
           '    type="application/x-shockwave-flash"' +
           '    FlashVars="'        + flashVars + '"' +
+          '    base="'             + ABSOLUTE_BASE + '"' +
           '    allowscriptaccess="always"' +
           '    allownetworking="all"' +
           '    allowfullscreen="true"' +
@@ -425,12 +443,11 @@
     var errorEl  = document.getElementById("pw-error");
     var form     = document.getElementById("gate-form");
 
-    // Already unlocked in this browser? Skip the gate.
     try {
       if (localStorage.getItem(STORAGE_KEY) === "1") {
         launchGame();
       }
-    } catch (e) { /* localStorage may be blocked */ }
+    } catch (e) { }
 
     function showError(msg, hint) {
       errorEl.innerHTML = msg + (hint ? '<span class="hint">' + hint + '</span>' : "");
@@ -452,9 +469,7 @@
         return;
       }
 
-      // Wrong password — shake + escalating hint.
       input.classList.remove("shake");
-      // force reflow so the animation can replay
       void input.offsetWidth;
       input.classList.add("shake");
 
